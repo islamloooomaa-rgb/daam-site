@@ -285,14 +285,17 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 
 | مقاس شريحة القالب | السؤال داخل PowerPoint | البدائل داخل PowerPoint |
 |---|---:|---:|
-| A4 أو 4:3 (عرض الشريحة 27.5 سم أو أقل) | 24 | 22 |
+| A4 رأسي 21 × 29.7 سم (مقاس قالب الاختبار المعتمد للمدرسة) | 25 | 23 |
+| A4 أفقي أو 4:3 (عرض الشريحة 27.5 سم أو أقل) | 24 | 22 |
 | عريض 16:9 (عرض الشريحة 33.867 سم) | 29 | 26 |
 | مقاس آخر | 24 ÷ (عرض الطباعة 28.7 سم ÷ عرض الشريحة)، مقرّباً للأعلى | 22 ÷ (عرض الطباعة 28.7 سم ÷ عرض الشريحة)، مقرّباً للأعلى |
 
 4. إذا كانت الشريحة رأسية (Portrait)، استخدم عرض الطباعة 20 سم بدل 28.7 سم في الحساب (الورقة A4 بعد هوامش الطابعة).
 5. لا تستخدم أي حجم أصغر من الجدول، وإذا لم تتسع الشريحة أضف شرائح جديدة.
-6. اذكر في نهاية عملك مقاس شريحة القالب وأحجام الخط التي استخدمتها.
-7. ذكّر المعلم بطباعة الاختبار بخيار «شرائح بملء الصفحة» مع تفعيل «ملاءمة للورق»، ودون طباعة عدة شرائح في الورقة الواحدة، لأن ذلك يصغّر الخط.
+6. في قالب المدرسة المعتمد: نصوص «س ( ): اكتب السؤال هنا» مكتوبة بخط Arial حجم 16، وهي أماكن للأسئلة وليست عناصر ثابتة. اكتب الأسئلة بخط Arial بالأحجام أعلاه (25 للسؤال و23 للبدائل)، ولا تُبقِ حجم 16. العناوين الثابتة في القالب (مثل «الجزء: الموضوعي» و«لكل مفردة … درجات» وبيانات الغلاف) تبقى بخطها وحجمها كما هي، مع تعديل قيمها لتطابق الاختبار.
+7. القالب يتسع لثلاثة أسئلة في الشريحة بحجم 16؛ بالأحجام المطلوبة ضع سؤالاً أو سؤالين في الشريحة، وأضف شرائح بنفس التصميم حتى تكتمل الأسئلة.
+8. اذكر في نهاية عملك مقاس شريحة القالب وأحجام الخط التي استخدمتها.
+9. ذكّر المعلم بطباعة الاختبار بخيار «شرائح بملء الصفحة» مع تفعيل «ملاءمة للورق»، ودون طباعة عدة شرائح في الورقة الواحدة، لأن ذلك يصغّر الخط.
 
 ### ملاحظة مهمة بشأن القالب المعتمد:
 
@@ -698,14 +701,17 @@ When a slide is printed on A4 paper, PowerPoint enlarges or shrinks it to fill t
 
 | Template slide size | Question in PowerPoint | Options in PowerPoint |
 |---|---:|---:|
-| A4 or 4:3 (slide width 27.5 cm or less) | 24 | 22 |
+| A4 portrait 21 × 29.7 cm (the size of the school's approved exam template) | 25 | 23 |
+| A4 landscape or 4:3 (slide width 27.5 cm or less) | 24 | 22 |
 | Widescreen 16:9 (slide width 33.867 cm) | 29 | 26 |
 | Any other size | 24 ÷ (printable width 28.7 cm ÷ slide width), rounded up | 22 ÷ (printable width 28.7 cm ÷ slide width), rounded up |
 
 4. If the slide is portrait, use a printable width of 20 cm instead of 28.7 cm in the calculation (A4 paper after printer margins).
 5. Never use a size smaller than the table; if the slide cannot hold the content, add new slides.
-6. At the end of your work, state the template's slide size and the font sizes you used.
-7. Remind the teacher to print the exam with "Full Page Slides" and "Scale to Fit Paper" turned on, and not several slides per sheet, because that shrinks the font.
+6. In the school's approved template, the "س ( ): اكتب السؤال هنا" (write the question here) texts are in Arial 16; they are places for questions, not fixed elements. Write the questions in Arial at the sizes above (25 for questions, 23 for options) and do not keep size 16. The template's fixed headings (such as "الجزء: الموضوعي", "لكل مفردة … درجات" and the cover details) keep their font and size, with their values updated to match the exam.
+7. The template fits three questions per slide at size 16; at the required sizes put one or two questions per slide and add slides with the same design until all questions are in.
+8. At the end of your work, state the template's slide size and the font sizes you used.
+9. Remind the teacher to print the exam with "Full Page Slides" and "Scale to Fit Paper" turned on, and not several slides per sheet, because that shrinks the font.
 
 ### Important note about the approved template:
 
@@ -1123,14 +1129,17 @@ I want 3 separate files delivered:
 
 | مقاس شريحة القالب | السؤال داخل PowerPoint | البدائل داخل PowerPoint |
 |---|---:|---:|
-| A4 أو 4:3 (عرض الشريحة 27.5 سم أو أقل) | 24 | 22 |
+| A4 رأسي 21 × 29.7 سم (مقاس قالب الاختبار المعتمد للمدرسة) | 25 | 23 |
+| A4 أفقي أو 4:3 (عرض الشريحة 27.5 سم أو أقل) | 24 | 22 |
 | عريض 16:9 (عرض الشريحة 33.867 سم) | 29 | 26 |
 | مقاس آخر | 24 ÷ (عرض الطباعة 28.7 سم ÷ عرض الشريحة)، مقرّباً للأعلى | 22 ÷ (عرض الطباعة 28.7 سم ÷ عرض الشريحة)، مقرّباً للأعلى |
 
 4. إذا كانت الشريحة رأسية (Portrait)، استخدم عرض الطباعة 20 سم بدل 28.7 سم في الحساب (الورقة A4 بعد هوامش الطابعة).
 5. لا تستخدم أي حجم أصغر من الجدول، وإذا لم تتسع الشريحة أضف شرائح جديدة.
-6. اذكر في نهاية عملك مقاس شريحة القالب وأحجام الخط التي استخدمتها.
-7. ذكّر المعلم بطباعة الاختبار بخيار «شرائح بملء الصفحة» مع تفعيل «ملاءمة للورق»، ودون طباعة عدة شرائح في الورقة الواحدة، لأن ذلك يصغّر الخط.
+6. في قالب المدرسة المعتمد: نصوص «س ( ): اكتب السؤال هنا» مكتوبة بخط Arial حجم 16، وهي أماكن للأسئلة وليست عناصر ثابتة. اكتب الأسئلة بخط Arial بالأحجام أعلاه (25 للسؤال و23 للبدائل)، ولا تُبقِ حجم 16. العناوين الثابتة في القالب (مثل «الجزء: الموضوعي» و«لكل مفردة … درجات» وبيانات الغلاف) تبقى بخطها وحجمها كما هي، مع تعديل قيمها لتطابق الاختبار.
+7. القالب يتسع لثلاثة أسئلة في الشريحة بحجم 16؛ بالأحجام المطلوبة ضع سؤالاً أو سؤالين في الشريحة، وأضف شرائح بنفس التصميم حتى تكتمل الأسئلة.
+8. اذكر في نهاية عملك مقاس شريحة القالب وأحجام الخط التي استخدمتها.
+9. ذكّر المعلم بطباعة الاختبار بخيار «شرائح بملء الصفحة» مع تفعيل «ملاءمة للورق»، ودون طباعة عدة شرائح في الورقة الواحدة، لأن ذلك يصغّر الخط.
 
 ### ملاحظة مهمة بشأن القالب المعتمد:
 
@@ -1535,14 +1544,17 @@ When a slide is printed on A4 paper, PowerPoint enlarges or shrinks it to fill t
 
 | Template slide size | Question in PowerPoint | Options in PowerPoint |
 |---|---:|---:|
-| A4 or 4:3 (slide width 27.5 cm or less) | 24 | 22 |
+| A4 portrait 21 × 29.7 cm (the size of the school's approved exam template) | 25 | 23 |
+| A4 landscape or 4:3 (slide width 27.5 cm or less) | 24 | 22 |
 | Widescreen 16:9 (slide width 33.867 cm) | 29 | 26 |
 | Any other size | 24 ÷ (printable width 28.7 cm ÷ slide width), rounded up | 22 ÷ (printable width 28.7 cm ÷ slide width), rounded up |
 
 4. If the slide is portrait, use a printable width of 20 cm instead of 28.7 cm in the calculation (A4 paper after printer margins).
 5. Never use a size smaller than the table; if the slide cannot hold the content, add new slides.
-6. At the end of your work, state the template's slide size and the font sizes you used.
-7. Remind the teacher to print the exam with "Full Page Slides" and "Scale to Fit Paper" turned on, and not several slides per sheet, because that shrinks the font.
+6. In the school's approved template, the "س ( ): اكتب السؤال هنا" (write the question here) texts are in Arial 16; they are places for questions, not fixed elements. Write the questions in Arial at the sizes above (25 for questions, 23 for options) and do not keep size 16. The template's fixed headings (such as "الجزء: الموضوعي", "لكل مفردة … درجات" and the cover details) keep their font and size, with their values updated to match the exam.
+7. The template fits three questions per slide at size 16; at the required sizes put one or two questions per slide and add slides with the same design until all questions are in.
+8. At the end of your work, state the template's slide size and the font sizes you used.
+9. Remind the teacher to print the exam with "Full Page Slides" and "Scale to Fit Paper" turned on, and not several slides per sheet, because that shrinks the font.
 
 ### Important note about the approved template:
 
