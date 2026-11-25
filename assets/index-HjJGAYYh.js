@@ -264,15 +264,35 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 ### في اختبار نهاية الفصل (PowerPoint):
 
 - إعطاء الأولوية القصوى لوضوح الأسئلة أمام الطالب.
-- استخدام خط عربي واضح وكبير.
-- حجم نص السؤال لا يقل عن 24 نقطة، ويفضل 26–28 نقطة.
-- حجم بدائل الاختيار من متعدد لا يقل عن 22 نقطة.
+- نوع الخط: Arial أو Tahoma للنص العربي (أو Dubai إذا كان مستخدماً في القالب ومتوفراً)، وArial أو Calibri للنص الإنجليزي، مع استخدام خط واحد في الاختبار كله.
+- حجم نص السؤال 24 نقطة على الورقة المطبوعة.
+- حجم بدائل الاختيار من متعدد 22 نقطة على الورقة المطبوعة.
+- يجب أن تكون هذه الأحجام هي الأحجام الفعلية بعد الطباعة، وليست مجرد الأحجام المكتوبة داخل PowerPoint (انظر بند «حجم الشريحة» أدناه).
 - جعل الأرقام والرموز والدرجات واضحة وسهلة التمييز.
 - عدم تصغير الخط بهدف احتواء عدد أكبر من الأسئلة في الشريحة.
 - إذا لم تتسع الشريحة للأسئلة بالخط المناسب، أضف شرائح جديدة مع المحافظة على التصميم الأصلي للقالب.
 - تجنب تداخل النصوص أو تقارب الأسطر أو ازدحام الصور والاختيارات.
 - اجعل مساحة الإجابة مناسبة لحجم كتابة الطالب.
 - اترك مسافات كافية بين الاختيارات حتى يستطيع الطالب قراءتها وتحديد الإجابة بسهولة.
+
+### حجم الشريحة حتى لا يصغر الخط عند الطباعة:
+
+عند طباعة الشريحة على ورقة A4 يكبّر PowerPoint الشريحة أو يصغّرها لتملأ الورقة، فيتغير حجم الخط الفعلي على الورق. لذلك:
+
+1. قبل إدخال الأسئلة، افتح «تصميم ← حجم الشريحة» في القالب، وسجّل مقاس الشريحة.
+2. لا تغيّر مقاس شرائح القالب، لأن ذلك يشوّه تصميمه المعتمد.
+3. احسب حجم الخط داخل PowerPoint بحيث يبقى على الورق 24 نقطة للسؤال و22 نقطة للبدائل:
+
+| مقاس شريحة القالب | السؤال داخل PowerPoint | البدائل داخل PowerPoint |
+|---|---:|---:|
+| A4 أو 4:3 (عرض الشريحة 27.5 سم أو أقل) | 24 | 22 |
+| عريض 16:9 (عرض الشريحة 33.867 سم) | 29 | 26 |
+| مقاس آخر | 24 ÷ (عرض الطباعة 28.7 سم ÷ عرض الشريحة)، مقرّباً للأعلى | 22 ÷ (عرض الطباعة 28.7 سم ÷ عرض الشريحة)، مقرّباً للأعلى |
+
+4. إذا كانت الشريحة رأسية (Portrait)، استخدم عرض الطباعة 20 سم بدل 28.7 سم في الحساب (الورقة A4 بعد هوامش الطابعة).
+5. لا تستخدم أي حجم أصغر من الجدول، وإذا لم تتسع الشريحة أضف شرائح جديدة.
+6. اذكر في نهاية عملك مقاس شريحة القالب وأحجام الخط التي استخدمتها.
+7. ذكّر المعلم بطباعة الاختبار بخيار «شرائح بملء الصفحة» مع تفعيل «ملاءمة للورق»، ودون طباعة عدة شرائح في الورقة الواحدة، لأن ذلك يصغّر الخط.
 
 ### ملاحظة مهمة بشأن القالب المعتمد:
 
@@ -444,6 +464,7 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 - مجموع درجاته 100 درجة.
 - بخط كبير وواضح ومريح للقراءة.
 - مع إضافة شرائح عند الحاجة بدلاً من تصغير الخط.
+- السؤال 24 نقطة والبدائل 22 نقطة على الورقة المطبوعة، وفق جدول «حجم الشريحة».
 - بحجم ملف صغير دون التأثير على جودة العرض والطباعة.
 
 ## الملف الثالث: نموذج الإجابة
@@ -656,15 +677,35 @@ Design every file so that it is easy to read for students of determination, taki
 ### In the end-of-semester exam (PowerPoint):
 
 - Give top priority to how clearly the student can read the questions.
-- Use a large, clear Arabic font.
-- Question text no smaller than 24 pt, preferably 26–28 pt.
-- Multiple-choice options no smaller than 22 pt.
+- Font: Arial or Tahoma for Arabic text (or Dubai if the template uses it and it is available), and Arial or Calibri for English text; use one font throughout the exam.
+- Question text 24 pt on the printed page.
+- Multiple-choice options 22 pt on the printed page.
+- These must be the real sizes after printing, not just the sizes typed in PowerPoint (see "Slide size" below).
 - Make numbers, symbols and marks clear and easy to tell apart.
 - Do not shrink the font to fit more questions on a slide.
 - If a slide cannot hold the questions at a suitable size, add new slides while keeping the template's original design.
 - Avoid overlapping text, cramped lines, and crowded pictures and options.
 - Make the answer space suit the size of the student's handwriting.
 - Leave enough space between the options so the student can read them and mark the answer easily.
+
+### Slide size, so the font does not shrink when printed:
+
+When a slide is printed on A4 paper, PowerPoint enlarges or shrinks it to fill the page, which changes the real font size on paper. Therefore:
+
+1. Before adding the questions, open "Design → Slide Size" in the template and note the slide size.
+2. Do not change the template's slide size, because that distorts its approved design.
+3. Set the font size in PowerPoint so that on paper the question stays 24 pt and the options 22 pt:
+
+| Template slide size | Question in PowerPoint | Options in PowerPoint |
+|---|---:|---:|
+| A4 or 4:3 (slide width 27.5 cm or less) | 24 | 22 |
+| Widescreen 16:9 (slide width 33.867 cm) | 29 | 26 |
+| Any other size | 24 ÷ (printable width 28.7 cm ÷ slide width), rounded up | 22 ÷ (printable width 28.7 cm ÷ slide width), rounded up |
+
+4. If the slide is portrait, use a printable width of 20 cm instead of 28.7 cm in the calculation (A4 paper after printer margins).
+5. Never use a size smaller than the table; if the slide cannot hold the content, add new slides.
+6. At the end of your work, state the template's slide size and the font sizes you used.
+7. Remind the teacher to print the exam with "Full Page Slides" and "Scale to Fit Paper" turned on, and not several slides per sheet, because that shrinks the font.
 
 ### Important note about the approved template:
 
@@ -836,6 +877,7 @@ I want 3 separate files delivered:
 - Total of 100 marks.
 - A large, clear font that is comfortable to read.
 - Adds slides when needed instead of shrinking the font.
+- Question 24 pt and options 22 pt on the printed page, following the "Slide size" table.
 - A small file size without lowering display and print quality.
 
 ## File 3: The answer key
@@ -866,6 +908,7 @@ I want 3 separate files delivered:
 **The final goal:** to produce complete study notes and an end-of-semester exam that match the teaching plan, the subject textbook and the general guidelines for exams of students of determination, while fully keeping the school's official approved exam template, giving the student a comfortable and clear reading experience, and keeping file sizes small so they are easy to share and upload to the Daam platform.
 `)},Ln=()=>In(Pn()),Rn=()=>{let e=Fn();return e?`<p class="xs mut">${p(`آخر تحديث للأمر: `,`Prompt last updated: `)}${g(e.at)} — ${m(e.by)}</p>`:``},zn=()=>`<div class="row">${K(`promptCopy`,p(`نسخ الأمر`,`Copy prompt`),{cls:`p`,ic:`copy`})}${K(`promptDl`,p(`تنزيل الأمر كملف`,`Download as a file`),{ic:`dl`})}</div>`,Bn=()=>{let e=[[`blue`,`file`,p(`الخطة التربوية الفردية`,`Individual Education Plan (IEP)`),p(`خطة الطالب للفصل الدراسي: الأهداف والمهارات المطلوب تدريسها وقياسها.`,`The student’s plan for the semester: the objectives and skills to teach and assess.`),``],[`green`,`book`,p(`كتاب المادة`,`Subject textbook`),p(`كتاب المادة للفصل الحالي، وهو المرجع لمحتوى المذكرة وأسئلة الاختبار.`,`The current semester’s textbook, the reference for the notes and the exam questions.`),``],[`amber`,`up`,p(`قالب الاختبار المعتمد`,`Approved exam template`),p(`ملف PowerPoint من «القوالب المعتمدة» في المنصة، يُستخدم كما هو دون تغيير تصميمه.`,`The PowerPoint file from “Approved templates” on the platform, used as it is without changing its design.`),K(`go`,p(`فتح القوالب المعتمدة`,`Open approved templates`),{cls:`s`,ic:`dl`,d:{view:`templates`}})]];return`<div class="card col" style="gap:10px"><h2>${p(`أرفق هذه الملفات الثلاثة مع الأمر في محادثة Claude`,`Attach these three files with the prompt in the Claude chat`)}</h2>
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:10px">${e.map(([e,t,n,r,i],a)=>`<div class="col" style="gap:6px;background:var(--${e}-b);color:var(--ink);border-radius:12px;padding:14px;border-inline-start:5px solid var(--${e})"><div class="row" style="gap:8px;color:var(--${e})"><span class="b" style="font-size:1.4rem">${a+1}</span>${E(t)}<span class="b" style="font-size:1.05rem">${n}</span></div><span class="sm">${r}</span>${i}</div>`).join(``)}</div>
+  <p class="sm" style="background:var(--soft);border-radius:10px;padding:10px 12px;margin:0">${E(`print`)} <span class="b">${p(`عند طباعة الاختبار:`,`When printing the exam:`)}</span> ${p(`اختر «شرائح بملء الصفحة» وفعّل «ملاءمة للورق»، ولا تطبع أكثر من شريحة في الورقة، حتى يبقى خط السؤال 24 والبدائل 22.`,`choose “Full Page Slides” and turn on “Scale to Fit Paper”, and never print more than one slide per sheet, so questions stay 24 pt and options 22 pt.`)}</p>
   <p class="xs mut">${p(`لا تكتب اسم الطالب أو بياناته الشخصية داخل محادثة Claude.`,`Do not type the student’s name or personal details in the Claude chat.`)}</p></div>`};B.t.prompt=()=>{let e=Pn();return`${q(`أمر متطلبات منصة دعم`,`Daam Requirements Prompt`,p(`انسخ الأمر والصقه في محادثة جديدة مع Claude، وأرفق معه الملفات الثلاثة التالية. سيُعدّ لك Claude المذكرة التعليمية واختبار نهاية الفصل ونموذج الإجابة.`,`Copy the prompt into a new chat with Claude and attach the three files below. Claude will prepare the study notes, the end-of-semester exam and the answer key.`))}
   ${Bn()}
   <div class="row sp"><div class="row"><span class="sm mut">${p(`لغة الأمر:`,`Prompt language:`)}</span>${[[`ar`,`العربية`],[`en`,`English`]].map(([t,n])=>`<button class="chk ${e===t?`on`:``}" data-act="setv" data-k="plang" data-val="${t}">${n}</button>`).join(``)}</div>${zn()}</div>
@@ -1059,15 +1102,35 @@ I want 3 separate files delivered:
 ### في اختبار نهاية الفصل (PowerPoint):
 
 - إعطاء الأولوية القصوى لوضوح الأسئلة أمام الطالب.
-- استخدام خط عربي واضح وكبير.
-- حجم نص السؤال لا يقل عن 24 نقطة، ويفضل 26–28 نقطة.
-- حجم بدائل الاختيار من متعدد لا يقل عن 22 نقطة.
+- نوع الخط: Arial أو Tahoma للنص العربي (أو Dubai إذا كان مستخدماً في القالب ومتوفراً)، وArial أو Calibri للنص الإنجليزي، مع استخدام خط واحد في الاختبار كله.
+- حجم نص السؤال 24 نقطة على الورقة المطبوعة.
+- حجم بدائل الاختيار من متعدد 22 نقطة على الورقة المطبوعة.
+- يجب أن تكون هذه الأحجام هي الأحجام الفعلية بعد الطباعة، وليست مجرد الأحجام المكتوبة داخل PowerPoint (انظر بند «حجم الشريحة» أدناه).
 - جعل الأرقام والرموز والدرجات واضحة وسهلة التمييز.
 - عدم تصغير الخط بهدف احتواء عدد أكبر من الأسئلة في الشريحة.
 - إذا لم تتسع الشريحة للأسئلة بالخط المناسب، أضف شرائح جديدة مع المحافظة على التصميم الأصلي للقالب.
 - تجنب تداخل النصوص أو تقارب الأسطر أو ازدحام الصور والاختيارات.
 - اجعل مساحة الإجابة مناسبة لحجم كتابة الطالب.
 - اترك مسافات كافية بين الاختيارات حتى يستطيع الطالب قراءتها وتحديد الإجابة بسهولة.
+
+### حجم الشريحة حتى لا يصغر الخط عند الطباعة:
+
+عند طباعة الشريحة على ورقة A4 يكبّر PowerPoint الشريحة أو يصغّرها لتملأ الورقة، فيتغير حجم الخط الفعلي على الورق. لذلك:
+
+1. قبل إدخال الأسئلة، افتح «تصميم ← حجم الشريحة» في القالب، وسجّل مقاس الشريحة.
+2. لا تغيّر مقاس شرائح القالب، لأن ذلك يشوّه تصميمه المعتمد.
+3. احسب حجم الخط داخل PowerPoint بحيث يبقى على الورق 24 نقطة للسؤال و22 نقطة للبدائل:
+
+| مقاس شريحة القالب | السؤال داخل PowerPoint | البدائل داخل PowerPoint |
+|---|---:|---:|
+| A4 أو 4:3 (عرض الشريحة 27.5 سم أو أقل) | 24 | 22 |
+| عريض 16:9 (عرض الشريحة 33.867 سم) | 29 | 26 |
+| مقاس آخر | 24 ÷ (عرض الطباعة 28.7 سم ÷ عرض الشريحة)، مقرّباً للأعلى | 22 ÷ (عرض الطباعة 28.7 سم ÷ عرض الشريحة)، مقرّباً للأعلى |
+
+4. إذا كانت الشريحة رأسية (Portrait)، استخدم عرض الطباعة 20 سم بدل 28.7 سم في الحساب (الورقة A4 بعد هوامش الطابعة).
+5. لا تستخدم أي حجم أصغر من الجدول، وإذا لم تتسع الشريحة أضف شرائح جديدة.
+6. اذكر في نهاية عملك مقاس شريحة القالب وأحجام الخط التي استخدمتها.
+7. ذكّر المعلم بطباعة الاختبار بخيار «شرائح بملء الصفحة» مع تفعيل «ملاءمة للورق»، ودون طباعة عدة شرائح في الورقة الواحدة، لأن ذلك يصغّر الخط.
 
 ### ملاحظة مهمة بشأن القالب المعتمد:
 
@@ -1239,6 +1302,7 @@ I want 3 separate files delivered:
 - مجموع درجاته 100 درجة.
 - بخط كبير وواضح ومريح للقراءة.
 - مع إضافة شرائح عند الحاجة بدلاً من تصغير الخط.
+- السؤال 24 نقطة والبدائل 22 نقطة على الورقة المطبوعة، وفق جدول «حجم الشريحة».
 - بحجم ملف صغير دون التأثير على جودة العرض والطباعة.
 
 ## الملف الثالث: نموذج الإجابة
@@ -1450,15 +1514,35 @@ Design every file so that it is easy to read for students of determination, taki
 ### In the end-of-semester exam (PowerPoint):
 
 - Give top priority to how clearly the student can read the questions.
-- Use a large, clear Arabic font.
-- Question text no smaller than 24 pt, preferably 26–28 pt.
-- Multiple-choice options no smaller than 22 pt.
+- Font: Arial or Tahoma for Arabic text (or Dubai if the template uses it and it is available), and Arial or Calibri for English text; use one font throughout the exam.
+- Question text 24 pt on the printed page.
+- Multiple-choice options 22 pt on the printed page.
+- These must be the real sizes after printing, not just the sizes typed in PowerPoint (see "Slide size" below).
 - Make numbers, symbols and marks clear and easy to tell apart.
 - Do not shrink the font to fit more questions on a slide.
 - If a slide cannot hold the questions at a suitable size, add new slides while keeping the template's original design.
 - Avoid overlapping text, cramped lines, and crowded pictures and options.
 - Make the answer space suit the size of the student's handwriting.
 - Leave enough space between the options so the student can read them and mark the answer easily.
+
+### Slide size, so the font does not shrink when printed:
+
+When a slide is printed on A4 paper, PowerPoint enlarges or shrinks it to fill the page, which changes the real font size on paper. Therefore:
+
+1. Before adding the questions, open "Design → Slide Size" in the template and note the slide size.
+2. Do not change the template's slide size, because that distorts its approved design.
+3. Set the font size in PowerPoint so that on paper the question stays 24 pt and the options 22 pt:
+
+| Template slide size | Question in PowerPoint | Options in PowerPoint |
+|---|---:|---:|
+| A4 or 4:3 (slide width 27.5 cm or less) | 24 | 22 |
+| Widescreen 16:9 (slide width 33.867 cm) | 29 | 26 |
+| Any other size | 24 ÷ (printable width 28.7 cm ÷ slide width), rounded up | 22 ÷ (printable width 28.7 cm ÷ slide width), rounded up |
+
+4. If the slide is portrait, use a printable width of 20 cm instead of 28.7 cm in the calculation (A4 paper after printer margins).
+5. Never use a size smaller than the table; if the slide cannot hold the content, add new slides.
+6. At the end of your work, state the template's slide size and the font sizes you used.
+7. Remind the teacher to print the exam with "Full Page Slides" and "Scale to Fit Paper" turned on, and not several slides per sheet, because that shrinks the font.
 
 ### Important note about the approved template:
 
@@ -1630,6 +1714,7 @@ I want 3 separate files delivered:
 - Total of 100 marks.
 - A large, clear font that is comfortable to read.
 - Adds slides when needed instead of shrinking the font.
+- Question 24 pt and options 22 pt on the printed page, following the "Slide size" table.
 - A small file size without lowering display and print quality.
 
 ## File 3: The answer key
