@@ -379,6 +379,18 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 
 المطلوب هو تعبئة القالب بالأسئلة والبيانات المطلوبة فقط.
 
+## البيانات المتغيرة في القالب التي يجب تعديلها لتطابق الاختبار
+
+قالب المدرسة يحتوي على بيانات مكتوبة مسبقاً كمثال، ويجب تعديل قيمها (دون تغيير خطها أو حجمها أو مكانها):
+
+1. **الفصل الدراسي في الغلاف:** اكتب الفصل الصحيح (الأول أو الثاني أو الثالث) كما هو في الخطة التعليمية المرفقة. إذا لم يكن الفصل واضحاً في الملفات، اسأل المعلم قبل إعداد الاختبار ولا تُبقِ القيمة المكتوبة في القالب.
+2. **العام الدراسي:** 2026-2027.
+3. **بيانات الغلاف الأخرى:** المادة والصف، وتبقى خانات اسم الطالب ورقمه فارغة ليكتبها الطالب.
+4. **جدول الدرجات في الغلاف:** الجزء الموضوعي (الاختيار من متعدد) = 75، والجزء المقالي (الأنواع الأخرى المقررة للحلقة) = 25، والمجموع = 100.
+5. **عنوان الجزء في كل شريحة:** «الجزء: الموضوعي» لشرائح الاختيار من متعدد، و«الجزء: المقالي» لشرائح الأنواع الأخرى.
+6. **عبارة «لكل مفردة … درجات» في كل شريحة:** اكتب الدرجة الصحيحة لأسئلة تلك الشريحة وفق توزيعك. القيمة الموجودة في القالب (5 درجات) مثال فقط، ولا تصلح دائماً؛ فمثلاً في الحلقة الأولى 15 سؤالاً × 5 = 75 فقط. إذا اختلفت درجات الأسئلة داخل الشريحة الواحدة، اكتب درجة كل سؤال بجواره.
+7. تحقق في النهاية من أن مجموع درجات الأسئلة يساوي 75 للجزء الموضوعي و25 للجزء المقالي، وأن ذلك مطابق لجدول الدرجات في الغلاف ولنموذج الإجابة.
+
 لا تنشئ اختباراً جديداً بتصميم مختلف، ولا تحول القالب إلى Word أو PDF باعتباره الملف الأصلي المطلوب.
 
 إذا لم تكن المساحة المتاحة في القالب كافية لعرض الأسئلة بوضوح، أضف شرائح جديدة باستخدام التصميم والتنسيق الأصليين للقالب، ولا تحذف أو تختصر محتوى الأسئلة ولا تصغر الخط بصورة تضر بوضوح القراءة.
@@ -794,6 +806,18 @@ Keep all of the following:
 - Any fixed instructions or data in the template.
 
 The task is only to fill the template with the required questions and data.
+
+## Template details that must be updated to match the exam
+
+The school template contains sample values that must be changed (without changing their font, size or position):
+
+1. **Semester on the cover:** write the correct semester (first, second or third) as stated in the attached teaching plan. If the semester is not clear from the files, ask the teacher before preparing the exam; do not keep the value written in the template.
+2. **Academic year:** 2026-2027.
+3. **Other cover details:** the subject and grade; the student name and number boxes stay empty for the student to fill in.
+4. **Marks table on the cover:** objective part (multiple choice) = 75, written part (the other types set for the cycle) = 25, total = 100.
+5. **Part heading on each slide:** "الجزء: الموضوعي" (objective part) for multiple-choice slides and "الجزء: المقالي" (written part) for slides with the other types.
+6. **"لكل مفردة … درجات" (marks per item) on each slide:** write the correct mark for that slide's questions according to your distribution. The value in the template (5 marks) is only an example and does not always fit; for example, in Cycle 1, 15 questions × 5 = only 75. If questions on one slide carry different marks, write each question's mark next to it.
+7. Finally, check that the question marks add up to 75 for the objective part and 25 for the written part, matching the marks table on the cover and the answer key.
 
 Do not create a new exam with a different design, and do not convert the template to Word or PDF as the required original file.
 
@@ -1223,6 +1247,18 @@ I want 3 separate files delivered:
 
 المطلوب هو تعبئة القالب بالأسئلة والبيانات المطلوبة فقط.
 
+## البيانات المتغيرة في القالب التي يجب تعديلها لتطابق الاختبار
+
+قالب المدرسة يحتوي على بيانات مكتوبة مسبقاً كمثال، ويجب تعديل قيمها (دون تغيير خطها أو حجمها أو مكانها):
+
+1. **الفصل الدراسي في الغلاف:** اكتب الفصل الصحيح (الأول أو الثاني أو الثالث) كما هو في الخطة التعليمية المرفقة. إذا لم يكن الفصل واضحاً في الملفات، اسأل المعلم قبل إعداد الاختبار ولا تُبقِ القيمة المكتوبة في القالب.
+2. **العام الدراسي:** 2026-2027.
+3. **بيانات الغلاف الأخرى:** المادة والصف، وتبقى خانات اسم الطالب ورقمه فارغة ليكتبها الطالب.
+4. **جدول الدرجات في الغلاف:** الجزء الموضوعي (الاختيار من متعدد) = 75، والجزء المقالي (الأنواع الأخرى المقررة للحلقة) = 25، والمجموع = 100.
+5. **عنوان الجزء في كل شريحة:** «الجزء: الموضوعي» لشرائح الاختيار من متعدد، و«الجزء: المقالي» لشرائح الأنواع الأخرى.
+6. **عبارة «لكل مفردة … درجات» في كل شريحة:** اكتب الدرجة الصحيحة لأسئلة تلك الشريحة وفق توزيعك. القيمة الموجودة في القالب (5 درجات) مثال فقط، ولا تصلح دائماً؛ فمثلاً في الحلقة الأولى 15 سؤالاً × 5 = 75 فقط. إذا اختلفت درجات الأسئلة داخل الشريحة الواحدة، اكتب درجة كل سؤال بجواره.
+7. تحقق في النهاية من أن مجموع درجات الأسئلة يساوي 75 للجزء الموضوعي و25 للجزء المقالي، وأن ذلك مطابق لجدول الدرجات في الغلاف ولنموذج الإجابة.
+
 لا تنشئ اختباراً جديداً بتصميم مختلف، ولا تحول القالب إلى Word أو PDF باعتباره الملف الأصلي المطلوب.
 
 إذا لم تكن المساحة المتاحة في القالب كافية لعرض الأسئلة بوضوح، أضف شرائح جديدة باستخدام التصميم والتنسيق الأصليين للقالب، ولا تحذف أو تختصر محتوى الأسئلة ولا تصغر الخط بصورة تضر بوضوح القراءة.
@@ -1637,6 +1673,18 @@ Keep all of the following:
 - Any fixed instructions or data in the template.
 
 The task is only to fill the template with the required questions and data.
+
+## Template details that must be updated to match the exam
+
+The school template contains sample values that must be changed (without changing their font, size or position):
+
+1. **Semester on the cover:** write the correct semester (first, second or third) as stated in the attached teaching plan. If the semester is not clear from the files, ask the teacher before preparing the exam; do not keep the value written in the template.
+2. **Academic year:** 2026-2027.
+3. **Other cover details:** the subject and grade; the student name and number boxes stay empty for the student to fill in.
+4. **Marks table on the cover:** objective part (multiple choice) = 75, written part (the other types set for the cycle) = 25, total = 100.
+5. **Part heading on each slide:** "الجزء: الموضوعي" (objective part) for multiple-choice slides and "الجزء: المقالي" (written part) for slides with the other types.
+6. **"لكل مفردة … درجات" (marks per item) on each slide:** write the correct mark for that slide's questions according to your distribution. The value in the template (5 marks) is only an example and does not always fit; for example, in Cycle 1, 15 questions × 5 = only 75. If questions on one slide carry different marks, write each question's mark next to it.
+7. Finally, check that the question marks add up to 75 for the objective part and 25 for the written part, matching the marks table on the cover and the answer key.
 
 Do not create a new exam with a different design, and do not convert the template to Word or PDF as the required original file.
 
