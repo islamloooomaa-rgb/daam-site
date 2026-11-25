@@ -142,6 +142,7 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 يجب أن تمثل أسئلة الاختيار من متعدد نسبة 75% من إجمالي درجات الاختبار لجميع الحلقات.
 
 بناءً على ذلك:
+
 - 75 درجة من أصل 100 تخصص لأسئلة الاختيار من متعدد.
 - 25 درجة من أصل 100 تخصص لبقية أنواع الأسئلة المقررة للحلقة.
 
@@ -204,6 +205,7 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 يُمنع استخدام الأرقام الهندية أو العربية في الاختبار.
 
 يشمل ذلك:
+
 - أرقام الأسئلة.
 - أرقام البدائل.
 - أرقام الصفحات.
@@ -239,6 +241,77 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 - تكون منظمة وجذابة وسهلة القراءة والطباعة.
 - تستخدم صوراً ورسومات توضيحية مناسبة عند الحاجة.
 
+# سادساً مكرر: وضوح الخط وسهولة القراءة وتقليل حجم الملفات
+
+هذه التعليمات إلزامية ويجب تطبيقها على المذكرة التعليمية والاختبار والتدريبات وجميع الملفات الناتجة.
+
+## أولاً: وضوح الخط وحجمه
+
+يجب تصميم جميع الملفات بما يضمن سهولة القراءة لطلبة أصحاب الهمم، مع مراعاة الفروق الفردية وصعوبات التعلم وضعف البصر.
+
+### في المذكرة التعليمية (Word):
+
+- استخدام خط عربي واضح وسهل القراءة.
+- حجم خط المتن لا يقل عن 18 نقطة، ويفضل 20 نقطة عند ملاءمة مساحة الصفحة.
+- العناوين الرئيسية بحجم 24–28 نقطة.
+- العناوين الفرعية بحجم 20–22 نقطة.
+- استخدام تباعد مناسب بين الأسطر والفقرات.
+- ترك مساحات بيضاء كافية بين الشروحات والتدريبات.
+- عدم تكديس المعلومات أو وضع نصوص كثيرة في الصفحة الواحدة.
+- إبراز الكلمات والمفاهيم المهمة بطريقة واضحة.
+- التأكد من وضوح النص عند الطباعة بالأبيض والأسود أيضاً.
+
+### في اختبار نهاية الفصل (PowerPoint):
+
+- إعطاء الأولوية القصوى لوضوح الأسئلة أمام الطالب.
+- استخدام خط عربي واضح وكبير.
+- حجم نص السؤال لا يقل عن 24 نقطة، ويفضل 26–28 نقطة.
+- حجم بدائل الاختيار من متعدد لا يقل عن 22 نقطة.
+- جعل الأرقام والرموز والدرجات واضحة وسهلة التمييز.
+- عدم تصغير الخط بهدف احتواء عدد أكبر من الأسئلة في الشريحة.
+- إذا لم تتسع الشريحة للأسئلة بالخط المناسب، أضف شرائح جديدة مع المحافظة على التصميم الأصلي للقالب.
+- تجنب تداخل النصوص أو تقارب الأسطر أو ازدحام الصور والاختيارات.
+- اجعل مساحة الإجابة مناسبة لحجم كتابة الطالب.
+- اترك مسافات كافية بين الاختيارات حتى يستطيع الطالب قراءتها وتحديد الإجابة بسهولة.
+
+### ملاحظة مهمة بشأن القالب المعتمد:
+
+إذا كان قالب PowerPoint الأصلي يحتوي على خطوط صغيرة، حافظ على الهوية والتصميم العام للقالب، مع تحسين حجم النصوص المضافة بما يسمح بقراءتها بوضوح، دون تغيير العناصر الثابتة المعتمدة.
+
+لا تجعل الالتزام بعدد الشرائح سبباً في تصغير الخط أو التضحية بسهولة القراءة.
+
+الأولوية هي أن يتمكن الطالب من قراءة السؤال والاختيارات بوضوح دون إجهاد بصري.
+
+## ثانياً: تقليل حجم الملفات دون التأثير على الجودة
+
+يجب أن تكون الملفات النهائية صغيرة الحجم قدر الإمكان حتى يسهل على المعلمين رفعها على منصة دعم وتنزيلها ومشاركتها.
+
+التزم بالتالي:
+
+1. ضغط الصور والرسومات داخل ملفات Word وPowerPoint.
+2. استخدام صور محسّنة الحجم والدقة دون فقدان وضوح التفاصيل المهمة.
+3. تجنب الصور الضخمة أو غير الضرورية.
+4. عدم إدراج الصور بصيغ أو دقة مرتفعة دون حاجة.
+5. إزالة العناصر المخفية والبيانات غير الضرورية التي تزيد حجم الملف.
+6. استخدام إعدادات ضغط الوسائط المناسبة داخل Office.
+7. عدم تحويل الصفحات أو الشرائح بالكامل إلى صور؛ يجب أن تظل النصوص قابلة للتحديد والتعديل.
+8. الحفاظ على جودة الطباعة ووضوح النصوص والصور.
+9. تجنب تكرار الصور نفسها داخل الملف بأحجام غير ضرورية.
+10. اختيار الصيغ المناسبة التي تحقق التوازن بين الجودة وصغر الحجم.
+
+## ثالثاً: فحص الملفات قبل التسليم
+
+قبل تسليم الملفات النهائية:
+
+- تأكد من أن حجم كل ملف مناسب للرفع على منصة دعم.
+- حاول تقليل حجم الملفات قدر الإمكان دون التأثير على وضوحها.
+- افتح الملفات وتحقق من أن الخطوط واضحة عند العرض والطباعة.
+- تأكد من أن الصور والرسومات ما زالت واضحة بعد الضغط.
+- تأكد من عدم حدوث أي تشوه في التنسيق نتيجة تقليل حجم الملفات.
+- تأكد من أن الملفات تفتح بصورة طبيعية على برامج Microsoft Office.
+
+**الأولوية الأساسية: وضوح المحتوى للطالب أولاً، ثم تقليل حجم الملف دون التضحية بجودة القراءة والطباعة.**
+
 # سابعاً: إضافة تدريب على اختبار نهاية الفصل في نهاية المذكرة
 
 في نهاية المذكرة، أضف قسماً مستقلاً بعنوان:
@@ -271,7 +344,7 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 
 - تصميم الشرائح الأصلي.
 - ألوان القالب.
-- الخطوط وأحجامها.
+- الخطوط وأحجامها الأصلية للعناصر الثابتة.
 - الشعارات والهوية المؤسسية.
 - الترويسة والتذييل.
 - الجداول والخلايا والحدود.
@@ -308,14 +381,19 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 
 قبل تسليم الملفات، نفذ مراجعة شاملة تتضمن:
 
-**مراجعة المذكرة:**
+## مراجعة المذكرة:
+
 - مطابقة المذكرة للخطة التعليمية.
 - تغطية جميع الأهداف.
 - صحة المعلومات.
 - ملاءمة الشرح لمستوى الطلبة.
 - وجود تدريب على الاختبار في النهاية.
+- وضوح الخط وحجمه.
+- سهولة القراءة والطباعة.
+- مناسبة حجم الملف للرفع على المنصة.
 
-**مراجعة الاختبار:**
+## مراجعة الاختبار:
+
 - الالتزام بعدد الأسئلة المحدد للحلقة.
 - الالتزام بأنواع الأسئلة المحددة.
 - الالتزام بنسبة 75% من الدرجات للاختيار من متعدد.
@@ -324,8 +402,12 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 - استخدام الأرقام الإنجليزية فقط.
 - صحة الإجابات.
 - وضوح الخط والصور والأسئلة.
+- عدم ازدحام الشرائح.
+- عدم وجود نصوص مقطوعة أو متداخلة.
+- التأكد من أن الطالب يستطيع قراءة الأسئلة والاختيارات بسهولة.
 
-**مراجعة قالب PowerPoint:**
+## مراجعة قالب PowerPoint:
+
 - مقارنة النسخة النهائية بالقالب الأصلي.
 - التأكد من عدم تغيير تصميم القالب.
 - التأكد من عدم حذف أي عنصر ثابت.
@@ -333,27 +415,44 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 - التأكد من عدم وجود نصوص مقطوعة أو متداخلة.
 - التأكد من أن الملف قابل للتعديل والعرض والطباعة.
 
+## مراجعة حجم الملفات:
+
+- التأكد من ضغط الصور والوسائط بصورة مناسبة.
+- التأكد من أن حجم الملفات صغير قدر الإمكان.
+- التأكد من عدم تأثر جودة النصوص والصور.
+- التأكد من إمكانية فتح الملفات وتنزيلها ورفعها على منصة دعم.
+
 # الحادي عشر: الملفات النهائية المطلوبة
 
 أريد تسليم 3 ملفات منفصلة:
 
-**الملف الأول: المذكرة التعليمية**
+## الملف الأول: المذكرة التعليمية
+
 - بصيغة Word قابلة للتعديل.
 - تشمل جميع الموضوعات والأهداف.
 - تتضمن التدريبات والأنشطة.
 - تتضمن في نهايتها تدريباً على اختبار نهاية الفصل.
+- بخط عربي واضح وكبير ومناسب لطلبة أصحاب الهمم.
+- بحجم ملف صغير ومناسب للرفع على منصة دعم.
 
-**الملف الثاني: اختبار نهاية الفصل الدراسي**
+## الملف الثاني: اختبار نهاية الفصل الدراسي
+
 - بصيغة PowerPoint قابلة للتعديل.
 - باستخدام قالب الاختبار الأصلي المرفق.
 - مع الحفاظ الكامل على تصميم القالب وتنسيقه.
 - متوافق مع الموجهات العامة لاختبارات أصحاب الهمم.
 - مجموع درجاته 100 درجة.
+- بخط كبير وواضح ومريح للقراءة.
+- مع إضافة شرائح عند الحاجة بدلاً من تصغير الخط.
+- بحجم ملف صغير دون التأثير على جودة العرض والطباعة.
 
-**الملف الثالث: نموذج الإجابة**
+## الملف الثالث: نموذج الإجابة
+
 - ملف منفصل خاص بالمعلم.
 - يتضمن الإجابات وتوزيع الدرجات التفصيلي.
 - متطابق مع نسخة الاختبار النهائية.
+- منظم وواضح وسهل الاستخدام.
+- بحجم ملف صغير ومناسب للرفع والمشاركة.
 
 # الثاني عشر: تعليمات ختامية إلزامية
 
@@ -367,14 +466,18 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 - لا تستخدم الأرقام الهندية أو العربية داخل الاختبار.
 - لا تكتفِ بإعداد محتوى نصي؛ المطلوب ملفات فعلية قابلة للتعديل والتسليم.
 - راجع الملفات بعد إنشائها وتأكد من سلامتها وجودتها.
+- اجعل وضوح الخط وسهولة القراءة أولوية أساسية في جميع الملفات.
+- لا تصغر الخط لاستيعاب المحتوى، بل أضف صفحات أو شرائح عند الحاجة.
+- قلل حجم الملفات باستخدام ضغط الصور والوسائط دون التأثير على جودة المحتوى.
+- تأكد من أن جميع الملفات النهائية مناسبة للرفع على منصة دعم.
 
-**الهدف النهائي:** إنتاج مذكرة تعليمية واختبار نهاية فصل دراسي متكاملين، متوافقين مع الخطة التعليمية وكتاب المادة والموجهات العامة لاختبارات أصحاب الهمم، مع المحافظة التامة على قالب الاختبار الرسمي المعتمد من المدرسة.
+**الهدف النهائي:** إنتاج مذكرة تعليمية واختبار نهاية فصل دراسي متكاملين، متوافقين مع الخطة التعليمية وكتاب المادة والموجهات العامة لاختبارات أصحاب الهمم، مع المحافظة التامة على قالب الاختبار الرسمي المعتمد من المدرسة، وتوفير تجربة قراءة مريحة وواضحة للطالب، مع الحفاظ على أحجام ملفات صغيرة تسهل مشاركتها ورفعها على منصة دعم.
 `:`# Daam Platform Requirements Prompt
-## Preparing the Study Notes and the End-of-Semester Exam for Students of Determination
+## Preparing the study notes and the end-of-semester exam for students of determination (students with special needs)
 
-You are a specialist in special education, curriculum development, and the design of school study notes and exams for Students of Determination, in line with the curricula and guidelines approved by the Ministry of Education of the United Arab Emirates.
+You are a specialist in special education, curriculum development, and the design of school study notes and exams for students of determination, following the curricula and guidelines approved by the Ministry of Education of the United Arab Emirates.
 
-I will attach 3 essential files:
+I will attach 3 core files:
 
 1. **The semester teaching plan:** it contains the objectives, skills and topics to be taught and assessed.
 2. **The subject textbook:** the main academic reference for preparing the content and the questions.
@@ -384,35 +487,35 @@ Your task is to study the three files carefully, then prepare study notes, an en
 
 ---
 
-# 1. Study and Analyse the Attachments
+# 1. Studying and analysing the attachments
 
 Before you start preparing the files:
 
-1. Read the teaching plan and identify all the prescribed objectives, skills and topics.
+1. Read the teaching plan and identify all the required objectives, skills and topics.
 2. Review the textbook and identify the lessons and information linked to each objective.
 3. Identify the grade, the cycle and the subject from the attached files.
 4. Review the approved exam template and understand how it is organised and how its sections and marks are distributed.
 5. Make sure the objectives in the plan match the content of the textbook.
 6. Do not add any objectives or topics that are not in the teaching plan.
 
-If you find something missing or conflicting between the files, cannot determine the cycle, or do not have the necessary official guidelines, ask for clarification before you start, and do not assume information yourself.
+If you find anything missing or contradictory between the files, cannot determine the cycle, or do not have the official guidelines you need, ask for clarification before starting and do not assume information of your own.
 
-# 2. Follow the General Guidelines for Exams of Students of Determination
+# 2. Following the general guidelines for exams of students of determination
 
-You must follow the approved general guidelines for exams of Students of Determination, take individual differences and students' levels into account, and keep to the following structure:
+Follow the approved general guidelines for exams of students of determination, take individual differences and students' levels into account, and keep to the following structure:
 
 ## Cycle 1: Grades 1 to 4
 
 - Total number of questions: 15.
-- Total mark: 100.
+- Full mark: 100.
 - Question types:
-  1. Multiple choice, each question with only 3 options.
+  1. Multiple choice, each question with 3 options only.
   2. Matching.
 
 ## Cycle 2: Grades 5 to 8
 
 - Total number of questions: 20.
-- Total mark: 100.
+- Full mark: 100.
 - Question types:
   1. Multiple choice, each question with 4 options.
   2. Matching.
@@ -421,41 +524,42 @@ You must follow the approved general guidelines for exams of Students of Determi
 ## Cycle 3: Grades 9 to 12
 
 - Total number of questions: 20.
-- Total mark: 100.
+- Full mark: 100.
 - Question types:
   1. Multiple choice, each question with 4 options.
   2. Short answer.
 
 ## Multiple-choice share for all cycles
 
-Multiple-choice questions must account for 75% of the total exam marks in all cycles.
+Multiple-choice questions must make up 75% of the total exam marks in all cycles.
 
 Accordingly:
-- 75 of the 100 marks go to multiple-choice questions.
-- 25 of the 100 marks go to the other question types prescribed for the cycle.
 
-The question types prescribed for each cycle may not be replaced with other types.
+- 75 of the 100 marks go to multiple-choice questions.
+- 25 of the 100 marks go to the other question types set for the cycle.
+
+The question types set for each cycle may not be replaced with other types.
 
 The number and types of questions must match the cycle, and the remaining questions must be distributed in a suitable and fair way.
 
-# 3. Rules for Writing the Exam Questions
+# 3. Rules for writing the exam questions
 
 Follow these rules:
 
-1. Every question is linked to the learning objectives in the plan.
-2. The information comes from the textbook.
+1. All questions are linked to the learning objectives in the plan.
+2. The information comes from the subject textbook.
 3. The wording suits the actual level of the target students.
 4. Use short, clear and direct sentences.
-5. Avoid complex wording and questions that allow more than one answer.
-6. Avoid questions that test more than one skill at a time without need.
-7. Grade the difficulty appropriately.
-8. Do not use information outside the prescribed content.
-9. Do not repeat the same question in different wording.
-10. Make sure every question has one clear correct answer.
-11. Use pictures or illustrative symbols where needed, provided they are linked to the learning objective and do not reveal the answer.
-12. Make sure pictures are clear, the font size is suitable, and the exam is easy to read.
+5. Avoid complex wording and questions that could have more than one answer.
+6. Avoid questions that test more than one skill at the same time unless necessary.
+7. Use a suitable progression in difficulty.
+8. Do not use information outside the required content.
+9. Avoid repeating the same question in different wording.
+10. Make sure every question has one correct, clear answer.
+11. Use pictures or symbols when needed, provided they are linked to the learning objective and do not give away the answer.
+12. Make sure pictures are clear, the font size is suitable and the exam is easy to read.
 
-# 4. Mark Distribution
+# 4. Distributing the marks
 
 Every exam in all three cycles must be out of exactly 100 marks.
 
@@ -464,7 +568,7 @@ Distribute the marks as follows:
 | Question type | Marks |
 |---|---:|
 | Multiple choice | 75 |
-| Other types prescribed for the cycle | 25 |
+| Other types set for the cycle | 25 |
 | Total | 100 |
 
 Mandatory instructions:
@@ -473,62 +577,134 @@ Mandatory instructions:
 2. State each question's mark clearly.
 3. In matching questions, state the mark of each item separately, not only the total for the question.
 4. In fill-in-the-blank questions, state the mark of each blank.
-5. In short-answer questions, state the mark for the answer and the answer elements that earn marks.
+5. In short-answer questions, state the mark for the answer and the answer elements that earn the marks.
 6. Make the marks of all questions and items add up to exactly 100.
 7. Do not leave any question or item without a mark.
-8. Show the mark next to each question or item, clearly for both the student and the teacher.
-9. At the end of the exam, add a clear box for the final total: 100 marks.
-10. Do a final arithmetic check of the mark distribution before handing in the exam.
+8. Show the mark next to the question or item, clearly for both the student and the teacher.
+9. Add a clear total box at the end of the exam: 100 marks.
+10. Do a final arithmetic check that the marks are distributed correctly before delivering the exam.
 
-The mark distribution must not be a formality: it must match the number of items to be answered.
+The distribution of marks must not be a formality: it must match the number of items to be answered.
 
-# 5. Use Western (English) Numerals
+# 5. Using English (Western) numerals
 
 This is mandatory in every exam, without exception.
 
-Use only Western (English) numerals:
+Use English numerals only:
 
 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 
-Eastern Arabic (Hindi) numerals must not be used in the exam.
+Eastern Arabic (Hindi) numerals are not allowed in the exam.
 
 This covers:
+
 - Question numbers.
 - Option numbers.
 - Page numbers.
 - Marks.
 - Dates.
-- Numbers inside question text.
-- Any other numbers on the exam pages.
+- Numbers inside question texts.
+- Any other numbers that appear on the exam pages.
 
-Every number used in the exam must be a Western (English) numeral.
+All numbers used in the exam must be English numerals.
 
-# 6. Prepare the Study Notes
+# 6. Preparing the study notes
 
 Create complete study notes based on the teaching plan and the textbook.
 
 They must include:
 
-1. The title of the notes, the subject, the grade and the semester.
-2. The content divided into units and lessons, following the plan.
-3. A simplified explanation of each topic.
-4. Clarification of the key concepts and information.
-5. Suitable applied examples.
-6. A variety of exercises after the lessons.
-7. Review questions that help consolidate the information.
-8. A highlight of the skills the end-of-semester exam will assess.
+1. The title of the notes and the subject, grade and semester.
+2. The content divided into units and lessons according to the plan.
+3. A simple explanation of each topic.
+4. Clear explanations of the key concepts and information.
+5. Suitable worked examples.
+6. Varied exercises after the lessons.
+7. Review questions that help students retain the information.
+8. A clear highlight of the skills the end-of-semester exam will measure.
 
 Rules for the notes:
 
-- Cover every learning objective, without leaving any out.
+- Cover every learning objective without leaving any out.
 - Use clear language suited to the students.
-- Take into account the characteristics of Students of Determination and individual differences.
+- Take into account the characteristics of students of determination and individual differences.
 - Contain no incorrect academic information.
 - Contain no topics outside the plan.
 - Be organised, attractive, and easy to read and print.
-- Use suitable pictures and illustrations where needed.
+- Use suitable pictures and illustrations when needed.
 
-# 7. Add End-of-Semester Exam Practice at the End of the Notes
+# 6 (continued). Clear fonts, easy reading and smaller files
+
+These instructions are mandatory and apply to the study notes, the exam, the practice exercises and every file produced.
+
+## A. Clear fonts and font sizes
+
+Design every file so that it is easy to read for students of determination, taking into account individual differences, learning difficulties and low vision.
+
+### In the study notes (Word):
+
+- Use a clear, easy-to-read Arabic font.
+- Body text no smaller than 18 pt, preferably 20 pt when the page space allows.
+- Main headings 24–28 pt.
+- Subheadings 20–22 pt.
+- Use suitable spacing between lines and paragraphs.
+- Leave enough white space between explanations and exercises.
+- Do not crowd information or put too much text on one page.
+- Highlight important words and concepts clearly.
+- Make sure the text is also clear when printed in black and white.
+
+### In the end-of-semester exam (PowerPoint):
+
+- Give top priority to how clearly the student can read the questions.
+- Use a large, clear Arabic font.
+- Question text no smaller than 24 pt, preferably 26–28 pt.
+- Multiple-choice options no smaller than 22 pt.
+- Make numbers, symbols and marks clear and easy to tell apart.
+- Do not shrink the font to fit more questions on a slide.
+- If a slide cannot hold the questions at a suitable size, add new slides while keeping the template's original design.
+- Avoid overlapping text, cramped lines, and crowded pictures and options.
+- Make the answer space suit the size of the student's handwriting.
+- Leave enough space between the options so the student can read them and mark the answer easily.
+
+### Important note about the approved template:
+
+If the original PowerPoint template uses small fonts, keep the template's identity and overall design, and enlarge the text you add so it can be read clearly, without changing the approved fixed elements.
+
+Do not let keeping to a number of slides become a reason to shrink the font or sacrifice readability.
+
+The priority is that the student can read the question and the options clearly without eye strain.
+
+## B. Reducing file size without lowering quality
+
+The final files must be as small as possible so teachers can easily upload them to the Daam platform, download them and share them.
+
+Follow these points:
+
+1. Compress pictures and graphics inside the Word and PowerPoint files.
+2. Use pictures optimised in size and resolution without losing important detail.
+3. Avoid very large or unnecessary pictures.
+4. Do not insert pictures in high-resolution formats when it is not needed.
+5. Remove hidden elements and unnecessary data that increase the file size.
+6. Use suitable media compression settings in Office.
+7. Do not turn whole pages or slides into pictures; the text must stay selectable and editable.
+8. Keep print quality and the clarity of text and pictures.
+9. Avoid repeating the same pictures inside the file at unnecessary sizes.
+10. Choose formats that balance quality and small size.
+
+## C. Checking the files before delivery
+
+Before delivering the final files:
+
+- Make sure each file's size is suitable for uploading to the Daam platform.
+- Reduce file sizes as much as possible without affecting clarity.
+- Open the files and check that the fonts are clear on screen and in print.
+- Make sure pictures and graphics are still clear after compression.
+- Make sure the formatting has not been distorted by reducing the file size.
+- Make sure the files open normally in Microsoft Office.
+
+**The main priority: clear content for the student first, then a smaller file without sacrificing reading and print quality.**
+
+# 7. Adding exam practice at the end of the notes
 
 At the end of the notes, add a separate section titled:
 
@@ -538,127 +714,160 @@ This section must work as a practice simulation of the real exam.
 
 Conditions:
 
-1. It simulates the question types prescribed for the cycle.
-2. It includes practice on every skill the exam assesses.
+1. It simulates the question types set for the cycle.
+2. It includes practice on every skill the exam measures.
 3. It suits the student's level.
 4. It contains varied questions that are not copied word for word from the exam.
 5. Its questions resemble the exam in wording and difficulty.
 6. It helps the student understand how to answer and prepare for the real exam.
-7. It includes enough practice on multiple choice and on the other types prescribed for the cycle.
+7. It includes enough practice on multiple choice and the other types set for the cycle.
 
-# 8. Keep the Approved PowerPoint Exam Template
+# 8. Keeping the approved PowerPoint exam template
 
-This is one of the most important instructions of the task.
+This is one of the most important instructions in the task.
 
 The exam template I will attach is a PowerPoint file approved by the school.
 
-You must work on a copy of the original PowerPoint file itself and insert the questions and content into it.
+Work on a copy of the original PowerPoint file itself and insert the questions and content into it.
 
-**Changing or redesigning the template is strictly prohibited.**
+**Changing or redesigning the template is strictly forbidden.**
 
-You must keep all of the following:
+Keep all of the following:
 
 - The original slide design.
 - The template colours.
-- The fonts and their sizes.
-- The logos and the institutional identity.
+- The original fonts and sizes of the fixed elements.
+- The logos and institutional identity.
 - The header and footer.
-- The tables, cells and borders.
-- The margins and alignment.
-- The slide backgrounds.
+- Tables, cells and borders.
+- Margins and alignment.
+- Slide backgrounds.
 - The order of slides and sections.
-- The layout of the elements on each slide.
+- The layout of elements on each slide.
 - Any fixed instructions or data in the template.
 
-The only thing required is to fill the template with the required questions and data.
+The task is only to fill the template with the required questions and data.
 
 Do not create a new exam with a different design, and do not convert the template to Word or PDF as the required original file.
 
-If the space in the template is not enough to show the questions clearly, add new slides using the template's original design and formatting. Do not delete or shorten the question content, and do not shrink the font in a way that harms readability.
+If the space in the template is not enough to show the questions clearly, add new slides using the template's original design and formatting; do not delete or shorten question content, and do not shrink the font in a way that harms readability.
 
 If the template cannot be edited, or a technical problem prevents keeping its formatting, tell me about the problem before making any change to the design.
 
-# 9. Prepare the Answer Key
+# 9. Preparing the answer key
 
 Create a separate answer key for the teacher, including:
 
 1. The correct answer to each question.
-2. The correct answers to each item in matching questions.
+2. The correct answers for each item in matching questions.
 3. The required answer for each blank.
 4. The acceptable answer elements in short-answer questions.
-5. The mark assigned to each question and item.
-6. A final table of the mark distribution, with its total checked.
+5. The mark for each question and item.
+6. A final table of the mark distribution with a check of the total.
 
 The answer key must match the exam exactly in question numbers and order.
 
-Do not put the answer key in the student's copy of the exam.
+Do not put the answer key inside the student's copy of the exam.
 
-# 10. Final Review and Quality Assurance
+# 10. Final review and quality assurance
 
-Before handing in the files, carry out a full review including:
+Before delivering the files, carry out a full review that includes:
 
-**Reviewing the notes:**
+## Reviewing the notes:
+
 - The notes match the teaching plan.
-- Every objective is covered.
+- All objectives are covered.
 - The information is correct.
 - The explanations suit the students' level.
-- The exam practice is included at the end.
+- There is exam practice at the end.
+- The font is clear and large enough.
+- The notes are easy to read and print.
+- The file size is suitable for uploading to the platform.
 
-**Reviewing the exam:**
-- The number of questions prescribed for the cycle is respected.
-- The prescribed question types are respected.
-- 75% of the marks go to multiple choice.
+## Reviewing the exam:
+
+- The number of questions set for the cycle is respected.
+- The question types set for the cycle are respected.
+- Multiple choice makes up 75% of the marks.
 - The marks are correctly distributed out of 100.
-- The mark of every question and item is clear.
-- Only Western (English) numerals are used.
+- Each question's and item's mark is clear.
+- Only English numerals are used.
 - The answers are correct.
 - The font, pictures and questions are clear.
+- The slides are not crowded.
+- There is no cut-off or overlapping text.
+- The student can read the questions and options easily.
 
-**Reviewing the PowerPoint template:**
+## Reviewing the PowerPoint template:
+
 - Compare the final version with the original template.
 - Make sure the template design has not changed.
-- Make sure no fixed element has been deleted.
-- Make sure every question appears correctly.
-- Make sure no text is cut off or overlapping.
+- Make sure no fixed element was deleted.
+- Make sure all questions appear correctly.
+- Make sure there is no cut-off or overlapping text.
 - Make sure the file can be edited, shown and printed.
 
-# 11. Required Final Files
+## Reviewing file sizes:
 
-I want 3 separate files:
+- Pictures and media are suitably compressed.
+- The files are as small as possible.
+- The quality of text and pictures is not affected.
+- The files can be opened, downloaded and uploaded to the Daam platform.
 
-**File 1: The study notes**
+# 11. The final files required
+
+I want 3 separate files delivered:
+
+## File 1: The study notes
+
 - An editable Word file.
 - Covers all topics and objectives.
 - Includes the exercises and activities.
 - Ends with end-of-semester exam practice.
+- Uses a large, clear Arabic font suitable for students of determination.
+- A small file size suitable for uploading to the Daam platform.
 
-**File 2: The end-of-semester exam**
+## File 2: The end-of-semester exam
+
 - An editable PowerPoint file.
 - Uses the original attached exam template.
 - Keeps the template's design and formatting completely.
-- Complies with the general guidelines for exams of Students of Determination.
-- Totals 100 marks.
+- Complies with the general guidelines for exams of students of determination.
+- Total of 100 marks.
+- A large, clear font that is comfortable to read.
+- Adds slides when needed instead of shrinking the font.
+- A small file size without lowering display and print quality.
 
-**File 3: The answer key**
+## File 3: The answer key
+
 - A separate file for the teacher.
 - Includes the answers and the detailed mark distribution.
-- Matches the final exam exactly.
+- Matches the final version of the exam.
+- Organised, clear and easy to use.
+- A small file size suitable for uploading and sharing.
 
-# 12. Mandatory Final Instructions
+# 12. Mandatory final instructions
 
 - Do not start work before studying the three files.
 - Do not invent objectives or information that are not in the sources.
 - Do not ignore any objective in the plan.
 - Do not change the approved exam template.
-- Do not exceed the number of questions prescribed for the cycle.
+- Do not exceed the number of questions set for the cycle.
 - Do not go above or below a total of 100 marks.
 - Do not change the 75% share for multiple choice.
 - Do not use Eastern Arabic (Hindi) numerals in the exam.
-- Do not stop at text content: actual editable files ready to hand in are required.
+- Do not stop at text content; real, editable files ready for delivery are required.
 - Review the files after creating them and make sure they are sound and of good quality.
+- Make clear fonts and easy reading a core priority in all files.
+- Do not shrink the font to fit the content; add pages or slides when needed.
+- Reduce file sizes by compressing pictures and media without lowering content quality.
+- Make sure all final files are suitable for uploading to the Daam platform.
 
-**Final goal:** to produce complete study notes and an end-of-semester exam that match the teaching plan, the textbook and the general guidelines for exams of Students of Determination, while keeping the school's official approved exam template completely unchanged.
-`)},Ln=()=>In(Pn()),Rn=()=>{let e=Fn();return e?`<p class="xs mut">${p(`آخر تحديث للأمر: `,`Prompt last updated: `)}${g(e.at)} — ${m(e.by)}</p>`:``},zn=()=>`<div class="row">${K(`promptCopy`,p(`نسخ الأمر`,`Copy prompt`),{cls:`p`,ic:`copy`})}${K(`promptDl`,p(`تنزيل الأمر كملف`,`Download as a file`),{ic:`dl`})}</div>`;B.t.prompt=()=>{let e=Pn();return`${q(`أمر متطلبات منصة دعم`,`Daam Requirements Prompt`,p(`انسخ هذا الأمر والصقه في محادثة جديدة مع Claude، ثم أرفق معه ثلاثة ملفات: الخطة التعليمية للفصل، وكتاب المادة، وقالب الاختبار المعتمد (PowerPoint). سيُعدّ لك Claude المذكرة التعليمية واختبار نهاية الفصل ونموذج الإجابة المطلوبة منك في المنصة.`,`Copy this prompt into a new chat with Claude, then attach three files: the semester teaching plan, the subject textbook and the approved exam template (PowerPoint). Claude will prepare the study notes, the end-of-semester exam and the answer key the platform asks of you.`))}
+**The final goal:** to produce complete study notes and an end-of-semester exam that match the teaching plan, the subject textbook and the general guidelines for exams of students of determination, while fully keeping the school's official approved exam template, giving the student a comfortable and clear reading experience, and keeping file sizes small so they are easy to share and upload to the Daam platform.
+`)},Ln=()=>In(Pn()),Rn=()=>{let e=Fn();return e?`<p class="xs mut">${p(`آخر تحديث للأمر: `,`Prompt last updated: `)}${g(e.at)} — ${m(e.by)}</p>`:``},zn=()=>`<div class="row">${K(`promptCopy`,p(`نسخ الأمر`,`Copy prompt`),{cls:`p`,ic:`copy`})}${K(`promptDl`,p(`تنزيل الأمر كملف`,`Download as a file`),{ic:`dl`})}</div>`,Bn=()=>{let e=[[`blue`,`file`,p(`الخطة التربوية الفردية`,`Individual Education Plan (IEP)`),p(`خطة الطالب للفصل الدراسي: الأهداف والمهارات المطلوب تدريسها وقياسها.`,`The student’s plan for the semester: the objectives and skills to teach and assess.`),``],[`green`,`book`,p(`كتاب المادة`,`Subject textbook`),p(`كتاب المادة للفصل الحالي، وهو المرجع لمحتوى المذكرة وأسئلة الاختبار.`,`The current semester’s textbook, the reference for the notes and the exam questions.`),``],[`amber`,`up`,p(`قالب الاختبار المعتمد`,`Approved exam template`),p(`ملف PowerPoint من «القوالب المعتمدة» في المنصة، يُستخدم كما هو دون تغيير تصميمه.`,`The PowerPoint file from “Approved templates” on the platform, used as it is without changing its design.`),K(`go`,p(`فتح القوالب المعتمدة`,`Open approved templates`),{cls:`s`,ic:`dl`,d:{view:`templates`}})]];return`<div class="card col" style="gap:10px"><h2>${p(`أرفق هذه الملفات الثلاثة مع الأمر في محادثة Claude`,`Attach these three files with the prompt in the Claude chat`)}</h2>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:10px">${e.map(([e,t,n,r,i],a)=>`<div class="col" style="gap:6px;background:var(--${e}-b);color:var(--ink);border-radius:12px;padding:14px;border-inline-start:5px solid var(--${e})"><div class="row" style="gap:8px;color:var(--${e})"><span class="b" style="font-size:1.4rem">${a+1}</span>${E(t)}<span class="b" style="font-size:1.05rem">${n}</span></div><span class="sm">${r}</span>${i}</div>`).join(``)}</div>
+  <p class="xs mut">${p(`لا تكتب اسم الطالب أو بياناته الشخصية داخل محادثة Claude.`,`Do not type the student’s name or personal details in the Claude chat.`)}</p></div>`};B.t.prompt=()=>{let e=Pn();return`${q(`أمر متطلبات منصة دعم`,`Daam Requirements Prompt`,p(`انسخ الأمر والصقه في محادثة جديدة مع Claude، وأرفق معه الملفات الثلاثة التالية. سيُعدّ لك Claude المذكرة التعليمية واختبار نهاية الفصل ونموذج الإجابة.`,`Copy the prompt into a new chat with Claude and attach the three files below. Claude will prepare the study notes, the end-of-semester exam and the answer key.`))}
+  ${Bn()}
   <div class="row sp"><div class="row"><span class="sm mut">${p(`لغة الأمر:`,`Prompt language:`)}</span>${[[`ar`,`العربية`],[`en`,`English`]].map(([t,n])=>`<button class="chk ${e===t?`on`:``}" data-act="setv" data-k="plang" data-val="${t}">${n}</button>`).join(``)}</div>${zn()}</div>
   ${Rn()}<div class="card"><pre class="prompt" dir="${e===`ar`?`rtl`:`ltr`}" lang="${e}">${m(Ln())}</pre></div>
   ${zn()}`},Ht.s.push([`prompt`,`copy`,`أمر متطلبات منصة دعم`,`Daam Requirements Prompt`]),B.s.prompt=()=>{let e=Pn();k.pe=k.pe||{},k.pe[e]??(k.pe[e]=In(e));let t=[`ar`,`en`].some(e=>k.pe[e]!=null&&k.pe[e]!==In(e));return`${q(`أمر متطلبات منصة دعم`,`Daam Requirements Prompt`,p(`عدّل نص الأمر ثم اضغط «حفظ ونشر للمعلمين»، فيظهر الأمر الجديد فورًا في صفحة الأمر عند جميع معلمي التعليم العام.`,`Edit the prompt, then press “Save and publish to teachers”; every general education teacher sees the new prompt right away.`))}
@@ -728,6 +937,7 @@ I want 3 separate files:
 يجب أن تمثل أسئلة الاختيار من متعدد نسبة 75% من إجمالي درجات الاختبار لجميع الحلقات.
 
 بناءً على ذلك:
+
 - 75 درجة من أصل 100 تخصص لأسئلة الاختيار من متعدد.
 - 25 درجة من أصل 100 تخصص لبقية أنواع الأسئلة المقررة للحلقة.
 
@@ -790,6 +1000,7 @@ I want 3 separate files:
 يُمنع استخدام الأرقام الهندية أو العربية في الاختبار.
 
 يشمل ذلك:
+
 - أرقام الأسئلة.
 - أرقام البدائل.
 - أرقام الصفحات.
@@ -825,6 +1036,77 @@ I want 3 separate files:
 - تكون منظمة وجذابة وسهلة القراءة والطباعة.
 - تستخدم صوراً ورسومات توضيحية مناسبة عند الحاجة.
 
+# سادساً مكرر: وضوح الخط وسهولة القراءة وتقليل حجم الملفات
+
+هذه التعليمات إلزامية ويجب تطبيقها على المذكرة التعليمية والاختبار والتدريبات وجميع الملفات الناتجة.
+
+## أولاً: وضوح الخط وحجمه
+
+يجب تصميم جميع الملفات بما يضمن سهولة القراءة لطلبة أصحاب الهمم، مع مراعاة الفروق الفردية وصعوبات التعلم وضعف البصر.
+
+### في المذكرة التعليمية (Word):
+
+- استخدام خط عربي واضح وسهل القراءة.
+- حجم خط المتن لا يقل عن 18 نقطة، ويفضل 20 نقطة عند ملاءمة مساحة الصفحة.
+- العناوين الرئيسية بحجم 24–28 نقطة.
+- العناوين الفرعية بحجم 20–22 نقطة.
+- استخدام تباعد مناسب بين الأسطر والفقرات.
+- ترك مساحات بيضاء كافية بين الشروحات والتدريبات.
+- عدم تكديس المعلومات أو وضع نصوص كثيرة في الصفحة الواحدة.
+- إبراز الكلمات والمفاهيم المهمة بطريقة واضحة.
+- التأكد من وضوح النص عند الطباعة بالأبيض والأسود أيضاً.
+
+### في اختبار نهاية الفصل (PowerPoint):
+
+- إعطاء الأولوية القصوى لوضوح الأسئلة أمام الطالب.
+- استخدام خط عربي واضح وكبير.
+- حجم نص السؤال لا يقل عن 24 نقطة، ويفضل 26–28 نقطة.
+- حجم بدائل الاختيار من متعدد لا يقل عن 22 نقطة.
+- جعل الأرقام والرموز والدرجات واضحة وسهلة التمييز.
+- عدم تصغير الخط بهدف احتواء عدد أكبر من الأسئلة في الشريحة.
+- إذا لم تتسع الشريحة للأسئلة بالخط المناسب، أضف شرائح جديدة مع المحافظة على التصميم الأصلي للقالب.
+- تجنب تداخل النصوص أو تقارب الأسطر أو ازدحام الصور والاختيارات.
+- اجعل مساحة الإجابة مناسبة لحجم كتابة الطالب.
+- اترك مسافات كافية بين الاختيارات حتى يستطيع الطالب قراءتها وتحديد الإجابة بسهولة.
+
+### ملاحظة مهمة بشأن القالب المعتمد:
+
+إذا كان قالب PowerPoint الأصلي يحتوي على خطوط صغيرة، حافظ على الهوية والتصميم العام للقالب، مع تحسين حجم النصوص المضافة بما يسمح بقراءتها بوضوح، دون تغيير العناصر الثابتة المعتمدة.
+
+لا تجعل الالتزام بعدد الشرائح سبباً في تصغير الخط أو التضحية بسهولة القراءة.
+
+الأولوية هي أن يتمكن الطالب من قراءة السؤال والاختيارات بوضوح دون إجهاد بصري.
+
+## ثانياً: تقليل حجم الملفات دون التأثير على الجودة
+
+يجب أن تكون الملفات النهائية صغيرة الحجم قدر الإمكان حتى يسهل على المعلمين رفعها على منصة دعم وتنزيلها ومشاركتها.
+
+التزم بالتالي:
+
+1. ضغط الصور والرسومات داخل ملفات Word وPowerPoint.
+2. استخدام صور محسّنة الحجم والدقة دون فقدان وضوح التفاصيل المهمة.
+3. تجنب الصور الضخمة أو غير الضرورية.
+4. عدم إدراج الصور بصيغ أو دقة مرتفعة دون حاجة.
+5. إزالة العناصر المخفية والبيانات غير الضرورية التي تزيد حجم الملف.
+6. استخدام إعدادات ضغط الوسائط المناسبة داخل Office.
+7. عدم تحويل الصفحات أو الشرائح بالكامل إلى صور؛ يجب أن تظل النصوص قابلة للتحديد والتعديل.
+8. الحفاظ على جودة الطباعة ووضوح النصوص والصور.
+9. تجنب تكرار الصور نفسها داخل الملف بأحجام غير ضرورية.
+10. اختيار الصيغ المناسبة التي تحقق التوازن بين الجودة وصغر الحجم.
+
+## ثالثاً: فحص الملفات قبل التسليم
+
+قبل تسليم الملفات النهائية:
+
+- تأكد من أن حجم كل ملف مناسب للرفع على منصة دعم.
+- حاول تقليل حجم الملفات قدر الإمكان دون التأثير على وضوحها.
+- افتح الملفات وتحقق من أن الخطوط واضحة عند العرض والطباعة.
+- تأكد من أن الصور والرسومات ما زالت واضحة بعد الضغط.
+- تأكد من عدم حدوث أي تشوه في التنسيق نتيجة تقليل حجم الملفات.
+- تأكد من أن الملفات تفتح بصورة طبيعية على برامج Microsoft Office.
+
+**الأولوية الأساسية: وضوح المحتوى للطالب أولاً، ثم تقليل حجم الملف دون التضحية بجودة القراءة والطباعة.**
+
 # سابعاً: إضافة تدريب على اختبار نهاية الفصل في نهاية المذكرة
 
 في نهاية المذكرة، أضف قسماً مستقلاً بعنوان:
@@ -857,7 +1139,7 @@ I want 3 separate files:
 
 - تصميم الشرائح الأصلي.
 - ألوان القالب.
-- الخطوط وأحجامها.
+- الخطوط وأحجامها الأصلية للعناصر الثابتة.
 - الشعارات والهوية المؤسسية.
 - الترويسة والتذييل.
 - الجداول والخلايا والحدود.
@@ -894,14 +1176,19 @@ I want 3 separate files:
 
 قبل تسليم الملفات، نفذ مراجعة شاملة تتضمن:
 
-**مراجعة المذكرة:**
+## مراجعة المذكرة:
+
 - مطابقة المذكرة للخطة التعليمية.
 - تغطية جميع الأهداف.
 - صحة المعلومات.
 - ملاءمة الشرح لمستوى الطلبة.
 - وجود تدريب على الاختبار في النهاية.
+- وضوح الخط وحجمه.
+- سهولة القراءة والطباعة.
+- مناسبة حجم الملف للرفع على المنصة.
 
-**مراجعة الاختبار:**
+## مراجعة الاختبار:
+
 - الالتزام بعدد الأسئلة المحدد للحلقة.
 - الالتزام بأنواع الأسئلة المحددة.
 - الالتزام بنسبة 75% من الدرجات للاختيار من متعدد.
@@ -910,8 +1197,12 @@ I want 3 separate files:
 - استخدام الأرقام الإنجليزية فقط.
 - صحة الإجابات.
 - وضوح الخط والصور والأسئلة.
+- عدم ازدحام الشرائح.
+- عدم وجود نصوص مقطوعة أو متداخلة.
+- التأكد من أن الطالب يستطيع قراءة الأسئلة والاختيارات بسهولة.
 
-**مراجعة قالب PowerPoint:**
+## مراجعة قالب PowerPoint:
+
 - مقارنة النسخة النهائية بالقالب الأصلي.
 - التأكد من عدم تغيير تصميم القالب.
 - التأكد من عدم حذف أي عنصر ثابت.
@@ -919,27 +1210,44 @@ I want 3 separate files:
 - التأكد من عدم وجود نصوص مقطوعة أو متداخلة.
 - التأكد من أن الملف قابل للتعديل والعرض والطباعة.
 
+## مراجعة حجم الملفات:
+
+- التأكد من ضغط الصور والوسائط بصورة مناسبة.
+- التأكد من أن حجم الملفات صغير قدر الإمكان.
+- التأكد من عدم تأثر جودة النصوص والصور.
+- التأكد من إمكانية فتح الملفات وتنزيلها ورفعها على منصة دعم.
+
 # الحادي عشر: الملفات النهائية المطلوبة
 
 أريد تسليم 3 ملفات منفصلة:
 
-**الملف الأول: المذكرة التعليمية**
+## الملف الأول: المذكرة التعليمية
+
 - بصيغة Word قابلة للتعديل.
 - تشمل جميع الموضوعات والأهداف.
 - تتضمن التدريبات والأنشطة.
 - تتضمن في نهايتها تدريباً على اختبار نهاية الفصل.
+- بخط عربي واضح وكبير ومناسب لطلبة أصحاب الهمم.
+- بحجم ملف صغير ومناسب للرفع على منصة دعم.
 
-**الملف الثاني: اختبار نهاية الفصل الدراسي**
+## الملف الثاني: اختبار نهاية الفصل الدراسي
+
 - بصيغة PowerPoint قابلة للتعديل.
 - باستخدام قالب الاختبار الأصلي المرفق.
 - مع الحفاظ الكامل على تصميم القالب وتنسيقه.
 - متوافق مع الموجهات العامة لاختبارات أصحاب الهمم.
 - مجموع درجاته 100 درجة.
+- بخط كبير وواضح ومريح للقراءة.
+- مع إضافة شرائح عند الحاجة بدلاً من تصغير الخط.
+- بحجم ملف صغير دون التأثير على جودة العرض والطباعة.
 
-**الملف الثالث: نموذج الإجابة**
+## الملف الثالث: نموذج الإجابة
+
 - ملف منفصل خاص بالمعلم.
 - يتضمن الإجابات وتوزيع الدرجات التفصيلي.
 - متطابق مع نسخة الاختبار النهائية.
+- منظم وواضح وسهل الاستخدام.
+- بحجم ملف صغير ومناسب للرفع والمشاركة.
 
 # الثاني عشر: تعليمات ختامية إلزامية
 
@@ -953,13 +1261,17 @@ I want 3 separate files:
 - لا تستخدم الأرقام الهندية أو العربية داخل الاختبار.
 - لا تكتفِ بإعداد محتوى نصي؛ المطلوب ملفات فعلية قابلة للتعديل والتسليم.
 - راجع الملفات بعد إنشائها وتأكد من سلامتها وجودتها.
+- اجعل وضوح الخط وسهولة القراءة أولوية أساسية في جميع الملفات.
+- لا تصغر الخط لاستيعاب المحتوى، بل أضف صفحات أو شرائح عند الحاجة.
+- قلل حجم الملفات باستخدام ضغط الصور والوسائط دون التأثير على جودة المحتوى.
+- تأكد من أن جميع الملفات النهائية مناسبة للرفع على منصة دعم.
 
-**الهدف النهائي:** إنتاج مذكرة تعليمية واختبار نهاية فصل دراسي متكاملين، متوافقين مع الخطة التعليمية وكتاب المادة والموجهات العامة لاختبارات أصحاب الهمم، مع المحافظة التامة على قالب الاختبار الرسمي المعتمد من المدرسة.`?``:t,en:n===`# Daam Platform Requirements Prompt
-## Preparing the Study Notes and the End-of-Semester Exam for Students of Determination
+**الهدف النهائي:** إنتاج مذكرة تعليمية واختبار نهاية فصل دراسي متكاملين، متوافقين مع الخطة التعليمية وكتاب المادة والموجهات العامة لاختبارات أصحاب الهمم، مع المحافظة التامة على قالب الاختبار الرسمي المعتمد من المدرسة، وتوفير تجربة قراءة مريحة وواضحة للطالب، مع الحفاظ على أحجام ملفات صغيرة تسهل مشاركتها ورفعها على منصة دعم.`?``:t,en:n===`# Daam Platform Requirements Prompt
+## Preparing the study notes and the end-of-semester exam for students of determination (students with special needs)
 
-You are a specialist in special education, curriculum development, and the design of school study notes and exams for Students of Determination, in line with the curricula and guidelines approved by the Ministry of Education of the United Arab Emirates.
+You are a specialist in special education, curriculum development, and the design of school study notes and exams for students of determination, following the curricula and guidelines approved by the Ministry of Education of the United Arab Emirates.
 
-I will attach 3 essential files:
+I will attach 3 core files:
 
 1. **The semester teaching plan:** it contains the objectives, skills and topics to be taught and assessed.
 2. **The subject textbook:** the main academic reference for preparing the content and the questions.
@@ -969,35 +1281,35 @@ Your task is to study the three files carefully, then prepare study notes, an en
 
 ---
 
-# 1. Study and Analyse the Attachments
+# 1. Studying and analysing the attachments
 
 Before you start preparing the files:
 
-1. Read the teaching plan and identify all the prescribed objectives, skills and topics.
+1. Read the teaching plan and identify all the required objectives, skills and topics.
 2. Review the textbook and identify the lessons and information linked to each objective.
 3. Identify the grade, the cycle and the subject from the attached files.
 4. Review the approved exam template and understand how it is organised and how its sections and marks are distributed.
 5. Make sure the objectives in the plan match the content of the textbook.
 6. Do not add any objectives or topics that are not in the teaching plan.
 
-If you find something missing or conflicting between the files, cannot determine the cycle, or do not have the necessary official guidelines, ask for clarification before you start, and do not assume information yourself.
+If you find anything missing or contradictory between the files, cannot determine the cycle, or do not have the official guidelines you need, ask for clarification before starting and do not assume information of your own.
 
-# 2. Follow the General Guidelines for Exams of Students of Determination
+# 2. Following the general guidelines for exams of students of determination
 
-You must follow the approved general guidelines for exams of Students of Determination, take individual differences and students' levels into account, and keep to the following structure:
+Follow the approved general guidelines for exams of students of determination, take individual differences and students' levels into account, and keep to the following structure:
 
 ## Cycle 1: Grades 1 to 4
 
 - Total number of questions: 15.
-- Total mark: 100.
+- Full mark: 100.
 - Question types:
-  1. Multiple choice, each question with only 3 options.
+  1. Multiple choice, each question with 3 options only.
   2. Matching.
 
 ## Cycle 2: Grades 5 to 8
 
 - Total number of questions: 20.
-- Total mark: 100.
+- Full mark: 100.
 - Question types:
   1. Multiple choice, each question with 4 options.
   2. Matching.
@@ -1006,41 +1318,42 @@ You must follow the approved general guidelines for exams of Students of Determi
 ## Cycle 3: Grades 9 to 12
 
 - Total number of questions: 20.
-- Total mark: 100.
+- Full mark: 100.
 - Question types:
   1. Multiple choice, each question with 4 options.
   2. Short answer.
 
 ## Multiple-choice share for all cycles
 
-Multiple-choice questions must account for 75% of the total exam marks in all cycles.
+Multiple-choice questions must make up 75% of the total exam marks in all cycles.
 
 Accordingly:
-- 75 of the 100 marks go to multiple-choice questions.
-- 25 of the 100 marks go to the other question types prescribed for the cycle.
 
-The question types prescribed for each cycle may not be replaced with other types.
+- 75 of the 100 marks go to multiple-choice questions.
+- 25 of the 100 marks go to the other question types set for the cycle.
+
+The question types set for each cycle may not be replaced with other types.
 
 The number and types of questions must match the cycle, and the remaining questions must be distributed in a suitable and fair way.
 
-# 3. Rules for Writing the Exam Questions
+# 3. Rules for writing the exam questions
 
 Follow these rules:
 
-1. Every question is linked to the learning objectives in the plan.
-2. The information comes from the textbook.
+1. All questions are linked to the learning objectives in the plan.
+2. The information comes from the subject textbook.
 3. The wording suits the actual level of the target students.
 4. Use short, clear and direct sentences.
-5. Avoid complex wording and questions that allow more than one answer.
-6. Avoid questions that test more than one skill at a time without need.
-7. Grade the difficulty appropriately.
-8. Do not use information outside the prescribed content.
-9. Do not repeat the same question in different wording.
-10. Make sure every question has one clear correct answer.
-11. Use pictures or illustrative symbols where needed, provided they are linked to the learning objective and do not reveal the answer.
-12. Make sure pictures are clear, the font size is suitable, and the exam is easy to read.
+5. Avoid complex wording and questions that could have more than one answer.
+6. Avoid questions that test more than one skill at the same time unless necessary.
+7. Use a suitable progression in difficulty.
+8. Do not use information outside the required content.
+9. Avoid repeating the same question in different wording.
+10. Make sure every question has one correct, clear answer.
+11. Use pictures or symbols when needed, provided they are linked to the learning objective and do not give away the answer.
+12. Make sure pictures are clear, the font size is suitable and the exam is easy to read.
 
-# 4. Mark Distribution
+# 4. Distributing the marks
 
 Every exam in all three cycles must be out of exactly 100 marks.
 
@@ -1049,7 +1362,7 @@ Distribute the marks as follows:
 | Question type | Marks |
 |---|---:|
 | Multiple choice | 75 |
-| Other types prescribed for the cycle | 25 |
+| Other types set for the cycle | 25 |
 | Total | 100 |
 
 Mandatory instructions:
@@ -1058,62 +1371,134 @@ Mandatory instructions:
 2. State each question's mark clearly.
 3. In matching questions, state the mark of each item separately, not only the total for the question.
 4. In fill-in-the-blank questions, state the mark of each blank.
-5. In short-answer questions, state the mark for the answer and the answer elements that earn marks.
+5. In short-answer questions, state the mark for the answer and the answer elements that earn the marks.
 6. Make the marks of all questions and items add up to exactly 100.
 7. Do not leave any question or item without a mark.
-8. Show the mark next to each question or item, clearly for both the student and the teacher.
-9. At the end of the exam, add a clear box for the final total: 100 marks.
-10. Do a final arithmetic check of the mark distribution before handing in the exam.
+8. Show the mark next to the question or item, clearly for both the student and the teacher.
+9. Add a clear total box at the end of the exam: 100 marks.
+10. Do a final arithmetic check that the marks are distributed correctly before delivering the exam.
 
-The mark distribution must not be a formality: it must match the number of items to be answered.
+The distribution of marks must not be a formality: it must match the number of items to be answered.
 
-# 5. Use Western (English) Numerals
+# 5. Using English (Western) numerals
 
 This is mandatory in every exam, without exception.
 
-Use only Western (English) numerals:
+Use English numerals only:
 
 0, 1, 2, 3, 4, 5, 6, 7, 8, 9
 
-Eastern Arabic (Hindi) numerals must not be used in the exam.
+Eastern Arabic (Hindi) numerals are not allowed in the exam.
 
 This covers:
+
 - Question numbers.
 - Option numbers.
 - Page numbers.
 - Marks.
 - Dates.
-- Numbers inside question text.
-- Any other numbers on the exam pages.
+- Numbers inside question texts.
+- Any other numbers that appear on the exam pages.
 
-Every number used in the exam must be a Western (English) numeral.
+All numbers used in the exam must be English numerals.
 
-# 6. Prepare the Study Notes
+# 6. Preparing the study notes
 
 Create complete study notes based on the teaching plan and the textbook.
 
 They must include:
 
-1. The title of the notes, the subject, the grade and the semester.
-2. The content divided into units and lessons, following the plan.
-3. A simplified explanation of each topic.
-4. Clarification of the key concepts and information.
-5. Suitable applied examples.
-6. A variety of exercises after the lessons.
-7. Review questions that help consolidate the information.
-8. A highlight of the skills the end-of-semester exam will assess.
+1. The title of the notes and the subject, grade and semester.
+2. The content divided into units and lessons according to the plan.
+3. A simple explanation of each topic.
+4. Clear explanations of the key concepts and information.
+5. Suitable worked examples.
+6. Varied exercises after the lessons.
+7. Review questions that help students retain the information.
+8. A clear highlight of the skills the end-of-semester exam will measure.
 
 Rules for the notes:
 
-- Cover every learning objective, without leaving any out.
+- Cover every learning objective without leaving any out.
 - Use clear language suited to the students.
-- Take into account the characteristics of Students of Determination and individual differences.
+- Take into account the characteristics of students of determination and individual differences.
 - Contain no incorrect academic information.
 - Contain no topics outside the plan.
 - Be organised, attractive, and easy to read and print.
-- Use suitable pictures and illustrations where needed.
+- Use suitable pictures and illustrations when needed.
 
-# 7. Add End-of-Semester Exam Practice at the End of the Notes
+# 6 (continued). Clear fonts, easy reading and smaller files
+
+These instructions are mandatory and apply to the study notes, the exam, the practice exercises and every file produced.
+
+## A. Clear fonts and font sizes
+
+Design every file so that it is easy to read for students of determination, taking into account individual differences, learning difficulties and low vision.
+
+### In the study notes (Word):
+
+- Use a clear, easy-to-read Arabic font.
+- Body text no smaller than 18 pt, preferably 20 pt when the page space allows.
+- Main headings 24–28 pt.
+- Subheadings 20–22 pt.
+- Use suitable spacing between lines and paragraphs.
+- Leave enough white space between explanations and exercises.
+- Do not crowd information or put too much text on one page.
+- Highlight important words and concepts clearly.
+- Make sure the text is also clear when printed in black and white.
+
+### In the end-of-semester exam (PowerPoint):
+
+- Give top priority to how clearly the student can read the questions.
+- Use a large, clear Arabic font.
+- Question text no smaller than 24 pt, preferably 26–28 pt.
+- Multiple-choice options no smaller than 22 pt.
+- Make numbers, symbols and marks clear and easy to tell apart.
+- Do not shrink the font to fit more questions on a slide.
+- If a slide cannot hold the questions at a suitable size, add new slides while keeping the template's original design.
+- Avoid overlapping text, cramped lines, and crowded pictures and options.
+- Make the answer space suit the size of the student's handwriting.
+- Leave enough space between the options so the student can read them and mark the answer easily.
+
+### Important note about the approved template:
+
+If the original PowerPoint template uses small fonts, keep the template's identity and overall design, and enlarge the text you add so it can be read clearly, without changing the approved fixed elements.
+
+Do not let keeping to a number of slides become a reason to shrink the font or sacrifice readability.
+
+The priority is that the student can read the question and the options clearly without eye strain.
+
+## B. Reducing file size without lowering quality
+
+The final files must be as small as possible so teachers can easily upload them to the Daam platform, download them and share them.
+
+Follow these points:
+
+1. Compress pictures and graphics inside the Word and PowerPoint files.
+2. Use pictures optimised in size and resolution without losing important detail.
+3. Avoid very large or unnecessary pictures.
+4. Do not insert pictures in high-resolution formats when it is not needed.
+5. Remove hidden elements and unnecessary data that increase the file size.
+6. Use suitable media compression settings in Office.
+7. Do not turn whole pages or slides into pictures; the text must stay selectable and editable.
+8. Keep print quality and the clarity of text and pictures.
+9. Avoid repeating the same pictures inside the file at unnecessary sizes.
+10. Choose formats that balance quality and small size.
+
+## C. Checking the files before delivery
+
+Before delivering the final files:
+
+- Make sure each file's size is suitable for uploading to the Daam platform.
+- Reduce file sizes as much as possible without affecting clarity.
+- Open the files and check that the fonts are clear on screen and in print.
+- Make sure pictures and graphics are still clear after compression.
+- Make sure the formatting has not been distorted by reducing the file size.
+- Make sure the files open normally in Microsoft Office.
+
+**The main priority: clear content for the student first, then a smaller file without sacrificing reading and print quality.**
+
+# 7. Adding exam practice at the end of the notes
 
 At the end of the notes, add a separate section titled:
 
@@ -1123,142 +1508,172 @@ This section must work as a practice simulation of the real exam.
 
 Conditions:
 
-1. It simulates the question types prescribed for the cycle.
-2. It includes practice on every skill the exam assesses.
+1. It simulates the question types set for the cycle.
+2. It includes practice on every skill the exam measures.
 3. It suits the student's level.
 4. It contains varied questions that are not copied word for word from the exam.
 5. Its questions resemble the exam in wording and difficulty.
 6. It helps the student understand how to answer and prepare for the real exam.
-7. It includes enough practice on multiple choice and on the other types prescribed for the cycle.
+7. It includes enough practice on multiple choice and the other types set for the cycle.
 
-# 8. Keep the Approved PowerPoint Exam Template
+# 8. Keeping the approved PowerPoint exam template
 
-This is one of the most important instructions of the task.
+This is one of the most important instructions in the task.
 
 The exam template I will attach is a PowerPoint file approved by the school.
 
-You must work on a copy of the original PowerPoint file itself and insert the questions and content into it.
+Work on a copy of the original PowerPoint file itself and insert the questions and content into it.
 
-**Changing or redesigning the template is strictly prohibited.**
+**Changing or redesigning the template is strictly forbidden.**
 
-You must keep all of the following:
+Keep all of the following:
 
 - The original slide design.
 - The template colours.
-- The fonts and their sizes.
-- The logos and the institutional identity.
+- The original fonts and sizes of the fixed elements.
+- The logos and institutional identity.
 - The header and footer.
-- The tables, cells and borders.
-- The margins and alignment.
-- The slide backgrounds.
+- Tables, cells and borders.
+- Margins and alignment.
+- Slide backgrounds.
 - The order of slides and sections.
-- The layout of the elements on each slide.
+- The layout of elements on each slide.
 - Any fixed instructions or data in the template.
 
-The only thing required is to fill the template with the required questions and data.
+The task is only to fill the template with the required questions and data.
 
 Do not create a new exam with a different design, and do not convert the template to Word or PDF as the required original file.
 
-If the space in the template is not enough to show the questions clearly, add new slides using the template's original design and formatting. Do not delete or shorten the question content, and do not shrink the font in a way that harms readability.
+If the space in the template is not enough to show the questions clearly, add new slides using the template's original design and formatting; do not delete or shorten question content, and do not shrink the font in a way that harms readability.
 
 If the template cannot be edited, or a technical problem prevents keeping its formatting, tell me about the problem before making any change to the design.
 
-# 9. Prepare the Answer Key
+# 9. Preparing the answer key
 
 Create a separate answer key for the teacher, including:
 
 1. The correct answer to each question.
-2. The correct answers to each item in matching questions.
+2. The correct answers for each item in matching questions.
 3. The required answer for each blank.
 4. The acceptable answer elements in short-answer questions.
-5. The mark assigned to each question and item.
-6. A final table of the mark distribution, with its total checked.
+5. The mark for each question and item.
+6. A final table of the mark distribution with a check of the total.
 
 The answer key must match the exam exactly in question numbers and order.
 
-Do not put the answer key in the student's copy of the exam.
+Do not put the answer key inside the student's copy of the exam.
 
-# 10. Final Review and Quality Assurance
+# 10. Final review and quality assurance
 
-Before handing in the files, carry out a full review including:
+Before delivering the files, carry out a full review that includes:
 
-**Reviewing the notes:**
+## Reviewing the notes:
+
 - The notes match the teaching plan.
-- Every objective is covered.
+- All objectives are covered.
 - The information is correct.
 - The explanations suit the students' level.
-- The exam practice is included at the end.
+- There is exam practice at the end.
+- The font is clear and large enough.
+- The notes are easy to read and print.
+- The file size is suitable for uploading to the platform.
 
-**Reviewing the exam:**
-- The number of questions prescribed for the cycle is respected.
-- The prescribed question types are respected.
-- 75% of the marks go to multiple choice.
+## Reviewing the exam:
+
+- The number of questions set for the cycle is respected.
+- The question types set for the cycle are respected.
+- Multiple choice makes up 75% of the marks.
 - The marks are correctly distributed out of 100.
-- The mark of every question and item is clear.
-- Only Western (English) numerals are used.
+- Each question's and item's mark is clear.
+- Only English numerals are used.
 - The answers are correct.
 - The font, pictures and questions are clear.
+- The slides are not crowded.
+- There is no cut-off or overlapping text.
+- The student can read the questions and options easily.
 
-**Reviewing the PowerPoint template:**
+## Reviewing the PowerPoint template:
+
 - Compare the final version with the original template.
 - Make sure the template design has not changed.
-- Make sure no fixed element has been deleted.
-- Make sure every question appears correctly.
-- Make sure no text is cut off or overlapping.
+- Make sure no fixed element was deleted.
+- Make sure all questions appear correctly.
+- Make sure there is no cut-off or overlapping text.
 - Make sure the file can be edited, shown and printed.
 
-# 11. Required Final Files
+## Reviewing file sizes:
 
-I want 3 separate files:
+- Pictures and media are suitably compressed.
+- The files are as small as possible.
+- The quality of text and pictures is not affected.
+- The files can be opened, downloaded and uploaded to the Daam platform.
 
-**File 1: The study notes**
+# 11. The final files required
+
+I want 3 separate files delivered:
+
+## File 1: The study notes
+
 - An editable Word file.
 - Covers all topics and objectives.
 - Includes the exercises and activities.
 - Ends with end-of-semester exam practice.
+- Uses a large, clear Arabic font suitable for students of determination.
+- A small file size suitable for uploading to the Daam platform.
 
-**File 2: The end-of-semester exam**
+## File 2: The end-of-semester exam
+
 - An editable PowerPoint file.
 - Uses the original attached exam template.
 - Keeps the template's design and formatting completely.
-- Complies with the general guidelines for exams of Students of Determination.
-- Totals 100 marks.
+- Complies with the general guidelines for exams of students of determination.
+- Total of 100 marks.
+- A large, clear font that is comfortable to read.
+- Adds slides when needed instead of shrinking the font.
+- A small file size without lowering display and print quality.
 
-**File 3: The answer key**
+## File 3: The answer key
+
 - A separate file for the teacher.
 - Includes the answers and the detailed mark distribution.
-- Matches the final exam exactly.
+- Matches the final version of the exam.
+- Organised, clear and easy to use.
+- A small file size suitable for uploading and sharing.
 
-# 12. Mandatory Final Instructions
+# 12. Mandatory final instructions
 
 - Do not start work before studying the three files.
 - Do not invent objectives or information that are not in the sources.
 - Do not ignore any objective in the plan.
 - Do not change the approved exam template.
-- Do not exceed the number of questions prescribed for the cycle.
+- Do not exceed the number of questions set for the cycle.
 - Do not go above or below a total of 100 marks.
 - Do not change the 75% share for multiple choice.
 - Do not use Eastern Arabic (Hindi) numerals in the exam.
-- Do not stop at text content: actual editable files ready to hand in are required.
+- Do not stop at text content; real, editable files ready for delivery are required.
 - Review the files after creating them and make sure they are sound and of good quality.
+- Make clear fonts and easy reading a core priority in all files.
+- Do not shrink the font to fit the content; add pages or slides when needed.
+- Reduce file sizes by compressing pictures and media without lowering content quality.
+- Make sure all final files are suitable for uploading to the Daam platform.
 
-**Final goal:** to produce complete study notes and an end-of-semester exam that match the teaching plan, the textbook and the general guidelines for exams of Students of Determination, while keeping the school's official approved exam template completely unchanged.`?``:n}),k.pe={},J(`تم حفظ الأمر، ويظهر الآن للمعلمين.`,`Prompt saved; teachers now see it.`),$()},p(`نشر`,`Publish`))},z.promptUndo=()=>{k.pe={},$()},z.promptReset=()=>Q(p(`استعادة الأمر الأصلي للمنصة وحذف التعديلات المحفوظة؟ سيظهر الأمر الأصلي للمعلمين.`,`Restore the platform’s original prompt and remove the saved changes? Teachers will see the original prompt.`),async()=>{await L(`promptSet`,{ar:``,en:``}),k.pe={},J(`تمت استعادة الأمر الأصلي.`,`The original prompt was restored.`),$()},p(`استعادة`,`Restore`)),z.promptCopy=async()=>{let e=Ln(),t=()=>J(`تم نسخ الأمر. الصقه في محادثة جديدة مع Claude وأرفق الملفات الثلاثة.`,`Prompt copied. Paste it into a new chat with Claude and attach the three files.`);try{return await navigator.clipboard.writeText(e),t()}catch{}let n=document.createElement(`textarea`);n.value=e,n.setAttribute(`readonly`,``),n.style.cssText=`position:fixed;top:0;opacity:0`,document.body.appendChild(n),n.select();let r=!1;try{r=document.execCommand(`copy`)}catch{r=!1}n.remove(),r?t():Y(`تعذّر النسخ تلقائيًا. حدّد النص وانسخه يدويًا.`,`Could not copy automatically. Select the text and copy it manually.`)},z.promptDl=()=>Ue(Pn()===`ar`?`أمر-متطلبات-منصة-دعم.md`:`daam-requirements-prompt.md`,new Blob([`﻿`+Ln()],{type:`text/markdown;charset=utf-8`}));let Bn=[`home`,`memos`,`upload`,`log`,`sched`,`support`,`templates`,`prompt`,`report`];Ht.t.sort((e,t)=>Bn.indexOf(e[0])-Bn.indexOf(t[0])),B.t.report=()=>{let e=j(),t=t=>t>=e.slice(0,4)+`-08-01`&&t<e.slice(5)+`-08-01`,n=[...D.requests.values()].filter(e=>e.teacher===O.name&&t(e.at)),r=Qt(e),i=Zt(e),a=[];[...D.memos.values()].filter(t=>t.year===e).forEach(e=>e.versions.forEach(t=>{t.teacher===O.name&&a.push({m:e,v:t})}));let o={rq:p(`طلب دعم فوري`,`Instant support request`),ex:p(`اختبار نهاية فصل مرفوع`,`Final exam uploaded`),sc:p(`جدولة اختبار تكويني`,`Formative exam schedule`),mm:p(`مذكرة مراجعة مرفوعة`,`Review notes uploaded`)},s=[...n.map(e=>[e.at,[o.rq,`${w(C,e.type)} — ${P(e.studentId)}`,h(e.at),w(pe,gt(e))]]),...r.map(e=>[e.at,[o.ex,`${v(e.subject)} — ${b(e.sem)} — ${F(e)}`,h(e.at),w(S,R(e))]]),...i.map(e=>[e.at,[o.sc,`${x(e.type)} — ${v(e.subject)} — ${b(e.sem)} — ${y(e.grade,e.section)} — ${h(e.date)}`,h(e.at),w(fe,ht(e))]]),...a.map(({m:e,v:t})=>[t.at,[o.mm,`${v(e.subject)} — ${P(e.studentId)}`,h(t.at),(D.mrev.get(e.id)||{}).approved?p(`معتمدة`,`Approved`):p(`تم الرفع`,`Uploaded`)]])].sort((e,t)=>e[0]<t[0]?1:-1).map(e=>e[1]);return k.rep={title:p(`تقرير المعلم: `,`Teacher report: `)+O.name+` — `+e,sum:[[p(`طلبات الدعم الفوري`,`Instant support requests`),n.length],[p(`اختبارات رفعتها`,`Exams uploaded`),r.length],[p(`اختبارات جدولتها`,`Exams scheduled`),i.length],[p(`مذكرات رفعتها`,`Notes uploaded`),a.length]],head:[p(`النوع`,`Type`),p(`التفاصيل`,`Details`),p(`التاريخ`,`Date`),p(`الحالة`,`Status`)],rows:s},`${q(`تقريري`,`My Report`,p(`ملخص ما قدمته على المنصة خلال العام الدراسي، جاهز للتنزيل والطباعة.`,`A summary of what you did on the platform this academic year, ready to download and print.`))}${Ot()}${Dn()}${Un(k.rep)}`},Ht.s.splice(7,0,[`myrep`,`award`,`تقرير إنجازي`,`My Achievement Report`]),B.s.myrep=()=>{let e=[...D.alog.values()],t=[...new Set([O.name,...e.map(e=>e.by)])].sort(),n=V(`q_who`,O.name),r=V(`q_from`),i=V(`q_to`),a=V(`q_cat`),o=e.filter(e=>(n===`all`||e.by===n)&&(!r||e.at.slice(0,10)>=r)&&(!i||e.at.slice(0,10)<=i)&&(!a||wn[e.type]===a)).sort((e,t)=>e.at<t.at?1:-1),s=e=>o.filter(t=>wn[t.type]===e).length;return k.rep={title:p(`تقرير إنجاز معلم التربية الخاصة: `,`Special education teacher achievement report: `)+(n===`all`?p(`جميع المعلمين`,`All teachers`):n)+(r||i?` (${r?h(r):`…`} — ${i?h(i):`…`})`:``),sum:[[p(`إجمالي الإجراءات`,`Total actions`),o.length],...Object.keys(Cn).map(e=>[p(Cn[e][0],Cn[e][1]),s(e)]).filter(e=>e[1]||!a)],head:[p(`التاريخ والوقت`,`Date and time`),p(`المعلم`,`Teacher`),p(`المجال`,`Area`),p(`الإجراء`,`Action`)],rows:o.map(e=>[g(e.at),e.by,p(Cn[wn[e.type]][0],Cn[wn[e.type]][1]),Tn(e)])},`${q(`تقرير إنجازي`,`My Achievement Report`,p(`كل إجراء يُسجَّل باسم من قام به، فتقرير كل معلم مستقل عن الآخر. يبدأ التسجيل من تاريخ إضافة هذه الخاصية.`,`Every action is recorded under the name of the person who did it, so each teacher’s report is separate. Recording starts from the date this feature was added.`))}
+**The final goal:** to produce complete study notes and an end-of-semester exam that match the teaching plan, the subject textbook and the general guidelines for exams of students of determination, while fully keeping the school's official approved exam template, giving the student a comfortable and clear reading experience, and keeping file sizes small so they are easy to share and upload to the Daam platform.`?``:n}),k.pe={},J(`تم حفظ الأمر، ويظهر الآن للمعلمين.`,`Prompt saved; teachers now see it.`),$()},p(`نشر`,`Publish`))},z.promptUndo=()=>{k.pe={},$()},z.promptReset=()=>Q(p(`استعادة الأمر الأصلي للمنصة وحذف التعديلات المحفوظة؟ سيظهر الأمر الأصلي للمعلمين.`,`Restore the platform’s original prompt and remove the saved changes? Teachers will see the original prompt.`),async()=>{await L(`promptSet`,{ar:``,en:``}),k.pe={},J(`تمت استعادة الأمر الأصلي.`,`The original prompt was restored.`),$()},p(`استعادة`,`Restore`)),z.promptCopy=async()=>{let e=Ln(),t=()=>J(`تم نسخ الأمر. الصقه في محادثة جديدة مع Claude وأرفق الملفات الثلاثة.`,`Prompt copied. Paste it into a new chat with Claude and attach the three files.`);try{return await navigator.clipboard.writeText(e),t()}catch{}let n=document.createElement(`textarea`);n.value=e,n.setAttribute(`readonly`,``),n.style.cssText=`position:fixed;top:0;opacity:0`,document.body.appendChild(n),n.select();let r=!1;try{r=document.execCommand(`copy`)}catch{r=!1}n.remove(),r?t():Y(`تعذّر النسخ تلقائيًا. حدّد النص وانسخه يدويًا.`,`Could not copy automatically. Select the text and copy it manually.`)},z.promptDl=()=>Ue(Pn()===`ar`?`أمر-متطلبات-منصة-دعم.md`:`daam-requirements-prompt.md`,new Blob([`﻿`+Ln()],{type:`text/markdown;charset=utf-8`}));let Vn=[`home`,`memos`,`upload`,`log`,`sched`,`support`,`templates`,`prompt`,`report`];Ht.t.sort((e,t)=>Vn.indexOf(e[0])-Vn.indexOf(t[0])),B.t.report=()=>{let e=j(),t=t=>t>=e.slice(0,4)+`-08-01`&&t<e.slice(5)+`-08-01`,n=[...D.requests.values()].filter(e=>e.teacher===O.name&&t(e.at)),r=Qt(e),i=Zt(e),a=[];[...D.memos.values()].filter(t=>t.year===e).forEach(e=>e.versions.forEach(t=>{t.teacher===O.name&&a.push({m:e,v:t})}));let o={rq:p(`طلب دعم فوري`,`Instant support request`),ex:p(`اختبار نهاية فصل مرفوع`,`Final exam uploaded`),sc:p(`جدولة اختبار تكويني`,`Formative exam schedule`),mm:p(`مذكرة مراجعة مرفوعة`,`Review notes uploaded`)},s=[...n.map(e=>[e.at,[o.rq,`${w(C,e.type)} — ${P(e.studentId)}`,h(e.at),w(pe,gt(e))]]),...r.map(e=>[e.at,[o.ex,`${v(e.subject)} — ${b(e.sem)} — ${F(e)}`,h(e.at),w(S,R(e))]]),...i.map(e=>[e.at,[o.sc,`${x(e.type)} — ${v(e.subject)} — ${b(e.sem)} — ${y(e.grade,e.section)} — ${h(e.date)}`,h(e.at),w(fe,ht(e))]]),...a.map(({m:e,v:t})=>[t.at,[o.mm,`${v(e.subject)} — ${P(e.studentId)}`,h(t.at),(D.mrev.get(e.id)||{}).approved?p(`معتمدة`,`Approved`):p(`تم الرفع`,`Uploaded`)]])].sort((e,t)=>e[0]<t[0]?1:-1).map(e=>e[1]);return k.rep={title:p(`تقرير المعلم: `,`Teacher report: `)+O.name+` — `+e,sum:[[p(`طلبات الدعم الفوري`,`Instant support requests`),n.length],[p(`اختبارات رفعتها`,`Exams uploaded`),r.length],[p(`اختبارات جدولتها`,`Exams scheduled`),i.length],[p(`مذكرات رفعتها`,`Notes uploaded`),a.length]],head:[p(`النوع`,`Type`),p(`التفاصيل`,`Details`),p(`التاريخ`,`Date`),p(`الحالة`,`Status`)],rows:s},`${q(`تقريري`,`My Report`,p(`ملخص ما قدمته على المنصة خلال العام الدراسي، جاهز للتنزيل والطباعة.`,`A summary of what you did on the platform this academic year, ready to download and print.`))}${Ot()}${Dn()}${Wn(k.rep)}`},Ht.s.splice(7,0,[`myrep`,`award`,`تقرير إنجازي`,`My Achievement Report`]),B.s.myrep=()=>{let e=[...D.alog.values()],t=[...new Set([O.name,...e.map(e=>e.by)])].sort(),n=V(`q_who`,O.name),r=V(`q_from`),i=V(`q_to`),a=V(`q_cat`),o=e.filter(e=>(n===`all`||e.by===n)&&(!r||e.at.slice(0,10)>=r)&&(!i||e.at.slice(0,10)<=i)&&(!a||wn[e.type]===a)).sort((e,t)=>e.at<t.at?1:-1),s=e=>o.filter(t=>wn[t.type]===e).length;return k.rep={title:p(`تقرير إنجاز معلم التربية الخاصة: `,`Special education teacher achievement report: `)+(n===`all`?p(`جميع المعلمين`,`All teachers`):n)+(r||i?` (${r?h(r):`…`} — ${i?h(i):`…`})`:``),sum:[[p(`إجمالي الإجراءات`,`Total actions`),o.length],...Object.keys(Cn).map(e=>[p(Cn[e][0],Cn[e][1]),s(e)]).filter(e=>e[1]||!a)],head:[p(`التاريخ والوقت`,`Date and time`),p(`المعلم`,`Teacher`),p(`المجال`,`Area`),p(`الإجراء`,`Action`)],rows:o.map(e=>[g(e.at),e.by,p(Cn[wn[e.type]][0],Cn[wn[e.type]][1]),Tn(e)])},`${q(`تقرير إنجازي`,`My Achievement Report`,p(`كل إجراء يُسجَّل باسم من قام به، فتقرير كل معلم مستقل عن الآخر. يبدأ التسجيل من تاريخ إضافة هذه الخاصية.`,`Every action is recorded under the name of the person who did it, so each teacher’s report is separate. Recording starts from the date this feature was added.`))}
   <div class="card"><div class="fg" style="grid-template-columns:repeat(auto-fit,minmax(160px,1fr))">${U(p(`المعلم`,`Teacher`),`<select data-f="q_who" data-re="1">${t.map(e=>H(e,e===O.name?e+p(` (أنا)`,` (me)`):e,n)).join(``)}${H(`all`,p(`جميع معلمي التربية الخاصة`,`All special education teachers`),n)}</select>`)}${U(p(`من تاريخ`,`From`),`<input type="date" data-f="q_from" data-re="1" value="${m(r)}">`)}${U(p(`إلى تاريخ`,`To`),`<input type="date" data-f="q_to" data-re="1" value="${m(i)}">`)}${U(p(`المجال`,`Area`),wt(`q_cat`,Object.keys(Cn).map(e=>[e,p(Cn[e][0],Cn[e][1])]),{ph:p(`كل المجالات`,`All areas`),re:1}))}</div></div>
-  ${Dn()}${Un(k.rep)}`};let Vn=[[`r1`,`الاختبارات المستلمة`,`Received exams`],[`r2`,`الاختبارات غير المستلمة`,`Not received`],[`r3`,`الاختبارات قيد التعديل`,`Under revision`],[`r4`,`الجاهزة للتسليم للشؤون الأكاديمية`,`Ready for Academic Affairs`],[`r5`,`ملخص متطلبات كل طالب`,`Requirements per student`]];function Hn(e){let t=V(`q_year`,j()),n=e=>V(`q_`+e),r=n(`sem`)?[+n(`sem`)]:[1,2,3],i=N().filter(e=>(!n(`student`)||e.id===n(`student`))&&(!n(`grade`)||+e.grade==+n(`grade`))&&(!n(`section`)||+e.section==+n(`section`))),a=e=>pt(e).map(e=>e.name).join(`، `)||`—`,o={t:p(`المعلم`,`Teacher`),st:p(`الطلاب المرتبطون`,`Linked students`),sj:p(`المادة`,`Subject`),cl:p(`الصف والشعبة`,`Class`),sm:p(`الفصل الدراسي`,`Semester`),s:p(`الحالة`,`Status`)};if(e===`r1`){let e=bn(),t=0;return e.forEach(e=>t+=pt(e).length),{title:p(`تقرير الاختبارات المستلمة`,`Received exams report`),sum:[[p(`ملفات اختبارات مستلمة`,`Exam files received`),e.length],[p(`متطلبات طلاب استوفيت`,`Student requirements met`),t],[p(`معلمون سلّموا`,`Teachers who submitted`),new Set(e.map(e=>e.teacher)).size]],head:[o.t,p(`الطلاب الذين استوفيت متطلباتهم`,`Students whose requirement is met`),o.sj,o.cl,o.sm,p(`تاريخ الرفع`,`Uploaded`),o.s],rows:e.map(e=>[e.teacher,a(e),v(e.subject),F(e),b(e.sem),h(st(e).at),w(S,R(e))])}}if(e===`r2`){let e=[],a=new Set;return r.forEach(r=>i.forEach(i=>ft(i,t,r).items.forEach(o=>{let s=mt(i,o.subject,t,r);!o.exam&&(!n(`subject`)||o.subject===n(`subject`))&&(!n(`teacher`)||s===n(`teacher`))&&(a.add(i.id),e.push([i.name,y(i.grade,i.section),v(o.subject),s||p(`غير محدد`,`Not set`),b(r)]))}))),{title:p(`تقرير الاختبارات غير المستلمة`,`Not received exams report`),sum:[[p(`اختبارات مطلوبة لم تُستلم`,`Required exams not received`),e.length],[p(`طلاب لديهم اختبارات غير مستلمة`,`Students with exams outstanding`),a.size]],head:[p(`الطالب`,`Student`),o.cl,p(`المادة التي لم يُرفع اختبارها`,`Subject with no exam uploaded`),p(`المعلم المسؤول عن التسليم`,`Teacher responsible`),o.sm],rows:e}}if(e===`r3`){let e=bn(`revision`);return{title:p(`تقرير الاختبارات قيد التعديل`,`Exams under revision report`),sum:[[p(`اختبارات تحتاج إلى تعديل`,`Exams needing revision`),e.length],[p(`أُعيد رفعها`,`Re-uploaded`),e.filter(e=>R(e)===`resub`).length]],head:[o.t,o.st,o.sj,o.cl,p(`ملاحظات التعديل المطلوبة`,`Requested changes`),p(`تاريخ طلب التعديل`,`Revision requested`),p(`هل أعاد المعلم الرفع؟`,`Re-uploaded by teacher?`)],rows:e.map(e=>{let t=D.xrev.get(e.id)||{};return[e.teacher,a(e),v(e.subject),F(e),t.comment||`—`,h(t.revAt||t.at),R(e)===`resub`?p(`نعم`,`Yes`):p(`لا`,`No`)]})}}if(e===`r4`){let e=bn(`ready`);return{title:p(`تقرير الاختبارات الجاهزة للتسليم للشؤون الأكاديمية`,`Exams ready for Academic Affairs report`),sum:[[p(`اختبارات جاهزة`,`Exams ready`),e.length]],head:[o.t,o.st,o.sj,o.cl,o.sm,p(`تاريخ انتهاء المراجعة`,`Review completed`)],rows:e.map(e=>[e.teacher,a(e),v(e.subject),F(e),b(e.sem),h((D.xrev.get(e.id)||{}).readyAt)])}}let s=[],c=0,l=0,u=0;return r.forEach(e=>i.forEach(r=>{let i=ft(r,t,e);(i.required||n(`sem`)!==``)&&(c+=i.required,l+=i.ready,u+=i.uploaded,s.push([r.name,y(r.grade,r.section),b(e),i.subs.map(v).join(`، `)||`—`,i.required,i.uploaded,i.awaiting+i.received,i.review,i.revision,i.ready,i.remaining,i.pct+`%`]))})),{title:p(`ملخص متطلبات الاختبارات لكل طالب`,`Exam requirements summary per student`),sum:[[p(`إجمالي المطلوب`,`Total required`),c],[p(`المرفوع`,`Uploaded`),u],[p(`الجاهز للتسليم`,`Ready`),l],[p(`نسبة الإنجاز (الجاهز ÷ المطلوب)`,`Completion (ready ÷ required)`),(c?Math.round(l/c*100):0)+`%`]],head:[p(`الطالب`,`Student`),o.cl,o.sm,p(`المواد المطلوبة`,`Required subjects`),p(`المطلوب`,`Required`),p(`المرفوع`,`Uploaded`),p(`المستلم`,`Received`),p(`قيد المراجعة`,`Under review`),p(`يحتاج تعديل`,`Needs revision`),p(`جاهز للتسليم`,`Ready`),p(`غير المستلم`,`Not received`),p(`نسبة الإنجاز`,`Completion`)],rows:s}}B.s.reports=()=>{let e=k.tab||`r1`,t=Hn(e);return k.rep=t,`${q(`تقارير متابعة الاختبارات | Exam Tracking Reports`,`Exam Tracking Reports | تقارير متابعة الاختبارات`,p(`المطلوب يُحسب من قائمة متطلبات الطلاب، والمستلم من الملفات المرفوعة فعليًا. الملف الواحد يُعد مرة واحدة ولو غطى عدة طلاب.`,`Required counts come from the student requirements list; received counts come from files actually uploaded. One file is counted once even when it covers several students.`))}
-  <div class="tabs">${Vn.map(([t,n,r])=>`<button class="tab ${e===t?`on`:``}" data-act="setv" data-k="tab" data-val="${t}">${m(p(n,r))}</button>`).join(``)}</div>
+  ${Dn()}${Wn(k.rep)}`};let Hn=[[`r1`,`الاختبارات المستلمة`,`Received exams`],[`r2`,`الاختبارات غير المستلمة`,`Not received`],[`r3`,`الاختبارات قيد التعديل`,`Under revision`],[`r4`,`الجاهزة للتسليم للشؤون الأكاديمية`,`Ready for Academic Affairs`],[`r5`,`ملخص متطلبات كل طالب`,`Requirements per student`]];function Un(e){let t=V(`q_year`,j()),n=e=>V(`q_`+e),r=n(`sem`)?[+n(`sem`)]:[1,2,3],i=N().filter(e=>(!n(`student`)||e.id===n(`student`))&&(!n(`grade`)||+e.grade==+n(`grade`))&&(!n(`section`)||+e.section==+n(`section`))),a=e=>pt(e).map(e=>e.name).join(`، `)||`—`,o={t:p(`المعلم`,`Teacher`),st:p(`الطلاب المرتبطون`,`Linked students`),sj:p(`المادة`,`Subject`),cl:p(`الصف والشعبة`,`Class`),sm:p(`الفصل الدراسي`,`Semester`),s:p(`الحالة`,`Status`)};if(e===`r1`){let e=bn(),t=0;return e.forEach(e=>t+=pt(e).length),{title:p(`تقرير الاختبارات المستلمة`,`Received exams report`),sum:[[p(`ملفات اختبارات مستلمة`,`Exam files received`),e.length],[p(`متطلبات طلاب استوفيت`,`Student requirements met`),t],[p(`معلمون سلّموا`,`Teachers who submitted`),new Set(e.map(e=>e.teacher)).size]],head:[o.t,p(`الطلاب الذين استوفيت متطلباتهم`,`Students whose requirement is met`),o.sj,o.cl,o.sm,p(`تاريخ الرفع`,`Uploaded`),o.s],rows:e.map(e=>[e.teacher,a(e),v(e.subject),F(e),b(e.sem),h(st(e).at),w(S,R(e))])}}if(e===`r2`){let e=[],a=new Set;return r.forEach(r=>i.forEach(i=>ft(i,t,r).items.forEach(o=>{let s=mt(i,o.subject,t,r);!o.exam&&(!n(`subject`)||o.subject===n(`subject`))&&(!n(`teacher`)||s===n(`teacher`))&&(a.add(i.id),e.push([i.name,y(i.grade,i.section),v(o.subject),s||p(`غير محدد`,`Not set`),b(r)]))}))),{title:p(`تقرير الاختبارات غير المستلمة`,`Not received exams report`),sum:[[p(`اختبارات مطلوبة لم تُستلم`,`Required exams not received`),e.length],[p(`طلاب لديهم اختبارات غير مستلمة`,`Students with exams outstanding`),a.size]],head:[p(`الطالب`,`Student`),o.cl,p(`المادة التي لم يُرفع اختبارها`,`Subject with no exam uploaded`),p(`المعلم المسؤول عن التسليم`,`Teacher responsible`),o.sm],rows:e}}if(e===`r3`){let e=bn(`revision`);return{title:p(`تقرير الاختبارات قيد التعديل`,`Exams under revision report`),sum:[[p(`اختبارات تحتاج إلى تعديل`,`Exams needing revision`),e.length],[p(`أُعيد رفعها`,`Re-uploaded`),e.filter(e=>R(e)===`resub`).length]],head:[o.t,o.st,o.sj,o.cl,p(`ملاحظات التعديل المطلوبة`,`Requested changes`),p(`تاريخ طلب التعديل`,`Revision requested`),p(`هل أعاد المعلم الرفع؟`,`Re-uploaded by teacher?`)],rows:e.map(e=>{let t=D.xrev.get(e.id)||{};return[e.teacher,a(e),v(e.subject),F(e),t.comment||`—`,h(t.revAt||t.at),R(e)===`resub`?p(`نعم`,`Yes`):p(`لا`,`No`)]})}}if(e===`r4`){let e=bn(`ready`);return{title:p(`تقرير الاختبارات الجاهزة للتسليم للشؤون الأكاديمية`,`Exams ready for Academic Affairs report`),sum:[[p(`اختبارات جاهزة`,`Exams ready`),e.length]],head:[o.t,o.st,o.sj,o.cl,o.sm,p(`تاريخ انتهاء المراجعة`,`Review completed`)],rows:e.map(e=>[e.teacher,a(e),v(e.subject),F(e),b(e.sem),h((D.xrev.get(e.id)||{}).readyAt)])}}let s=[],c=0,l=0,u=0;return r.forEach(e=>i.forEach(r=>{let i=ft(r,t,e);(i.required||n(`sem`)!==``)&&(c+=i.required,l+=i.ready,u+=i.uploaded,s.push([r.name,y(r.grade,r.section),b(e),i.subs.map(v).join(`، `)||`—`,i.required,i.uploaded,i.awaiting+i.received,i.review,i.revision,i.ready,i.remaining,i.pct+`%`]))})),{title:p(`ملخص متطلبات الاختبارات لكل طالب`,`Exam requirements summary per student`),sum:[[p(`إجمالي المطلوب`,`Total required`),c],[p(`المرفوع`,`Uploaded`),u],[p(`الجاهز للتسليم`,`Ready`),l],[p(`نسبة الإنجاز (الجاهز ÷ المطلوب)`,`Completion (ready ÷ required)`),(c?Math.round(l/c*100):0)+`%`]],head:[p(`الطالب`,`Student`),o.cl,o.sm,p(`المواد المطلوبة`,`Required subjects`),p(`المطلوب`,`Required`),p(`المرفوع`,`Uploaded`),p(`المستلم`,`Received`),p(`قيد المراجعة`,`Under review`),p(`يحتاج تعديل`,`Needs revision`),p(`جاهز للتسليم`,`Ready`),p(`غير المستلم`,`Not received`),p(`نسبة الإنجاز`,`Completion`)],rows:s}}B.s.reports=()=>{let e=k.tab||`r1`,t=Un(e);return k.rep=t,`${q(`تقارير متابعة الاختبارات | Exam Tracking Reports`,`Exam Tracking Reports | تقارير متابعة الاختبارات`,p(`المطلوب يُحسب من قائمة متطلبات الطلاب، والمستلم من الملفات المرفوعة فعليًا. الملف الواحد يُعد مرة واحدة ولو غطى عدة طلاب.`,`Required counts come from the student requirements list; received counts come from files actually uploaded. One file is counted once even when it covers several students.`))}
+  <div class="tabs">${Hn.map(([t,n,r])=>`<button class="tab ${e===t?`on`:``}" data-act="setv" data-k="tab" data-val="${t}">${m(p(n,r))}</button>`).join(``)}</div>
   ${yn([`year`,`sem`,`subject`,`teacher`,`student`,`grade`,`section`,...e===`r1`?[`status`]:[]])}
   <div class="row">${s?``:K(`repPrint`,p(`طباعة`,`Print`),{ic:`print`})}${K(`repXlsx`,p(`تصدير Excel`,`Export to Excel`),{ic:`dl`})}${K(`repPdf`,p(`تصدير PDF`,`Export to PDF`),{ic:`dl`})}</div>
-  ${Un(t)}`};let Un=e=>`<div class="paper col" id="paper"><div class="row sp"><div><h2>${m(e.title)}</h2><p class="sm mut">${p(`مجمع زايد التعليمي – سهيلة | قسم التربية الخاصة`,`Zayed Education Complex – Suhaila | Special Education Department`)} — ${g(ne())}</p></div></div><div class="kv">${e.sum.map(([e,t])=>`<div><b>${m(t)}</b><span class="sm mut">${m(e)}</span></div>`).join(``)}</div>${G(e.head,e.rows.map(e=>e.map(m)),p(`لا توجد بيانات مطابقة لهذه التصفية.`,`No data matches these filters.`))}</div>`;async function Wn(e,t){let n=[[t.title],...t.sum.map(([e,t])=>[e,t]),[],t.head,...t.rows];if(window.XLSX){let r=window.XLSX,i=r.utils.aoa_to_sheet(n),a=r.utils.book_new();i[`!cols`]=t.head.map(()=>({wch:24})),f===`ar`&&(a.Workbook={Views:[{RTL:!0}]}),r.utils.book_append_sheet(a,i,`Report`),await Ue(e+`.xlsx`,new Blob([r.write(a,{type:`array`,bookType:`xlsx`})]))}else await Ue(e+`.csv`,new Blob([`﻿`+n.map(e=>e.map(e=>`"`+String(e??``).replace(/"/g,`""`)+`"`).join(`,`)).join(`
-`)]))}z.repXlsx=()=>Wn(`daam-report`,k.rep),z.repPrint=()=>{try{window.print()}catch{Y(`الطباعة غير متاحة في هذا العرض. استخدم تصدير PDF.`,`Printing is not available in this view. Use Export to PDF.`)}},z.repPdf=async()=>{let e=te(`#paper`);if(!window.html2canvas||!window.jspdf||!e)return Y(`تصدير PDF غير متاح الآن. جرّب الطباعة أو تصدير Excel.`,`PDF export is not available right now. Try Print or Export to Excel.`);Nt(p(`جارٍ تجهيز ملف PDF…`,`Preparing the PDF…`));try{let t=await window.html2canvas(e,{scale:2,backgroundColor:`#ffffff`}),n=new window.jspdf.jsPDF({orientation:`l`,unit:`pt`,format:`a4`}),r=n.internal.pageSize.getWidth()-40,i=n.internal.pageSize.getHeight()-40,a=r/t.width,o=Math.floor(i/a);for(let e=0;e<t.height;e+=o){let i=document.createElement(`canvas`);i.width=t.width,i.height=Math.min(o,t.height-e);let s=i.getContext(`2d`);s.fillStyle=`#fff`,s.fillRect(0,0,i.width,i.height),s.drawImage(t,0,-e),e&&n.addPage(),n.addImage(i.toDataURL(`image/jpeg`,.9),`JPEG`,20,20,r,i.height*a)}await Ue(`daam-report.pdf`,n.output(`blob`))}catch{Y(`تعذّر إنشاء ملف PDF.`,`The PDF could not be created.`)}};function Gn(){let e=V(`q_year`,`all`),t=e=>V(`q_`+e),n=t(`type`),r=String(t(`text`)||``).trim().toLowerCase(),i=t(`status`),a=n=>(e===`all`||n.year===e)&&(!t(`sem`)||+n.sem==+t(`sem`))&&(!t(`subject`)||n.subject===t(`subject`))&&(!t(`teacher`)||n.teacher===t(`teacher`))&&(!t(`grade`)||+n.grade==+t(`grade`))&&(!t(`section`)||+n.section==+t(`section`));return{ex:n===`formative`?[]:[...D.exams.values()].filter(e=>a(e)&&(!i||(i===`revision`?[`revision`,`resub`].includes(R(e)):R(e)===i))&&(!t(`student`)||N().some(n=>n.id===t(`student`)&&+n.grade==+e.grade&&+n.section==+e.section&&ut(n.id,e.year,e.sem).includes(e.subject)))&&(!r||(e.teacher+` `+e.versions.map(e=>e.file.name).join(` `)).toLowerCase().includes(r))),sc:n===`final`||i||t(`student`)?[]:[...D.schedules.values()].filter(e=>a(e)&&(!r||e.teacher.toLowerCase().includes(r)))}}B.s.archive=()=>{let e=V(`q_year`,`all`),t=e=>V(`q_`+e),{ex:n,sc:r}=Gn(),i=[...n.map(e=>[e.at,[m(e.year),m(b(e.sem)),m(x(`final`)),m(v(e.subject)),m(F(e)),m(e.teacher),h(e.at),e.deleted?`<span class="bd c-gray">${p(`محذوف`,`Deleted`)}</span>`:T(S,R(e)),`${e.versions.length} ${p(`نسخة`,`version(s)`)}`,`<div class="row">${K(`examHist`,p(`النسخ والسجل`,`Versions and history`),{cls:`s`,ic:`clock`,d:{id:e.id}})}${K(`archDel`,p(`حذف نهائي`,`Delete permanently`),{cls:`s d`,ic:`trash`,d:{kind:`exam`,id:e.id}})}</div>`]]),...r.map(e=>[e.at,[m(e.year),m(b(e.sem)),m(x(e.type)),m(v(e.subject)),m(y(e.grade,e.section)),m(e.teacher),h(e.date),T(fe,ht(e)),`—`,K(`archDel`,p(`حذف نهائي`,`Delete permanently`),{cls:`s d`,ic:`trash`,d:{kind:`sched`,id:e.id}})]])].sort((e,t)=>e[0]<t[0]?1:-1).map(e=>e[1]),a=n.length+r.length?`<div class="card col" style="border-color:var(--red)"><h2>${p(`حذف نتائج الأرشيف المعروضة`,`Delete the archive results shown`)}</h2><p class="sm mut">${p(`يحذف نهائيًا كل ما يطابق التصفية الحالية: ${n.length} اختبار و${r.length} جدولة، مع كل النسخ والملفات وسجل المراجعة. لا تُرسل إشعارات للمعلمين. لا يمكن التراجع.`,`Permanently deletes everything matching the current filters: ${n.length} exam(s) and ${r.length} schedule(s), with every version, file and review history. Teachers are not notified. This cannot be undone.`)}</p><div class="fg">${En(`apw`)}<div class="f"><span>&nbsp;</span>${K(`archBulk`,p(`حذف النتائج المعروضة`,`Delete the results shown`),{cls:`d`,ic:`trash`})}</div></div></div>`:``;return`${q(`الأرشيف الإلكتروني`,`Electronic Archive`,p(`كل الاختبارات والجدولات والنسخ السابقة لجميع الأعوام. لا يُحذف شيء عند بدء عام جديد.`,`Every exam, schedule and earlier version across all years. Nothing is removed when a new year starts.`))}
+  ${Wn(t)}`};let Wn=e=>`<div class="paper col" id="paper"><div class="row sp"><div><h2>${m(e.title)}</h2><p class="sm mut">${p(`مجمع زايد التعليمي – سهيلة | قسم التربية الخاصة`,`Zayed Education Complex – Suhaila | Special Education Department`)} — ${g(ne())}</p></div></div><div class="kv">${e.sum.map(([e,t])=>`<div><b>${m(t)}</b><span class="sm mut">${m(e)}</span></div>`).join(``)}</div>${G(e.head,e.rows.map(e=>e.map(m)),p(`لا توجد بيانات مطابقة لهذه التصفية.`,`No data matches these filters.`))}</div>`;async function Gn(e,t){let n=[[t.title],...t.sum.map(([e,t])=>[e,t]),[],t.head,...t.rows];if(window.XLSX){let r=window.XLSX,i=r.utils.aoa_to_sheet(n),a=r.utils.book_new();i[`!cols`]=t.head.map(()=>({wch:24})),f===`ar`&&(a.Workbook={Views:[{RTL:!0}]}),r.utils.book_append_sheet(a,i,`Report`),await Ue(e+`.xlsx`,new Blob([r.write(a,{type:`array`,bookType:`xlsx`})]))}else await Ue(e+`.csv`,new Blob([`﻿`+n.map(e=>e.map(e=>`"`+String(e??``).replace(/"/g,`""`)+`"`).join(`,`)).join(`
+`)]))}z.repXlsx=()=>Gn(`daam-report`,k.rep),z.repPrint=()=>{try{window.print()}catch{Y(`الطباعة غير متاحة في هذا العرض. استخدم تصدير PDF.`,`Printing is not available in this view. Use Export to PDF.`)}},z.repPdf=async()=>{let e=te(`#paper`);if(!window.html2canvas||!window.jspdf||!e)return Y(`تصدير PDF غير متاح الآن. جرّب الطباعة أو تصدير Excel.`,`PDF export is not available right now. Try Print or Export to Excel.`);Nt(p(`جارٍ تجهيز ملف PDF…`,`Preparing the PDF…`));try{let t=await window.html2canvas(e,{scale:2,backgroundColor:`#ffffff`}),n=new window.jspdf.jsPDF({orientation:`l`,unit:`pt`,format:`a4`}),r=n.internal.pageSize.getWidth()-40,i=n.internal.pageSize.getHeight()-40,a=r/t.width,o=Math.floor(i/a);for(let e=0;e<t.height;e+=o){let i=document.createElement(`canvas`);i.width=t.width,i.height=Math.min(o,t.height-e);let s=i.getContext(`2d`);s.fillStyle=`#fff`,s.fillRect(0,0,i.width,i.height),s.drawImage(t,0,-e),e&&n.addPage(),n.addImage(i.toDataURL(`image/jpeg`,.9),`JPEG`,20,20,r,i.height*a)}await Ue(`daam-report.pdf`,n.output(`blob`))}catch{Y(`تعذّر إنشاء ملف PDF.`,`The PDF could not be created.`)}};function Kn(){let e=V(`q_year`,`all`),t=e=>V(`q_`+e),n=t(`type`),r=String(t(`text`)||``).trim().toLowerCase(),i=t(`status`),a=n=>(e===`all`||n.year===e)&&(!t(`sem`)||+n.sem==+t(`sem`))&&(!t(`subject`)||n.subject===t(`subject`))&&(!t(`teacher`)||n.teacher===t(`teacher`))&&(!t(`grade`)||+n.grade==+t(`grade`))&&(!t(`section`)||+n.section==+t(`section`));return{ex:n===`formative`?[]:[...D.exams.values()].filter(e=>a(e)&&(!i||(i===`revision`?[`revision`,`resub`].includes(R(e)):R(e)===i))&&(!t(`student`)||N().some(n=>n.id===t(`student`)&&+n.grade==+e.grade&&+n.section==+e.section&&ut(n.id,e.year,e.sem).includes(e.subject)))&&(!r||(e.teacher+` `+e.versions.map(e=>e.file.name).join(` `)).toLowerCase().includes(r))),sc:n===`final`||i||t(`student`)?[]:[...D.schedules.values()].filter(e=>a(e)&&(!r||e.teacher.toLowerCase().includes(r)))}}B.s.archive=()=>{let e=V(`q_year`,`all`),t=e=>V(`q_`+e),{ex:n,sc:r}=Kn(),i=[...n.map(e=>[e.at,[m(e.year),m(b(e.sem)),m(x(`final`)),m(v(e.subject)),m(F(e)),m(e.teacher),h(e.at),e.deleted?`<span class="bd c-gray">${p(`محذوف`,`Deleted`)}</span>`:T(S,R(e)),`${e.versions.length} ${p(`نسخة`,`version(s)`)}`,`<div class="row">${K(`examHist`,p(`النسخ والسجل`,`Versions and history`),{cls:`s`,ic:`clock`,d:{id:e.id}})}${K(`archDel`,p(`حذف نهائي`,`Delete permanently`),{cls:`s d`,ic:`trash`,d:{kind:`exam`,id:e.id}})}</div>`]]),...r.map(e=>[e.at,[m(e.year),m(b(e.sem)),m(x(e.type)),m(v(e.subject)),m(y(e.grade,e.section)),m(e.teacher),h(e.date),T(fe,ht(e)),`—`,K(`archDel`,p(`حذف نهائي`,`Delete permanently`),{cls:`s d`,ic:`trash`,d:{kind:`sched`,id:e.id}})]])].sort((e,t)=>e[0]<t[0]?1:-1).map(e=>e[1]),a=n.length+r.length?`<div class="card col" style="border-color:var(--red)"><h2>${p(`حذف نتائج الأرشيف المعروضة`,`Delete the archive results shown`)}</h2><p class="sm mut">${p(`يحذف نهائيًا كل ما يطابق التصفية الحالية: ${n.length} اختبار و${r.length} جدولة، مع كل النسخ والملفات وسجل المراجعة. لا تُرسل إشعارات للمعلمين. لا يمكن التراجع.`,`Permanently deletes everything matching the current filters: ${n.length} exam(s) and ${r.length} schedule(s), with every version, file and review history. Teachers are not notified. This cannot be undone.`)}</p><div class="fg">${En(`apw`)}<div class="f"><span>&nbsp;</span>${K(`archBulk`,p(`حذف النتائج المعروضة`,`Delete the results shown`),{cls:`d`,ic:`trash`})}</div></div></div>`:``;return`${q(`الأرشيف الإلكتروني`,`Electronic Archive`,p(`كل الاختبارات والجدولات والنسخ السابقة لجميع الأعوام. لا يُحذف شيء عند بدء عام جديد.`,`Every exam, schedule and earlier version across all years. Nothing is removed when a new year starts.`))}
   <div class="card"><div class="fg" style="grid-template-columns:repeat(auto-fit,minmax(150px,1fr))">${U(p(`العام الدراسي`,`Academic year`),`<select data-f="q_year" data-re="1">${H(`all`,p(`كل الأعوام`,`All years`),e)}${ce.map(t=>H(t,t,e)).join(``)}</select>`)}${U(p(`نوع الاختبار`,`Exam type`),wt(`q_type`,[[`final`,p(`اختبارات نهاية الفصل`,`End-of-semester exams`)],[`formative`,p(`الاختبارات التكوينية (جدولة)`,`Formative assessments (schedules)`)]],{ph:p(`كل الأنواع`,`All types`),re:1}))}${U(p(`بحث باسم المعلم أو الملف`,`Search teacher or file name`),`<input type="search" data-f="q_text" data-re="1" value="${m(t(`text`))}">`)}</div></div>
   ${yn([`sem`,`subject`,`teacher`,`student`,`grade`,`section`,`status`])}
   ${t(`student`)?`<div class="row">${K(`reqLog`,p(`سجل متطلبات هذا الطالب في كل الفصول`,`This student’s requirement log across semesters`),{ic:`clock`,d:{sid:t(`student`)}})}</div>`:``}
   ${G([p(`العام`,`Year`),p(`الفصل`,`Semester`),p(`النوع`,`Type`),p(`المادة`,`Subject`),p(`الصف والشعبة`,`Class`),p(`المعلم`,`Teacher`),p(`التاريخ`,`Date`),p(`الحالة`,`Status`),p(`النسخ`,`Versions`),``],i,p(`لا توجد نتائج مطابقة.`,`No matching results.`))}
-  ${a}`},z.archDel=e=>{let t=e.kind===`exam`?D.exams.get(e.id):D.schedules.get(e.id);if(!t)return;let n=e.kind===`exam`?p(`اختبار ${v(t.subject)} — ${b(t.sem)} — ${F(t)} (${t.teacher}) — ${t.year}`,`the ${v(t.subject)} exam — ${b(t.sem)} — ${F(t)} (${t.teacher}) — ${t.year}`):p(`جدولة ${x(t.type)} في ${v(t.subject)} — ${F(t)} (${t.teacher}) بتاريخ ${h(t.date)}`,`the ${x(t.type)} schedule in ${v(t.subject)} — ${F(t)} (${t.teacher}) on ${h(t.date)}`);Q(p(`حذف ${n} نهائيًا؟ `,`Permanently delete ${n}? `)+(e.kind===`exam`?p(`ستُحذف كل النسخ والملفات وسجل المراجعة. لا يمكن التراجع.`,`Every version, file and the review history will be removed. This cannot be undone.`):p(`ستُحذف الجدولة وحالتها. لا يمكن التراجع.`,`The schedule and its status will be removed. This cannot be undone.`)),async()=>{await L(`archDel`,{kind:e.kind,id:e.id}),J(`حُذف نهائيًا من الأرشيف.`,`Permanently deleted from the archive.`)},p(`حذف نهائي`,`Delete permanently`))},z.archBulk=()=>{let{ex:e,sc:t}=Gn(),n=String(V(`apw`));if(!n)return Y(`اكتب رمز الحماية لتأكيد الحذف.`,`Type the security code to confirm.`);Q(p(`سيُحذف نهائيًا ${e.length} اختبار و${t.length} جدولة مطابقة للتصفية الحالية، مع كل النسخ والملفات وسجل المراجعة. لن تُرسل إشعارات. لا يمكن التراجع.`,`${e.length} exam(s) and ${t.length} schedule(s) matching the current filters will be permanently deleted, with every version, file and review history. No notifications are sent. This cannot be undone.`),async()=>{let r=await L(`archBulk`,{examIds:e.map(e=>e.id),schedIds:t.map(e=>e.id),password:n});k.f.apw=``,J(`حُذف ${r.exams} اختبار و${r.schedules} جدولة.`,`Deleted ${r.exams} exam(s) and ${r.schedules} schedule(s).`)},p(`حذف نهائي`,`Delete permanently`))},B.s.acts=()=>{let e=j(),t=M(),n=k.tab||`def`,r=[...D.acts.values()].filter(n=>n.year===e&&+n.sem===t).sort((e,t)=>e.at<t.at?-1:1),i=[...D.psub.values()].filter(e=>r.some(t=>t.id===e.actId)).sort((e,t)=>e.at<t.at?1:-1),a;if(n===`def`){let e=k.atg||`all`;a=`<div class="card col"><h2>${k.edit?p(`تعديل النشاط`,`Edit activity`):p(`نشاط جديد`,`New activity`)} — ${m(b(t))}</h2><p class="sm mut">${p(`المطلوب نشاطان إلى ثلاثة في كل فصل. المحدد حاليًا: ${r.filter(e=>e.active!==!1).length}`,`Two to three activities are expected each semester. Currently set: ${r.filter(e=>e.active!==!1).length}`)}</p>
+  ${a}`},z.archDel=e=>{let t=e.kind===`exam`?D.exams.get(e.id):D.schedules.get(e.id);if(!t)return;let n=e.kind===`exam`?p(`اختبار ${v(t.subject)} — ${b(t.sem)} — ${F(t)} (${t.teacher}) — ${t.year}`,`the ${v(t.subject)} exam — ${b(t.sem)} — ${F(t)} (${t.teacher}) — ${t.year}`):p(`جدولة ${x(t.type)} في ${v(t.subject)} — ${F(t)} (${t.teacher}) بتاريخ ${h(t.date)}`,`the ${x(t.type)} schedule in ${v(t.subject)} — ${F(t)} (${t.teacher}) on ${h(t.date)}`);Q(p(`حذف ${n} نهائيًا؟ `,`Permanently delete ${n}? `)+(e.kind===`exam`?p(`ستُحذف كل النسخ والملفات وسجل المراجعة. لا يمكن التراجع.`,`Every version, file and the review history will be removed. This cannot be undone.`):p(`ستُحذف الجدولة وحالتها. لا يمكن التراجع.`,`The schedule and its status will be removed. This cannot be undone.`)),async()=>{await L(`archDel`,{kind:e.kind,id:e.id}),J(`حُذف نهائيًا من الأرشيف.`,`Permanently deleted from the archive.`)},p(`حذف نهائي`,`Delete permanently`))},z.archBulk=()=>{let{ex:e,sc:t}=Kn(),n=String(V(`apw`));if(!n)return Y(`اكتب رمز الحماية لتأكيد الحذف.`,`Type the security code to confirm.`);Q(p(`سيُحذف نهائيًا ${e.length} اختبار و${t.length} جدولة مطابقة للتصفية الحالية، مع كل النسخ والملفات وسجل المراجعة. لن تُرسل إشعارات. لا يمكن التراجع.`,`${e.length} exam(s) and ${t.length} schedule(s) matching the current filters will be permanently deleted, with every version, file and review history. No notifications are sent. This cannot be undone.`),async()=>{let r=await L(`archBulk`,{examIds:e.map(e=>e.id),schedIds:t.map(e=>e.id),password:n});k.f.apw=``,J(`حُذف ${r.exams} اختبار و${r.schedules} جدولة.`,`Deleted ${r.exams} exam(s) and ${r.schedules} schedule(s).`)},p(`حذف نهائي`,`Delete permanently`))},B.s.acts=()=>{let e=j(),t=M(),n=k.tab||`def`,r=[...D.acts.values()].filter(n=>n.year===e&&+n.sem===t).sort((e,t)=>e.at<t.at?-1:1),i=[...D.psub.values()].filter(e=>r.some(t=>t.id===e.actId)).sort((e,t)=>e.at<t.at?1:-1),a;if(n===`def`){let e=k.atg||`all`;a=`<div class="card col"><h2>${k.edit?p(`تعديل النشاط`,`Edit activity`):p(`نشاط جديد`,`New activity`)} — ${m(b(t))}</h2><p class="sm mut">${p(`المطلوب نشاطان إلى ثلاثة في كل فصل. المحدد حاليًا: ${r.filter(e=>e.active!==!1).length}`,`Two to three activities are expected each semester. Currently set: ${r.filter(e=>e.active!==!1).length}`)}</p>
     <div class="fg">${U(p(`عنوان النشاط`,`Activity title`),Tt(`at`),`w`)}${U(p(`وصف مختصر يوضح المطلوب من ولي الأمر`,`Short description of what the parent should do`),Et(`ad`),`w`)}${U(p(`تاريخ بدء النشاط`,`Start date`),Tt(`as`,`date`))}${U(p(`آخر موعد للتنفيذ`,`Due date`),Tt(`ae`,`date`))}</div>
     <div class="f"><span>${p(`الطلاب المستهدفون`,`Target students`)}</span><div class="row"><label class="chk ${e===`all`?`on`:``}"><input type="checkbox" data-tg="all"${e===`all`?` checked`:``}>${p(`جميع الطلاب`,`All students`)}</label>${e===`all`?``:N().map(t=>`<label class="chk ${e.includes(t.id)?`on`:``}"><input type="checkbox" data-tg="${t.id}"${e.includes(t.id)?` checked`:``}>${m(t.name)}</label>`).join(``)}</div></div>
     <div class="row">${K(`actSave`,k.edit?p(`حفظ التعديل`,`Save changes`):p(`إضافة النشاط وإشعار أولياء الأمور`,`Add activity and notify parents`),{cls:`p`})}${k.edit?K(`actCancel`,p(`إلغاء`,`Cancel`)):``}</div></div>
-    ${G([p(`النشاط`,`Activity`),p(`البدء`,`Start`),p(`آخر موعد`,`Due`),p(`المستهدفون`,`Targets`),p(`الحالة`,`Status`),``],r.map(e=>[`<span class="b">${m(e.title)}</span><div class="sm mut">${m(e.desc)}</div>`,h(e.start),h(e.due),e.targets===`all`?p(`جميع الطلاب`,`All students`):(e.targets||[]).map(e=>m(P(e))).join(`، `),e.active===!1?`<span class="bd c-gray">${p(`موقوف`,`Stopped`)}</span>`:`<span class="bd c-green">${p(`فعّال`,`Active`)}</span>`,`<div class="row">${K(`actEdit`,p(`تعديل`,`Edit`),{cls:`s`,d:{id:e.id}})}${K(`actToggle`,e.active===!1?p(`تفعيل`,`Activate`):p(`إيقاف`,`Stop`),{cls:`s`,d:{id:e.id}})}${K(`actDel`,p(`حذف`,`Delete`),{cls:`s d`,ic:`trash`,d:{id:e.id}})}</div>`]),p(`لم تُحدد أنشطة لهذا الفصل بعد.`,`No activities set for this semester yet.`))}`}else if(n===`subs`)a=i.length?`<div class="sgrid">${i.map(e=>{let t=D.acts.get(e.actId),n=vt(t,e.studentId),r=D.arev.get(e.id)||{};return`<div class="card col" style="gap:8px"><div class="row sp"><h3>${m(t.title)}</h3>${T(yt,n)}</div><p class="sm">${m(P(e.studentId))} — <span class="mut">${m(e.parent||``)} — ${g(e.at)}</span></p><div class="thumbs">${e.photos.map(e=>`<figure><img alt="" loading="lazy" ${e.kind===`asset`?`src="/_blob/${m(e.ref)}"`:`data-lazy="${Kt(e)}"`} data-act="viewfile" data-k="${Kt(e)}" style="cursor:pointer"></figure>`).join(``)}</div>${r.note&&n===`more`?`<p class="sm note">${m(r.note)}</p>`:``}<div class="row">${n===`approved`?``:K(`actRev`,p(`اعتماد المشاركة`,`Approve submission`),{cls:`s p`,ic:`check`,d:{id:e.id,st:`approved`}})}${K(`actMore`,p(`طلب استكمال`,`Ask to complete`),{cls:`s`,d:{id:e.id}})}${K(`subDel`,p(`حذف المشاركة`,`Delete submission`),{cls:`s d`,ic:`trash`,d:{id:e.id}})}</div></div>`}).join(``)}</div>`:`<div class="empty">${p(`لم تصل مشاركات من أولياء الأمور في هذا الفصل بعد.`,`No parent submissions this semester yet.`)}</div>`;else{let n=r.filter(e=>e.active!==!1),o=N(),s=o.map(n=>{let r=bt(n.id,e,t);return[n.name,y(n.grade,n.section),r.total,r.sent,r.ok,r.pct+`%`]}),c=o.filter(n=>bt(n.id,e,t).sent>0).length,l=i.filter(e=>vt(D.acts.get(e.actId),e.studentId)===`approved`).length,u=0,ee=0;o.forEach(n=>{let r=bt(n.id,e,t);u+=r.total,ee+=r.sent}),k.rep={title:p(`متابعة أنشطة أولياء الأمور — `,`Parent activities follow-up — `)+b(t)+` `+e,sum:[[p(`أنشطة محددة`,`Activities set`),n.length],[p(`أولياء أمور أرسلوا`,`Parents who sent`),c],[p(`مشاركات معتمدة`,`Approved submissions`),l],[p(`مشاركات لم تُرسل`,`Not sent yet`),u-ee]],head:[p(`الطالب`,`Student`),p(`الصف والشعبة`,`Class`),p(`الأنشطة`,`Activities`),p(`أُرسلت`,`Sent`),p(`معتمدة`,`Approved`),p(`نسبة الإنجاز`,`Completion`)],rows:s},a=`${At(k.rep.sum.map(([e,t],n)=>[t,e,[`pri`,`blue`,`green`,`red`][n],{act:`noop`}]))}<div class="row">${K(`repXlsx`,p(`تصدير Excel`,`Export to Excel`),{ic:`dl`})}${K(`actPdf`,k.pdfBusy?p(`جارٍ إنشاء الملف…`,`Creating the file…`):p(`تصدير PDF للتوثيق (بالصور)`,`Export PDF with photos`),{cls:`p`,ic:`print`,dis:k.pdfBusy})}<span class="xs mut">${p(`يشمل الفصول الثلاثة للعام ${e}`,`Covers all three semesters of ${e}`)}</span></div>${G([...k.rep.head,``],o.map((n,r)=>{let i=bt(n.id,e,t);return[...s[r].map(m),`<div class="row">${i.total&&i.ok===i.total?K(`cert`,p(`شهادة الشكر`,`Certificate`),{cls:`s p`,ic:`award`,d:{sid:n.id,sem:t}}):``}${i.total&&i.sent<i.total?K(`remind`,p(`تذكير ولي الأمر`,`Remind parent`),{cls:`s`,ic:`bell`,d:{sid:n.id}}):``}</div>`]}))}`}return`${q(`أنشطة أولياء الأمور`,`Parent Activities`)}${Ot()}${kt()}<div class="row">${[[`def`,p(`تحديد الأنشطة`,`Set activities`)],[`subs`,p(`مراجعة المشاركات`,`Review submissions`)+(i.filter(e=>vt(D.acts.get(e.actId),e.studentId)===`sent`).length?` (${i.filter(e=>vt(D.acts.get(e.actId),e.studentId)===`sent`).length})`:``)],[`follow`,p(`لوحة المتابعة`,`Follow-up`)]].map(([e,t])=>`<button class="chk ${n===e?`on`:``}" data-act="setv" data-k="tab" data-val="${e}">${m(t)}</button>`).join(``)}</div>${a}`},z.noop=()=>{},z.actPdf=async()=>{k.pdfBusy=!0,$(),Nt(p(`جارٍ تجهيز ملف PDF بالصور… قد يستغرق ذلك دقيقة.`,`Preparing the PDF with photos… this can take a minute.`),``,null,9e3);try{if(e.pdfInPage)await Ue(`parent-activities-${j()}.pdf`,await e.pdfInPage({get:(e,t)=>D[e].get(String(t)),all:e=>[...D[e].values()],getBlob:He,name:O.name},j(),f));else{let e=await Me(`actPdf`,{year:j(),lang:f});await Ue(e.file.name,await He(e.file))}J(`تم إنشاء ملف PDF.`,`The PDF was created.`)}catch(e){I(e)}k.pdfBusy=!1,$()},z.actDel=e=>{let t=D.acts.get(e.id);Q(p(`حذف نشاط «${t.title}» نهائيًا مع جميع مشاركات أولياء الأمور وصورهم فيه؟`,`Permanently delete “${t.title}” with all parent submissions and photos for it?`),async()=>{await L(`actDel`,{id:e.id}),k.edit===e.id&&(k.edit=null,k.f={}),J(`حُذف النشاط.`,`Activity deleted.`)},p(`حذف`,`Delete`))},z.subDel=e=>{let t=D.psub.get(e.id);Q(p(`حذف مشاركة ولي أمر الطالب ${P(t.studentId)} وصورها نهائيًا؟`,`Permanently delete the submission and photos from the parent of ${P(t.studentId)}?`),async()=>{await L(`subDel`,{id:e.id}),J(`حُذفت المشاركة.`,`Submission deleted.`)},p(`حذف`,`Delete`))},z.actEdit=e=>{let t=D.acts.get(e.id);k.edit=e.id,k.tab=`def`,k.f={at:t.title,ad:t.desc,as:t.start,ae:t.due},k.atg=t.targets===`all`?`all`:[...t.targets],$(),window.scrollTo(0,0)},z.actCancel=()=>{k.edit=null,k.f={},k.atg=`all`,$()},z.actToggle=e=>L(`actToggle`,{id:e.id}).then($).catch(I),z.actSave=async()=>{let e=k.f,t=String(e.at||``).trim(),n=k.atg||`all`;if(t.length<3||!e.ae)return Y(`اكتب عنوان النشاط وحدد آخر موعد للتنفيذ.`,`Type the activity title and set the due date.`);if(n!==`all`&&!n.length)return Y(`اختر طالبًا واحدًا على الأقل.`,`Choose at least one student.`);try{await L(`actSave`,{...k.edit?{id:k.edit}:{},title:t,desc:String(e.ad||``).trim(),start:e.as||``,due:e.ae,targets:n,year:j(),sem:M()}),k.edit=null,k.f={},k.atg=`all`,J(`تم حفظ النشاط.`,`Activity saved.`),$()}catch(e){I(e)}};async function Kn(e,t,n){await L(`actReview`,{id:e,st:t,note:n||``}),$()}z.actRev=e=>Kn(e.id,e.st).then(()=>J(`تم اعتماد المشاركة.`,`Submission approved.`)).catch(I),z.actMore=e=>{k.amid=e.id,k.f.amnote=``,X(()=>`${Z(p(`طلب استكمال النشاط`,`Ask to complete the activity`))}${U(p(`وضّح الملاحظات لولي الأمر`,`Explain what is needed`),Et(`amnote`))}<div class="row" style="justify-content:flex-end">${K(`close`,p(`إلغاء`,`Cancel`))}${K(`actMoreSend`,p(`إرسال`,`Send`),{cls:`p`})}</div>`)},z.actMoreSend=()=>{let e=String(k.f.amnote||``).trim();if(e.length<3)return Y(`اكتب الملاحظات.`,`Write the comments.`);Kn(k.amid,`more`,e).then(Ft).catch(I)},z.remind=e=>L(`remind`,{sid:e.sid}).then(()=>J(`أُرسل التذكير لولي الأمر.`,`Reminder sent to the parent.`)).catch(I);let qn=e=>[...D.pans.values()].filter(t=>t.surveyId===e.id&&De(t.studentId));B.s.surveys=()=>{let e=j(),t=M(),n=xt(e,t),r=e+`_`+t;(k.svKey!==r||n&&!k.sv||!n&&k.sv)&&(k.svKey=r,k.sv=n?JSON.parse(JSON.stringify(n)):null);let i=`${q(`استبيان رضا ولي الأمر عن الخدمات المقدمة`,`Parent Satisfaction Survey`)}${Ot()}${kt()}`;if(!n)return`${i}<div class="empty">${p(`لم يُعد استبيان لهذا الفصل بعد.`,`No survey has been prepared for this semester yet.`)}<div style="margin-top:10px">${K(`svNew`,p(`إعداد استبيان هذا الفصل`,`Prepare this semester’s survey`),{cls:`p`,ic:`plus`})}</div></div>`;let a=k.sv,o=qn(n),s=N().filter(e=>e.active!==!1&&St(n,e.id)),c=s.filter(n=>Ct(n.id,e,t)===`done`),l=[];o.forEach(e=>e.answers.forEach(e=>l.push(e.v)));let u=l.length?l.reduce((e,t)=>e+t,0)/l.length:0,ee={};o.forEach(e=>e.answers.forEach(e=>{let t=e.q.ar;(ee[t]=ee[t]||{q:e.q,c:[0,0,0,0,0]}).c[5-e.v]++}));let te=[`green`,`blue`,`gray`,`orange`,`red`];return k.rep={title:p(`نتائج استبيان رضا أولياء الأمور — `,`Parent satisfaction survey results — `)+b(t)+` `+e,sum:[[p(`أولياء أمور مستهدفون`,`Parents targeted`),s.length],[p(`استبيانات مكتملة`,`Completed`),c.length],[p(`لم تُستكمل`,`Not completed`),s.length-c.length],[p(`نسبة المشاركة`,`Participation`),(s.length?Math.round(c.length/s.length*100):0)+`%`],[p(`متوسط الرضا من 5`,`Average satisfaction out of 5`),u.toFixed(2)]],head:[p(`الطالب`,`Student`),p(`الصف والشعبة`,`Class`),p(`ولي الأمر`,`Parent`),p(`التاريخ`,`Date`),...n.questions.map(e=>p(e.ar,e.en||e.ar)),p(`الملاحظات والمقترحات`,`Comments and suggestions`)],rows:o.map(e=>{let t=De(e.studentId);return[t.name,y(t.grade,t.section),e.parent||``,h(e.at),...n.questions.map(t=>{let n=e.answers.find(e=>e.q.ar===t.ar);return n?p(me[5-n.v][0],me[5-n.v][1]):``}),e.comment||``]})},`${i}
+    ${G([p(`النشاط`,`Activity`),p(`البدء`,`Start`),p(`آخر موعد`,`Due`),p(`المستهدفون`,`Targets`),p(`الحالة`,`Status`),``],r.map(e=>[`<span class="b">${m(e.title)}</span><div class="sm mut">${m(e.desc)}</div>`,h(e.start),h(e.due),e.targets===`all`?p(`جميع الطلاب`,`All students`):(e.targets||[]).map(e=>m(P(e))).join(`، `),e.active===!1?`<span class="bd c-gray">${p(`موقوف`,`Stopped`)}</span>`:`<span class="bd c-green">${p(`فعّال`,`Active`)}</span>`,`<div class="row">${K(`actEdit`,p(`تعديل`,`Edit`),{cls:`s`,d:{id:e.id}})}${K(`actToggle`,e.active===!1?p(`تفعيل`,`Activate`):p(`إيقاف`,`Stop`),{cls:`s`,d:{id:e.id}})}${K(`actDel`,p(`حذف`,`Delete`),{cls:`s d`,ic:`trash`,d:{id:e.id}})}</div>`]),p(`لم تُحدد أنشطة لهذا الفصل بعد.`,`No activities set for this semester yet.`))}`}else if(n===`subs`)a=i.length?`<div class="sgrid">${i.map(e=>{let t=D.acts.get(e.actId),n=vt(t,e.studentId),r=D.arev.get(e.id)||{};return`<div class="card col" style="gap:8px"><div class="row sp"><h3>${m(t.title)}</h3>${T(yt,n)}</div><p class="sm">${m(P(e.studentId))} — <span class="mut">${m(e.parent||``)} — ${g(e.at)}</span></p><div class="thumbs">${e.photos.map(e=>`<figure><img alt="" loading="lazy" ${e.kind===`asset`?`src="/_blob/${m(e.ref)}"`:`data-lazy="${Kt(e)}"`} data-act="viewfile" data-k="${Kt(e)}" style="cursor:pointer"></figure>`).join(``)}</div>${r.note&&n===`more`?`<p class="sm note">${m(r.note)}</p>`:``}<div class="row">${n===`approved`?``:K(`actRev`,p(`اعتماد المشاركة`,`Approve submission`),{cls:`s p`,ic:`check`,d:{id:e.id,st:`approved`}})}${K(`actMore`,p(`طلب استكمال`,`Ask to complete`),{cls:`s`,d:{id:e.id}})}${K(`subDel`,p(`حذف المشاركة`,`Delete submission`),{cls:`s d`,ic:`trash`,d:{id:e.id}})}</div></div>`}).join(``)}</div>`:`<div class="empty">${p(`لم تصل مشاركات من أولياء الأمور في هذا الفصل بعد.`,`No parent submissions this semester yet.`)}</div>`;else{let n=r.filter(e=>e.active!==!1),o=N(),s=o.map(n=>{let r=bt(n.id,e,t);return[n.name,y(n.grade,n.section),r.total,r.sent,r.ok,r.pct+`%`]}),c=o.filter(n=>bt(n.id,e,t).sent>0).length,l=i.filter(e=>vt(D.acts.get(e.actId),e.studentId)===`approved`).length,u=0,ee=0;o.forEach(n=>{let r=bt(n.id,e,t);u+=r.total,ee+=r.sent}),k.rep={title:p(`متابعة أنشطة أولياء الأمور — `,`Parent activities follow-up — `)+b(t)+` `+e,sum:[[p(`أنشطة محددة`,`Activities set`),n.length],[p(`أولياء أمور أرسلوا`,`Parents who sent`),c],[p(`مشاركات معتمدة`,`Approved submissions`),l],[p(`مشاركات لم تُرسل`,`Not sent yet`),u-ee]],head:[p(`الطالب`,`Student`),p(`الصف والشعبة`,`Class`),p(`الأنشطة`,`Activities`),p(`أُرسلت`,`Sent`),p(`معتمدة`,`Approved`),p(`نسبة الإنجاز`,`Completion`)],rows:s},a=`${At(k.rep.sum.map(([e,t],n)=>[t,e,[`pri`,`blue`,`green`,`red`][n],{act:`noop`}]))}<div class="row">${K(`repXlsx`,p(`تصدير Excel`,`Export to Excel`),{ic:`dl`})}${K(`actPdf`,k.pdfBusy?p(`جارٍ إنشاء الملف…`,`Creating the file…`):p(`تصدير PDF للتوثيق (بالصور)`,`Export PDF with photos`),{cls:`p`,ic:`print`,dis:k.pdfBusy})}<span class="xs mut">${p(`يشمل الفصول الثلاثة للعام ${e}`,`Covers all three semesters of ${e}`)}</span></div>${G([...k.rep.head,``],o.map((n,r)=>{let i=bt(n.id,e,t);return[...s[r].map(m),`<div class="row">${i.total&&i.ok===i.total?K(`cert`,p(`شهادة الشكر`,`Certificate`),{cls:`s p`,ic:`award`,d:{sid:n.id,sem:t}}):``}${i.total&&i.sent<i.total?K(`remind`,p(`تذكير ولي الأمر`,`Remind parent`),{cls:`s`,ic:`bell`,d:{sid:n.id}}):``}</div>`]}))}`}return`${q(`أنشطة أولياء الأمور`,`Parent Activities`)}${Ot()}${kt()}<div class="row">${[[`def`,p(`تحديد الأنشطة`,`Set activities`)],[`subs`,p(`مراجعة المشاركات`,`Review submissions`)+(i.filter(e=>vt(D.acts.get(e.actId),e.studentId)===`sent`).length?` (${i.filter(e=>vt(D.acts.get(e.actId),e.studentId)===`sent`).length})`:``)],[`follow`,p(`لوحة المتابعة`,`Follow-up`)]].map(([e,t])=>`<button class="chk ${n===e?`on`:``}" data-act="setv" data-k="tab" data-val="${e}">${m(t)}</button>`).join(``)}</div>${a}`},z.noop=()=>{},z.actPdf=async()=>{k.pdfBusy=!0,$(),Nt(p(`جارٍ تجهيز ملف PDF بالصور… قد يستغرق ذلك دقيقة.`,`Preparing the PDF with photos… this can take a minute.`),``,null,9e3);try{if(e.pdfInPage)await Ue(`parent-activities-${j()}.pdf`,await e.pdfInPage({get:(e,t)=>D[e].get(String(t)),all:e=>[...D[e].values()],getBlob:He,name:O.name},j(),f));else{let e=await Me(`actPdf`,{year:j(),lang:f});await Ue(e.file.name,await He(e.file))}J(`تم إنشاء ملف PDF.`,`The PDF was created.`)}catch(e){I(e)}k.pdfBusy=!1,$()},z.actDel=e=>{let t=D.acts.get(e.id);Q(p(`حذف نشاط «${t.title}» نهائيًا مع جميع مشاركات أولياء الأمور وصورهم فيه؟`,`Permanently delete “${t.title}” with all parent submissions and photos for it?`),async()=>{await L(`actDel`,{id:e.id}),k.edit===e.id&&(k.edit=null,k.f={}),J(`حُذف النشاط.`,`Activity deleted.`)},p(`حذف`,`Delete`))},z.subDel=e=>{let t=D.psub.get(e.id);Q(p(`حذف مشاركة ولي أمر الطالب ${P(t.studentId)} وصورها نهائيًا؟`,`Permanently delete the submission and photos from the parent of ${P(t.studentId)}?`),async()=>{await L(`subDel`,{id:e.id}),J(`حُذفت المشاركة.`,`Submission deleted.`)},p(`حذف`,`Delete`))},z.actEdit=e=>{let t=D.acts.get(e.id);k.edit=e.id,k.tab=`def`,k.f={at:t.title,ad:t.desc,as:t.start,ae:t.due},k.atg=t.targets===`all`?`all`:[...t.targets],$(),window.scrollTo(0,0)},z.actCancel=()=>{k.edit=null,k.f={},k.atg=`all`,$()},z.actToggle=e=>L(`actToggle`,{id:e.id}).then($).catch(I),z.actSave=async()=>{let e=k.f,t=String(e.at||``).trim(),n=k.atg||`all`;if(t.length<3||!e.ae)return Y(`اكتب عنوان النشاط وحدد آخر موعد للتنفيذ.`,`Type the activity title and set the due date.`);if(n!==`all`&&!n.length)return Y(`اختر طالبًا واحدًا على الأقل.`,`Choose at least one student.`);try{await L(`actSave`,{...k.edit?{id:k.edit}:{},title:t,desc:String(e.ad||``).trim(),start:e.as||``,due:e.ae,targets:n,year:j(),sem:M()}),k.edit=null,k.f={},k.atg=`all`,J(`تم حفظ النشاط.`,`Activity saved.`),$()}catch(e){I(e)}};async function qn(e,t,n){await L(`actReview`,{id:e,st:t,note:n||``}),$()}z.actRev=e=>qn(e.id,e.st).then(()=>J(`تم اعتماد المشاركة.`,`Submission approved.`)).catch(I),z.actMore=e=>{k.amid=e.id,k.f.amnote=``,X(()=>`${Z(p(`طلب استكمال النشاط`,`Ask to complete the activity`))}${U(p(`وضّح الملاحظات لولي الأمر`,`Explain what is needed`),Et(`amnote`))}<div class="row" style="justify-content:flex-end">${K(`close`,p(`إلغاء`,`Cancel`))}${K(`actMoreSend`,p(`إرسال`,`Send`),{cls:`p`})}</div>`)},z.actMoreSend=()=>{let e=String(k.f.amnote||``).trim();if(e.length<3)return Y(`اكتب الملاحظات.`,`Write the comments.`);qn(k.amid,`more`,e).then(Ft).catch(I)},z.remind=e=>L(`remind`,{sid:e.sid}).then(()=>J(`أُرسل التذكير لولي الأمر.`,`Reminder sent to the parent.`)).catch(I);let Jn=e=>[...D.pans.values()].filter(t=>t.surveyId===e.id&&De(t.studentId));B.s.surveys=()=>{let e=j(),t=M(),n=xt(e,t),r=e+`_`+t;(k.svKey!==r||n&&!k.sv||!n&&k.sv)&&(k.svKey=r,k.sv=n?JSON.parse(JSON.stringify(n)):null);let i=`${q(`استبيان رضا ولي الأمر عن الخدمات المقدمة`,`Parent Satisfaction Survey`)}${Ot()}${kt()}`;if(!n)return`${i}<div class="empty">${p(`لم يُعد استبيان لهذا الفصل بعد.`,`No survey has been prepared for this semester yet.`)}<div style="margin-top:10px">${K(`svNew`,p(`إعداد استبيان هذا الفصل`,`Prepare this semester’s survey`),{cls:`p`,ic:`plus`})}</div></div>`;let a=k.sv,o=Jn(n),s=N().filter(e=>e.active!==!1&&St(n,e.id)),c=s.filter(n=>Ct(n.id,e,t)===`done`),l=[];o.forEach(e=>e.answers.forEach(e=>l.push(e.v)));let u=l.length?l.reduce((e,t)=>e+t,0)/l.length:0,ee={};o.forEach(e=>e.answers.forEach(e=>{let t=e.q.ar;(ee[t]=ee[t]||{q:e.q,c:[0,0,0,0,0]}).c[5-e.v]++}));let te=[`green`,`blue`,`gray`,`orange`,`red`];return k.rep={title:p(`نتائج استبيان رضا أولياء الأمور — `,`Parent satisfaction survey results — `)+b(t)+` `+e,sum:[[p(`أولياء أمور مستهدفون`,`Parents targeted`),s.length],[p(`استبيانات مكتملة`,`Completed`),c.length],[p(`لم تُستكمل`,`Not completed`),s.length-c.length],[p(`نسبة المشاركة`,`Participation`),(s.length?Math.round(c.length/s.length*100):0)+`%`],[p(`متوسط الرضا من 5`,`Average satisfaction out of 5`),u.toFixed(2)]],head:[p(`الطالب`,`Student`),p(`الصف والشعبة`,`Class`),p(`ولي الأمر`,`Parent`),p(`التاريخ`,`Date`),...n.questions.map(e=>p(e.ar,e.en||e.ar)),p(`الملاحظات والمقترحات`,`Comments and suggestions`)],rows:o.map(e=>{let t=De(e.studentId);return[t.name,y(t.grade,t.section),e.parent||``,h(e.at),...n.questions.map(t=>{let n=e.answers.find(e=>e.q.ar===t.ar);return n?p(me[5-n.v][0],me[5-n.v][1]):``}),e.comment||``]})},`${i}
   <div class="card col"><h2>${p(`إعداد الاستبيان`,`Survey setup`)}</h2><div class="row"><label class="chk ${a.open?`on`:``}"><input type="checkbox" data-svo="1"${a.open?` checked`:``}>${p(`متاح لأولياء الأمور`,`Open to parents`)}</label><label class="row sm">${p(`تاريخ الإتاحة`,`Opens on`)}<input type="date" data-svd="1" value="${m(a.openDate||``)}" style="width:auto"></label></div>
   ${(()=>{let e=a.targets||`all`;return`<div class="f"><span>${p(`أولياء الأمور المستهدفون (حسب الطالب)`,`Parents who get the survey (by student)`)}</span><div class="row"><label class="chk ${e===`all`?`on`:``}"><input type="checkbox" data-svtg="all"${e===`all`?` checked`:``}>${p(`جميع أولياء الأمور`,`All parents`)}</label>${e===`all`?``:N().filter(e=>e.active!==!1).map(t=>`<label class="chk ${e.includes(t.id)?`on`:``}"><input type="checkbox" data-svtg="${t.id}"${e.includes(t.id)?` checked`:``}>${m(t.name)}</label>`).join(``)}</div></div>`})()}
   <div class="col" style="gap:8px">${a.questions.map((e,t)=>`<div class="row" style="flex-wrap:nowrap;align-items:flex-start"><span class="b" style="padding-top:9px">${t+1}</span><div class="grow col" style="gap:5px"><input type="text" data-sq="${t}" data-l="ar" value="${m(e.ar)}" placeholder="${p(`نص السؤال بالعربية`,`Question in Arabic`)}"><input type="text" class="ltr" data-sq="${t}" data-l="en" value="${m(e.en||``)}" placeholder="${p(`نص السؤال بالإنجليزية (اختياري)`,`Question in English (optional)`)}"></div>${K(`svQdel`,``,{cls:`s d`,ic:`trash`,d:{i:t}})}</div>`).join(``)}</div>
@@ -1267,16 +1682,16 @@ I want 3 separate files:
   <div class="row">${K(`repXlsx`,p(`تصدير النتائج إلى Excel`,`Export results to Excel`),{ic:`dl`})}</div>
   <div class="card col"><h2>${p(`تحليل نتائج كل سؤال`,`Results per question`)}</h2>${Object.values(ee).length?Object.values(ee).map(e=>{let t=e.c.reduce((e,t)=>e+t,0),n=e.c.reduce((e,t,n)=>e+t*(5-n),0)/t;return`<div><div class="row sp sm"><span class="b">${m(p(e.q.ar,e.q.en||e.q.ar))}</span><span>${n.toFixed(2)} / 5</span></div><div class="dist">${e.c.map((e,n)=>`<i class="c-${te[n]}" style="width:${e/t*100}%;background:var(--${te[n]})" title="${m(p(me[n][0],me[n][1]))}: ${e}"></i>`).join(``)}</div><div class="xs mut">${e.c.map((e,t)=>`${m(p(me[t][0],me[t][1]))}: ${e}`).join(` | `)}</div></div>`}).join(``):`<p class="mut">${p(`لا توجد إجابات بعد.`,`No answers yet.`)}</p>`}</div>
   <div class="card col"><h2>${p(`ملاحظات ومقترحات أولياء الأمور`,`Parent comments and suggestions`)}</h2>${o.filter(e=>e.comment).map(e=>`<p class="sm"><span class="b">${m(P(e.studentId))}:</span> ${m(e.comment)}</p>`).join(``)||`<p class="mut">${p(`لا توجد ملاحظات مكتوبة.`,`No written comments.`)}</p>`}</div>
-  ${G([p(`الطالب`,`Student`),p(`الصف والشعبة`,`Class`),p(`حالة الاستبيان`,`Survey status`),``],s.map(n=>{let r=Ct(n.id,e,t);return[m(n.name),m(y(n.grade,n.section)),r===`done`?`<span class="bd c-green">${p(`تم الاستكمال`,`Completed`)}</span>`:`<span class="bd c-gray">${p(`لم يُستكمل`,`Not completed`)}</span>`,r===`done`?K(`svReopen`,p(`إعادة فتح الاستبيان له`,`Reopen for this parent`),{cls:`s`,d:{sid:n.id}}):K(`remind`,p(`تذكير ولي الأمر`,`Remind parent`),{cls:`s`,ic:`bell`,d:{sid:n.id}})]}))}`},z.svNew=async()=>{try{await L(`svNew`,{year:j(),sem:M(),questions:he.map(([e,t])=>({ar:e,en:t}))}),k.sv=null,$()}catch(e){I(e)}},z.svQadd=()=>{k.sv.questions.push({ar:``,en:``}),$()},z.svQdel=e=>{k.sv.questions.splice(+e.i,1),$()},z.svSave=async()=>{let e=k.sv,t=e.questions.map(e=>({ar:String(e.ar||``).trim(),en:String(e.en||``).trim()})).filter(e=>e.ar);if(!t.length)return Y(`أضف سؤالًا واحدًا على الأقل.`,`Add at least one question.`);let n=e.targets||`all`;if(n!==`all`&&!n.length)return Y(`اختر ولي أمر طالب واحد على الأقل.`,`Choose at least one student’s parent.`);try{await L(`svSave`,{id:e.id,open:!!e.open,openDate:e.openDate||``,questions:t,targets:n}),k.sv=null,J(`تم حفظ الاستبيان.`,`Survey saved.`),$()}catch(e){I(e)}},z.svReopen=e=>{L(`svReopen`,{surveyId:xt(j(),M()).id,sid:e.sid}).then(()=>{J(`أُعيد فتح الاستبيان لولي الأمر.`,`Survey reopened for this parent.`),$()}).catch(I)};let Jn=()=>{let e=Oe();return e.find(e=>e.id===k.kid)||e[0]},Yn=()=>{let e=Oe();return e.length>1?`<label class="row sm"><span class="mut">${p(`الطالب`,`Student`)}</span><select data-v="kid" style="width:auto">${e.map(e=>H(e.id,e.name,Jn().id)).join(``)}</select></label>`:``},Xn=()=>`<div class="empty">${p(`لا يوجد طالب مرتبط بهذا الرمز حاليًا. تواصل مع معلم التربية الخاصة.`,`No student is linked to this code right now. Contact the special education teacher.`)}</div>`;B.p.home=()=>{let e=Jn();if(!e)return Xn();let t=we(),n=Te(),r=bt(e.id,t,n),i=Ct(e.id,t,n),a=_t(e.id,t,n).filter(t=>[`none`,`more`].includes(vt(t,e.id)));return`${q(`مرحبًا بك`,`Welcome`,O.name)}${Yn()}
+  ${G([p(`الطالب`,`Student`),p(`الصف والشعبة`,`Class`),p(`حالة الاستبيان`,`Survey status`),``],s.map(n=>{let r=Ct(n.id,e,t);return[m(n.name),m(y(n.grade,n.section)),r===`done`?`<span class="bd c-green">${p(`تم الاستكمال`,`Completed`)}</span>`:`<span class="bd c-gray">${p(`لم يُستكمل`,`Not completed`)}</span>`,r===`done`?K(`svReopen`,p(`إعادة فتح الاستبيان له`,`Reopen for this parent`),{cls:`s`,d:{sid:n.id}}):K(`remind`,p(`تذكير ولي الأمر`,`Remind parent`),{cls:`s`,ic:`bell`,d:{sid:n.id}})]}))}`},z.svNew=async()=>{try{await L(`svNew`,{year:j(),sem:M(),questions:he.map(([e,t])=>({ar:e,en:t}))}),k.sv=null,$()}catch(e){I(e)}},z.svQadd=()=>{k.sv.questions.push({ar:``,en:``}),$()},z.svQdel=e=>{k.sv.questions.splice(+e.i,1),$()},z.svSave=async()=>{let e=k.sv,t=e.questions.map(e=>({ar:String(e.ar||``).trim(),en:String(e.en||``).trim()})).filter(e=>e.ar);if(!t.length)return Y(`أضف سؤالًا واحدًا على الأقل.`,`Add at least one question.`);let n=e.targets||`all`;if(n!==`all`&&!n.length)return Y(`اختر ولي أمر طالب واحد على الأقل.`,`Choose at least one student’s parent.`);try{await L(`svSave`,{id:e.id,open:!!e.open,openDate:e.openDate||``,questions:t,targets:n}),k.sv=null,J(`تم حفظ الاستبيان.`,`Survey saved.`),$()}catch(e){I(e)}},z.svReopen=e=>{L(`svReopen`,{surveyId:xt(j(),M()).id,sid:e.sid}).then(()=>{J(`أُعيد فتح الاستبيان لولي الأمر.`,`Survey reopened for this parent.`),$()}).catch(I)};let Yn=()=>{let e=Oe();return e.find(e=>e.id===k.kid)||e[0]},Xn=()=>{let e=Oe();return e.length>1?`<label class="row sm"><span class="mut">${p(`الطالب`,`Student`)}</span><select data-v="kid" style="width:auto">${e.map(e=>H(e.id,e.name,Yn().id)).join(``)}</select></label>`:``},Zn=()=>`<div class="empty">${p(`لا يوجد طالب مرتبط بهذا الرمز حاليًا. تواصل مع معلم التربية الخاصة.`,`No student is linked to this code right now. Contact the special education teacher.`)}</div>`;B.p.home=()=>{let e=Yn();if(!e)return Zn();let t=we(),n=Te(),r=bt(e.id,t,n),i=Ct(e.id,t,n),a=_t(e.id,t,n).filter(t=>[`none`,`more`].includes(vt(t,e.id)));return`${q(`مرحبًا بك`,`Welcome`,O.name)}${Xn()}
   <div class="card col"><div class="row sp"><div><h2>${m(e.name)}</h2><p class="mut sm">${m(y(e.grade,e.section))} — ${m(b(n))} ${m(t)}</p></div></div>
   <div><div class="row sp sm"><span>${p(`إنجاز الأنشطة الفصلية`,`Semester activities completed`)}</span><span class="b">${r.ok} / ${r.total} — ${r.pct}%</span></div><div class="bar"><i style="width:${r.pct}%"></i></div></div>
   <div class="row sp sm"><span>${p(`الاستبيان الفصلي`,`Semester survey`)}</span>${i===`done`?`<span class="bd c-green">${p(`تم الاستكمال`,`Completed`)}</span>`:i===`open`?`<span class="bd c-amber">${p(`متاح — لم يُستكمل`,`Open — not completed`)}</span>`:`<span class="bd c-gray">${p(`غير متاح حاليًا`,`Not open yet`)}</span>`}</div></div>
   <div class="card col"><h2>${p(`المطلوب منك الآن`,`What needs your attention`)}</h2>${a.map(e=>`<div class="row sp"><span>${E(`heart`)} ${m(e.title)} <span class="xs mut">${p(`آخر موعد`,`due`)} ${h(e.due)}</span></span>${K(`pAct`,p(`إضافة صور النشاط`,`Add activity photos`),{cls:`s p`,d:{id:e.id}})}</div>`).join(``)}${i===`open`?`<div class="row sp"><span>${E(`form`)} ${p(`استبيان رضا ولي الأمر`,`Parent satisfaction survey`)}</span>${K(`go`,p(`الإجابة عن الاستبيان`,`Answer the survey`),{cls:`s p`,d:{view:`survey`}})}</div>`:``}${!a.length&&i!==`open`?`<p class="mut">${p(`لا توجد مهام مطلوبة الآن. شكرًا لتعاونكم.`,`Nothing is needed right now. Thank you for your cooperation.`)}</p>`:``}</div>
-  <div class="card"><h2>${p(`الإشعارات`,`Notifications`)}</h2>${Gt(5)?`<div style="border:1px solid var(--line);border-radius:10px;overflow:hidden">${Gt(5)}</div>`:`<p class="mut">${p(`لا توجد إشعارات جديدة.`,`No new notifications.`)}</p>`}</div>`};let Zn=()=>[,,].fill(null),Qn=e=>(k.slots=k.slots||{})[e]||(k.slots[e]=Zn()),$n=(e,t)=>{let n=vt(e,t.id),r=D.arev.get(e.id+`_`+t.id)||{},i=D.psub.get(e.id+`_`+t.id),a=n===`none`||k.resend&&k.resend[e.id]&&n!==`approved`,o=Qn(e.id),s=o.filter(Boolean).length,c=a?o.map((t,n)=>t?`<figure class="slot on"><img alt="" src="${t.url}"><button data-act="slotDel" data-id="${e.id}" data-i="${n}" aria-label="${p(`حذف الصورة`,`Remove photo`)}">×</button><figcaption>${p(`صورة `,`Photo `)}${n+1}</figcaption></figure>`:`<label class="slot"><input type="file" accept="image/*" data-slot="${e.id}" data-i="${n}" hidden><b>+</b><span>${p(`اضغط للإضافة`,`Tap to add`)}</span><figcaption>${p(`صورة `,`Photo `)}${n+1}</figcaption></label>`).join(``):(i?i.photos:[]).map((e,t)=>`<figure class="slot on"><img alt="" data-lazy="${Kt(e)}" data-act="viewfile" data-k="${Kt(e)}" style="cursor:pointer"><figcaption>${p(`صورة `,`Photo `)}${t+1}</figcaption></figure>`).join(``);return`<div class="card col" style="gap:8px" id="act_${e.id}"><div class="row sp"><h3>${m(e.title)}</h3>${T(yt,n)}</div><p class="sm">${m(e.desc)}</p><p class="xs mut">${m(b(e.sem))} — ${p(`آخر موعد للتنفيذ: `,`Due: `)}${h(e.due)}</p>${n===`more`&&r.note?`<p class="note">${m(r.note)}</p>`:``}
+  <div class="card"><h2>${p(`الإشعارات`,`Notifications`)}</h2>${Gt(5)?`<div style="border:1px solid var(--line);border-radius:10px;overflow:hidden">${Gt(5)}</div>`:`<p class="mut">${p(`لا توجد إشعارات جديدة.`,`No new notifications.`)}</p>`}</div>`};let Qn=()=>[,,].fill(null),$n=e=>(k.slots=k.slots||{})[e]||(k.slots[e]=Qn()),er=(e,t)=>{let n=vt(e,t.id),r=D.arev.get(e.id+`_`+t.id)||{},i=D.psub.get(e.id+`_`+t.id),a=n===`none`||k.resend&&k.resend[e.id]&&n!==`approved`,o=$n(e.id),s=o.filter(Boolean).length,c=a?o.map((t,n)=>t?`<figure class="slot on"><img alt="" src="${t.url}"><button data-act="slotDel" data-id="${e.id}" data-i="${n}" aria-label="${p(`حذف الصورة`,`Remove photo`)}">×</button><figcaption>${p(`صورة `,`Photo `)}${n+1}</figcaption></figure>`:`<label class="slot"><input type="file" accept="image/*" data-slot="${e.id}" data-i="${n}" hidden><b>+</b><span>${p(`اضغط للإضافة`,`Tap to add`)}</span><figcaption>${p(`صورة `,`Photo `)}${n+1}</figcaption></label>`).join(``):(i?i.photos:[]).map((e,t)=>`<figure class="slot on"><img alt="" data-lazy="${Kt(e)}" data-act="viewfile" data-k="${Kt(e)}" style="cursor:pointer"><figcaption>${p(`صورة `,`Photo `)}${t+1}</figcaption></figure>`).join(``);return`<div class="card col" style="gap:8px" id="act_${e.id}"><div class="row sp"><h3>${m(e.title)}</h3>${T(yt,n)}</div><p class="sm">${m(e.desc)}</p><p class="xs mut">${m(b(e.sem))} — ${p(`آخر موعد للتنفيذ: `,`Due: `)}${h(e.due)}</p>${n===`more`&&r.note?`<p class="note">${m(r.note)}</p>`:``}
   <div class="row sp sm"><span>${p(`مطلوب صورتان لهذا النشاط`,`2 photos are required for this activity`)}</span><span class="b">${a?s:i?i.photos.length:0} / ${a||!i?2:Math.max(2,i.photos.length)}</span></div>
   <div class="slots">${c}</div>
-  ${a?`<div class="row">${K(`slotSend`,k.sending===e.id?p(`جارٍ الإرسال…`,`Sending…`):p(`إرسال النشاط`,`Send activity`),{cls:`p`,ic:`up`,d:{id:e.id},dis:s<2||k.sending===e.id})}${n===`none`?``:K(`slotCancel`,p(`إلغاء`,`Cancel`),{d:{id:e.id}})}</div>${s<2?`<p class="xs mut">${p(`يُفعَّل الإرسال بعد إضافة الصورتين`,`Sending is enabled once both photos are added`)}</p>`:``}`:n===`approved`?``:`<div class="row">${K(`slotResend`,p(`تعديل الصور وإعادة الإرسال`,`Change photos and resend`),{cls:n===`more`?`p`:``,ic:`edit`,d:{id:e.id}})}</div>`}</div>`};B.p.acts=()=>{let e=Jn();if(!e)return Xn();let t=we(),n=M(),r=_t(e.id,t,n);return`${q(`أنشطة أسرتي`,`My Family Activities`,e.name)}${Yn()}${kt()}${r.length?`<div class="sgrid">${r.map(t=>$n(t,e)).join(``)}</div>`:`<div class="empty">${p(`لا توجد أنشطة محددة في هذا الفصل بعد.`,`No activities set for this semester yet.`)}</div>`}`},z.pAct=e=>{let t=D.acts.get(e.id);zt(`acts`,t?{sem:t.sem}:null),setTimeout(()=>{let t=document.getElementById(`act_`+e.id);t&&t.scrollIntoView({block:`start`,behavior:`smooth`})},50)},z.slotDel=e=>{Qn(e.id)[+e.i]=null,$()},z.slotResend=e=>{k.resend=k.resend||{},k.resend[e.id]=!0,k.slots[e.id]=Zn(),$()},z.slotCancel=e=>{k.resend&&(k.resend[e.id]=!1),k.slots&&(k.slots[e.id]=Zn()),$()},z.slotSend=async e=>{let t=Jn(),n=Qn(e.id);if(n.some(e=>!e))return I({code:`photos_required`});k.sending=e.id,$();try{let r=[];for(let e of n)r.push(await Ve(e.file,[`jpg`,`jpeg`,`png`,`webp`],`photo`));await L(`pActSend`,{actId:e.id,sid:t.id,fileIds:r}),k.slots[e.id]=Zn(),k.resend&&(k.resend[e.id]=!1),k.sending=null,$(),X(()=>`${Z(p(`شكرًا لكم`,`Thank you`))}<p>${p(`تم إرسال النشاط بنجاح. نشكر لكم مشاركتكم وتعاونكم مع قسم التربية الخاصة.`,`The activity was sent. Thank you for taking part and working with the Special Education Department.`)}</p><div class="row" style="justify-content:flex-end">${K(`close`,p(`إغلاق`,`Close`),{cls:`p`})}</div>`)}catch(e){k.sending=null,$(),I(e)}},B.p.survey=()=>{let e=Jn();if(!e)return Xn();let t=we(),n=Te(),r=xt(t,n),i=Ct(e.id,t,n),a=`${q(`استبيان رضا ولي الأمر عن الخدمات المقدمة`,`Parent Satisfaction Survey`,e.name+` — `+b(n))}${Yn()}`;if(i===`done`)return`${a}<div class="card col" style="text-align:center"><span class="bd c-green" style="align-self:center">${p(`تم الاستكمال`,`Completed`)}</span><p>${p(`شكرًا وتقديرًا لمشاركتكم؛ رأيكم يساعدنا على تحسين الخدمات المقدمة لابنكم.`,`Thank you. Your view helps us improve the services your child receives.`)}</p></div>`;if(i!==`open`)return`${a}<div class="empty">${p(`استبيان هذا الفصل غير متاح حاليًا. سيصلك إشعار عند فتحه.`,`This semester’s survey is not open yet. You will be notified when it opens.`)}</div>`;let o=k.ans||{};return`${a}<div class="card col">${r.questions.map((e,t)=>`<div class="col" style="gap:6px"><span class="b">${t+1}. ${m(p(e.ar,e.en||e.ar))}</span><div class="likert">${me.map((e,n)=>`<label class="${o[t]===5-n?`on`:``}"><input type="radio" name="q${t}" data-ans="${t}" value="${5-n}"${o[t]===5-n?` checked`:``}>${m(p(e[0],e[1]))}</label>`).join(``)}</div></div>`).join(``)}
-  ${U(p(`ما مقترحاتك أو ملاحظاتك لتحسين الخدمات المقدمة لابنك؟ (اختياري)`,`What suggestions or comments do you have to improve your child’s services? (optional)`),Et(`svc`))}<div class="row">${K(`pSurveySend`,p(`إرسال الاستبيان`,`Send survey`),{cls:`p`})}</div></div>`},z.pSurveySend=async()=>{let e=Jn(),t=xt(we(),Te()),n=k.ans||{};if(t.questions.some((e,t)=>!n[t]))return Y(`أجب عن جميع الأسئلة قبل الإرسال.`,`Answer every question before sending.`);try{await L(`pSurveySend`,{sid:e.id,answers:t.questions.map((e,t)=>n[t]),comment:String(k.f.svc||``).trim()}),k.ans={},k.f={},J(`شكرًا لكم. تم إرسال الاستبيان.`,`Thank you. The survey was sent.`),$()}catch(e){I(e)}},B.p.memos=()=>{let e=Jn();if(!e)return Xn();let t=[...D.memos.values()].filter(t=>t.studentId===e.id&&(D.mrev.get(t.id)||{}).approved).sort((e,t)=>_.indexOf(e.subject)-_.indexOf(t.subject));return`${q(`مذكرات المراجعة`,`Review Notes`,e.name)}${Yn()}${G([p(`المادة`,`Subject`),p(`العام`,`Year`),p(`الملف`,`File`),p(`التاريخ`,`Date`),``],t.map(e=>{let t=e.versions[e.versions.length-1];return[m(v(e.subject)),m(e.year),m(t.file.name),h(t.at),`<div class="row">${qt(t.file)}</div>`]}),p(`لا توجد مذكرات متاحة بعد.`,`No notes available yet.`))}`},B.p.cert=()=>{let e=Jn();if(!e)return Xn();let t=we();return`${q(`شهادة الشكر والتقدير`,`Certificate of Appreciation`,e.name)}${Yn()}<div class="sgrid">${[1,2,3].map(n=>{let r=bt(e.id,t,n),i=r.total&&r.ok===r.total;return`<div class="card col" style="gap:8px"><h3>${m(b(n))}</h3><div class="bar"><i style="width:${r.pct}%"></i></div><p class="sm mut">${r.total?p(`اعتُمد ${r.ok} من ${r.total} أنشطة`,`${r.ok} of ${r.total} activities approved`):p(`لا توجد أنشطة في هذا الفصل`,`No activities this semester`)}</p>${i?K(`cert`,p(`عرض الشهادة وتنزيلها`,`View and download certificate`),{cls:`p`,ic:`award`,d:{sid:e.id,sem:n}}):`<p class="xs mut">${p(`تصدر الشهادة بعد اعتماد جميع أنشطة الفصل.`,`The certificate is issued once all semester activities are approved.`)}</p>`}</div>`}).join(``)}</div>`};function er(e,t,n,r,i,a){let o=String(t).split(` `),s=``;for(let t of o){let o=s?s+` `+t:t;e.measureText(o).width>i&&s?(e.fillText(s,n,r),r+=a,s=t):s=o}return s&&e.fillText(s,n,r),r+a}function tr(e,t,n){let r=e.width=1600,i=e.height=1130,a=e.getContext(`2d`),o=O.role===`p`?we():j(),s=f===`ar`;a.fillStyle=`#fff`,a.fillRect(0,0,r,i),a.strokeStyle=`#1f7f74`,a.lineWidth=14,a.strokeRect(30,30,r-60,i-60),a.strokeStyle=`#b98a2f`,a.lineWidth=3,a.strokeRect(54,54,r-108,i-108);let c=te(`#logoimg`);try{if(c&&c.complete){let e=760*c.naturalHeight/c.naturalWidth;a.drawImage(c,(r-760)/2,90,760,e)}}catch{}a.direction=s?`rtl`:`ltr`,a.textAlign=`center`,a.fillStyle=`#1f7f74`,a.font=`700 84px "Readex Pro","IBM Plex Sans Arabic",sans-serif`,a.fillText(s?`شهادة شكر وتقدير`:`Certificate of Appreciation`,r/2,330),a.fillStyle=`#17302e`,a.font=`400 34px "IBM Plex Sans Arabic",sans-serif`;let l=er(a,s?`يتقدم قسم التربية الخاصة في مجمع زايد التعليمي – سهيلة بخالص الشكر والتقدير إلى`:`The Special Education Department at Zayed Education Complex – Suhaila extends its sincere thanks and appreciation to`,r/2,420,1250,52);a.fillStyle=`#b98a2f`,a.font=`700 62px "Readex Pro","IBM Plex Sans Arabic",sans-serif`,a.fillText(t.parentName||(s?`ولي الأمر الكريم`:`the parent`),r/2,l+50),a.fillStyle=`#17302e`,a.font=`600 40px "IBM Plex Sans Arabic",sans-serif`,a.fillText((s?`ولي أمر الطالب: `:`Parent of: `)+t.name,r/2,l+130),a.font=`400 34px "IBM Plex Sans Arabic",sans-serif`,er(a,s?`تقديرًا لمشاركة الأسرة وتعاونها في تنفيذ الأنشطة الأسرية خلال ${b(n)} من العام الدراسي ${o}، مع تمنياتنا لكم ولابنكم بدوام التوفيق والنجاح.`:`in recognition of the family’s participation and cooperation in completing the family activities during the ${b(n)} of academic year ${o}, with our best wishes for continued success.`,r/2,l+215,1250,54),a.font=`600 32px "IBM Plex Sans Arabic",sans-serif`,a.fillStyle=`#1f7f74`,a.fillText(s?`مجمع زايد التعليمي – سهيلة`:`Zayed Education Complex – Suhaila`,r*(s?.74:.26),i-150),a.fillText(s?`قسم التربية الخاصة`:`Special Education Department`,r*(s?.26:.74),i-150),a.fillStyle=`#5a716e`,a.font=`400 26px "IBM Plex Sans Arabic",sans-serif`,a.fillText(h(ne()),r/2,i-100)}z.cert=e=>{k.cert={sid:e.sid,sem:+e.sem},X(()=>`${Z(p(`شهادة شكر وتقدير`,`Certificate of Appreciation`))}<canvas id="certcv" style="width:100%;height:auto;border:1px solid var(--line);border-radius:8px"></canvas><div class="row" style="justify-content:flex-end">${K(`certDl`,p(`تنزيل صورة`,`Download image`),{ic:`dl`,d:{t:`png`}})}${K(`certDl`,p(`تنزيل PDF للطباعة`,`Download PDF to print`),{cls:`p`,ic:`print`,d:{t:`pdf`}})}</div>`,!0);let t=()=>{let e=te(`#certcv`);e&&tr(e,De(k.cert.sid),k.cert.sem)};t(),document.fonts&&document.fonts.ready&&document.fonts.ready.then(t)},z.certDl=e=>{let t=te(`#certcv`);if(t){if(e.t===`pdf`&&window.jspdf){let e=new window.jspdf.jsPDF({orientation:`l`,unit:`pt`,format:`a4`}),n=e.internal.pageSize.getWidth(),r=e.internal.pageSize.getHeight();e.addImage(t.toDataURL(`image/jpeg`,.95),`JPEG`,0,0,n,r),Ue(`certificate.pdf`,e.output(`blob`))}else t.toBlob(e=>Ue(`certificate.png`,e),`image/png`)}},document.addEventListener(`click`,e=>{Je();let t=e.target.closest(`[data-act]`);if(t){if(t.disabled)return;let n=z[t.dataset.act];if(n)try{let r=n(t.dataset,t,e);r&&r.catch&&r.catch(I)}catch(e){I(e)}}else k.drop&&!e.target.closest(`.drop`)&&(k.drop=!1,$())}),document.addEventListener(`input`,e=>{let t=e.target,n=t.dataset;n.f&&(t.tagName===`TEXTAREA`||[`text`,`search`,`password`].includes(t.type))?(k.f[n.f]=t.value,n.re&&t.type===`search`&&(clearTimeout(k.tm),k.tm=setTimeout(()=>{$();let e=te(`[data-f="q_text"]`);e&&(e.focus(),e.setSelectionRange(e.value.length,e.value.length))},500))):n.sq!=null&&k.sv?k.sv.questions[+n.sq][n.l]=t.value:n.pe&&(k.pe=k.pe||{},k.pe[n.pe]=t.value)}),document.addEventListener(`change`,async e=>{let t=e.target,n=t.dataset,r=!!t.closest(`#modal`),i=()=>r?It():$();if(n.f){if(t.type===`checkbox`?k.f[n.f]=t.checked:(t.tagName===`SELECT`||t.type===`date`)&&(k.f[n.f]=t.value),n.pick)return hn(t.value),$();n.re&&t.type!==`search`&&i()}else{if(n.v)return k[n.v]=t.value,k.edit=null,k.view===`reqs`&&k.f.rs&&hn(k.f.rs),$();if(n.file)return k.files[n.file]=t.files[0]||null,i();if(n.sub)return k.rsubs=k.rsubs||[],k.rsubs=t.checked?[...k.rsubs,n.sub]:k.rsubs.filter(e=>e!==n.sub),$();if(n.rt)k.rteach=k.rteach||{},k.rteach[n.rt]=t.value;else{if(n.cp)return k.cp[n.cp]=n.cp===`sem`?+t.value:t.value,_n(),It();if(n.mq){let e=k.mq;e[n.mq]=t.checked?[...e[n.mq]||[],n.k]:(e[n.mq]||[]).filter(e=>e!==n.k);let r=document.getElementById(`mqc_`+n.mq);r&&(r.textContent=e[n.mq].length)}else if(n.cps){let e=k.cp.m;e[n.cps]=t.checked?[...e[n.cps]||[],n.k]:(e[n.cps]||[]).filter(e=>e!==n.k)}else{if(n.pref)return A[n.pref]=t.checked,d.set(`prefs`,A),$();if(n.tg){if(n.tg===`all`)k.atg=t.checked?`all`:[];else{let e=k.atg===`all`?[]:k.atg||[];k.atg=t.checked?[...e,n.tg]:e.filter(e=>e!==n.tg)}return $()}if(n.svtg){let e=k.sv.targets||`all`;if(n.svtg===`all`)k.sv.targets=t.checked?`all`:[];else{let r=e===`all`?[]:e;k.sv.targets=t.checked?[...r,n.svtg]:r.filter(e=>e!==n.svtg)}return $()}if(n.svo)return k.sv.open=t.checked,$();if(n.pe)k.pe=k.pe||{},k.pe[n.pe]=t.value;else if(n.svd)k.sv.openDate=t.value;else{if(n.ans!=null)return k.ans=k.ans||{},k.ans[+n.ans]=+t.value,$();if(n.slot){let e=t.files[0];if(!e||!/^image\//.test(e.type))return;let r=await Ke(e);return Qn(n.slot)[+n.i]={file:r,url:`data:image/jpeg;base64,`+await Be(r)},$()}if(n.photo){for(let e of[...t.files].slice(0,3-k.photos.length))/^image\//.test(e.type)&&k.photos.push({file:e,url:`data:`+e.type+`;base64,`+await Be(e)});return It()}}}}}}),document.addEventListener(`focusout`,()=>{Lt&&setTimeout(()=>{Lt&&Rt()},150)}),document.addEventListener(`keydown`,e=>{let t=e.target&&e.target.dataset&&e.target.dataset.f;if(e.key===`Enter`&&!O&&t){let e={pcode:`loginP`,tname2:`loginT`,tcode:`loginT`,sname:`loginS`,spw:`loginS`}[t];e&&z[e]()}e.key===`Escape`&&(Pt.length?Ft():k.drop&&(k.drop=!1,$()))}),(async function(){if($(),e.init){let t=await e.init();s=!0,xe=t.canAdmin,ee=t.pwSet!==!1,ye=t.downloads,be=t.tts,Se=!t.db,$()}e.onChange&&e.onChange(()=>{O?Fe():Ie()}),Le(),O&&(await Fe(!0),O&&$()),O||Ie()})()}var te={png:`image/png`,jpg:`image/jpeg`,jpeg:`image/jpeg`,webp:`image/webp`},d=e=>new Promise((t,n)=>{let r=new FileReader;r.onload=()=>t(String(r.result).split(`,`)[1]),r.onerror=n,r.readAsDataURL(e)}),f=(e,t)=>e&&t&&e.at>t.at,p=e=>String(e??``).replace(/[&<>"']/g,e=>({"&":`&amp;`,"<":`&lt;`,">":`&gt;`,'"':`&quot;`,"'":`&#39;`})[e]);async function m(e,t,n){let{get:r,all:i,getBlob:a,name:o}=e,s=()=>i(`students`).filter(e=>e.active!==!1);if(!window.html2canvas||!window.jspdf)throw Object.assign(Error(`pdf_unavailable`),{code:`pdf_unavailable`});let c=(e,t)=>n===`ar`?e:t,l=n===`ar`?`ar-AE-u-nu-latn`:`en-GB`,u=e=>{if(!e)return`—`;let t=new Date(e.length===10?e+`T00:00:00`:e);return isNaN(+t)?`—`:t.toLocaleDateString(l,{day:`numeric`,month:`short`,year:`numeric`})},ee=[`الأول`,`الثاني`,`الثالث`],m=[`الأول`,`الثاني`,`الثالث`,`الرابع`,`الخامس`,`السادس`,`السابع`,`الثامن`,`التاسع`,`العاشر`,`الحادي عشر`,`الثاني عشر`],ne=e=>c(`الفصل الدراسي `+ee[e-1],[`First`,`Second`,`Third`][e-1]+` Semester`),re=(e,t)=>c(`الصف `+(m[e-1]||e),`Grade `+e)+` / `+(+t?c(`شعبة `+t,`Section `+t):c(`الشعبة غير محددة`,`section not set`)),h={sent:c(`تم الإرسال — بانتظار المراجعة`,`Sent — awaiting review`),approved:c(`معتمد`,`Approved`),more:c(`مطلوب استكمال`,`Needs completing`)},g=e=>{let t=r(`arev`,e.id);return f(t,e)?t.status===`approved`?`approved`:`more`:`sent`},ie=e=>r(`students`,e),ae=i(`acts`).filter(e=>e.year===t),_=i(`psub`),oe=1123,se=document.createElement(`div`);se.style.cssText=`position:fixed;left:-20000px;top:0;width:794px`,se.innerHTML=`<style>
+  ${a?`<div class="row">${K(`slotSend`,k.sending===e.id?p(`جارٍ الإرسال…`,`Sending…`):p(`إرسال النشاط`,`Send activity`),{cls:`p`,ic:`up`,d:{id:e.id},dis:s<2||k.sending===e.id})}${n===`none`?``:K(`slotCancel`,p(`إلغاء`,`Cancel`),{d:{id:e.id}})}</div>${s<2?`<p class="xs mut">${p(`يُفعَّل الإرسال بعد إضافة الصورتين`,`Sending is enabled once both photos are added`)}</p>`:``}`:n===`approved`?``:`<div class="row">${K(`slotResend`,p(`تعديل الصور وإعادة الإرسال`,`Change photos and resend`),{cls:n===`more`?`p`:``,ic:`edit`,d:{id:e.id}})}</div>`}</div>`};B.p.acts=()=>{let e=Yn();if(!e)return Zn();let t=we(),n=M(),r=_t(e.id,t,n);return`${q(`أنشطة أسرتي`,`My Family Activities`,e.name)}${Xn()}${kt()}${r.length?`<div class="sgrid">${r.map(t=>er(t,e)).join(``)}</div>`:`<div class="empty">${p(`لا توجد أنشطة محددة في هذا الفصل بعد.`,`No activities set for this semester yet.`)}</div>`}`},z.pAct=e=>{let t=D.acts.get(e.id);zt(`acts`,t?{sem:t.sem}:null),setTimeout(()=>{let t=document.getElementById(`act_`+e.id);t&&t.scrollIntoView({block:`start`,behavior:`smooth`})},50)},z.slotDel=e=>{$n(e.id)[+e.i]=null,$()},z.slotResend=e=>{k.resend=k.resend||{},k.resend[e.id]=!0,k.slots[e.id]=Qn(),$()},z.slotCancel=e=>{k.resend&&(k.resend[e.id]=!1),k.slots&&(k.slots[e.id]=Qn()),$()},z.slotSend=async e=>{let t=Yn(),n=$n(e.id);if(n.some(e=>!e))return I({code:`photos_required`});k.sending=e.id,$();try{let r=[];for(let e of n)r.push(await Ve(e.file,[`jpg`,`jpeg`,`png`,`webp`],`photo`));await L(`pActSend`,{actId:e.id,sid:t.id,fileIds:r}),k.slots[e.id]=Qn(),k.resend&&(k.resend[e.id]=!1),k.sending=null,$(),X(()=>`${Z(p(`شكرًا لكم`,`Thank you`))}<p>${p(`تم إرسال النشاط بنجاح. نشكر لكم مشاركتكم وتعاونكم مع قسم التربية الخاصة.`,`The activity was sent. Thank you for taking part and working with the Special Education Department.`)}</p><div class="row" style="justify-content:flex-end">${K(`close`,p(`إغلاق`,`Close`),{cls:`p`})}</div>`)}catch(e){k.sending=null,$(),I(e)}},B.p.survey=()=>{let e=Yn();if(!e)return Zn();let t=we(),n=Te(),r=xt(t,n),i=Ct(e.id,t,n),a=`${q(`استبيان رضا ولي الأمر عن الخدمات المقدمة`,`Parent Satisfaction Survey`,e.name+` — `+b(n))}${Xn()}`;if(i===`done`)return`${a}<div class="card col" style="text-align:center"><span class="bd c-green" style="align-self:center">${p(`تم الاستكمال`,`Completed`)}</span><p>${p(`شكرًا وتقديرًا لمشاركتكم؛ رأيكم يساعدنا على تحسين الخدمات المقدمة لابنكم.`,`Thank you. Your view helps us improve the services your child receives.`)}</p></div>`;if(i!==`open`)return`${a}<div class="empty">${p(`استبيان هذا الفصل غير متاح حاليًا. سيصلك إشعار عند فتحه.`,`This semester’s survey is not open yet. You will be notified when it opens.`)}</div>`;let o=k.ans||{};return`${a}<div class="card col">${r.questions.map((e,t)=>`<div class="col" style="gap:6px"><span class="b">${t+1}. ${m(p(e.ar,e.en||e.ar))}</span><div class="likert">${me.map((e,n)=>`<label class="${o[t]===5-n?`on`:``}"><input type="radio" name="q${t}" data-ans="${t}" value="${5-n}"${o[t]===5-n?` checked`:``}>${m(p(e[0],e[1]))}</label>`).join(``)}</div></div>`).join(``)}
+  ${U(p(`ما مقترحاتك أو ملاحظاتك لتحسين الخدمات المقدمة لابنك؟ (اختياري)`,`What suggestions or comments do you have to improve your child’s services? (optional)`),Et(`svc`))}<div class="row">${K(`pSurveySend`,p(`إرسال الاستبيان`,`Send survey`),{cls:`p`})}</div></div>`},z.pSurveySend=async()=>{let e=Yn(),t=xt(we(),Te()),n=k.ans||{};if(t.questions.some((e,t)=>!n[t]))return Y(`أجب عن جميع الأسئلة قبل الإرسال.`,`Answer every question before sending.`);try{await L(`pSurveySend`,{sid:e.id,answers:t.questions.map((e,t)=>n[t]),comment:String(k.f.svc||``).trim()}),k.ans={},k.f={},J(`شكرًا لكم. تم إرسال الاستبيان.`,`Thank you. The survey was sent.`),$()}catch(e){I(e)}},B.p.memos=()=>{let e=Yn();if(!e)return Zn();let t=[...D.memos.values()].filter(t=>t.studentId===e.id&&(D.mrev.get(t.id)||{}).approved).sort((e,t)=>_.indexOf(e.subject)-_.indexOf(t.subject));return`${q(`مذكرات المراجعة`,`Review Notes`,e.name)}${Xn()}${G([p(`المادة`,`Subject`),p(`العام`,`Year`),p(`الملف`,`File`),p(`التاريخ`,`Date`),``],t.map(e=>{let t=e.versions[e.versions.length-1];return[m(v(e.subject)),m(e.year),m(t.file.name),h(t.at),`<div class="row">${qt(t.file)}</div>`]}),p(`لا توجد مذكرات متاحة بعد.`,`No notes available yet.`))}`},B.p.cert=()=>{let e=Yn();if(!e)return Zn();let t=we();return`${q(`شهادة الشكر والتقدير`,`Certificate of Appreciation`,e.name)}${Xn()}<div class="sgrid">${[1,2,3].map(n=>{let r=bt(e.id,t,n),i=r.total&&r.ok===r.total;return`<div class="card col" style="gap:8px"><h3>${m(b(n))}</h3><div class="bar"><i style="width:${r.pct}%"></i></div><p class="sm mut">${r.total?p(`اعتُمد ${r.ok} من ${r.total} أنشطة`,`${r.ok} of ${r.total} activities approved`):p(`لا توجد أنشطة في هذا الفصل`,`No activities this semester`)}</p>${i?K(`cert`,p(`عرض الشهادة وتنزيلها`,`View and download certificate`),{cls:`p`,ic:`award`,d:{sid:e.id,sem:n}}):`<p class="xs mut">${p(`تصدر الشهادة بعد اعتماد جميع أنشطة الفصل.`,`The certificate is issued once all semester activities are approved.`)}</p>`}</div>`}).join(``)}</div>`};function tr(e,t,n,r,i,a){let o=String(t).split(` `),s=``;for(let t of o){let o=s?s+` `+t:t;e.measureText(o).width>i&&s?(e.fillText(s,n,r),r+=a,s=t):s=o}return s&&e.fillText(s,n,r),r+a}function nr(e,t,n){let r=e.width=1600,i=e.height=1130,a=e.getContext(`2d`),o=O.role===`p`?we():j(),s=f===`ar`;a.fillStyle=`#fff`,a.fillRect(0,0,r,i),a.strokeStyle=`#1f7f74`,a.lineWidth=14,a.strokeRect(30,30,r-60,i-60),a.strokeStyle=`#b98a2f`,a.lineWidth=3,a.strokeRect(54,54,r-108,i-108);let c=te(`#logoimg`);try{if(c&&c.complete){let e=760*c.naturalHeight/c.naturalWidth;a.drawImage(c,(r-760)/2,90,760,e)}}catch{}a.direction=s?`rtl`:`ltr`,a.textAlign=`center`,a.fillStyle=`#1f7f74`,a.font=`700 84px "Readex Pro","IBM Plex Sans Arabic",sans-serif`,a.fillText(s?`شهادة شكر وتقدير`:`Certificate of Appreciation`,r/2,330),a.fillStyle=`#17302e`,a.font=`400 34px "IBM Plex Sans Arabic",sans-serif`;let l=tr(a,s?`يتقدم قسم التربية الخاصة في مجمع زايد التعليمي – سهيلة بخالص الشكر والتقدير إلى`:`The Special Education Department at Zayed Education Complex – Suhaila extends its sincere thanks and appreciation to`,r/2,420,1250,52);a.fillStyle=`#b98a2f`,a.font=`700 62px "Readex Pro","IBM Plex Sans Arabic",sans-serif`,a.fillText(t.parentName||(s?`ولي الأمر الكريم`:`the parent`),r/2,l+50),a.fillStyle=`#17302e`,a.font=`600 40px "IBM Plex Sans Arabic",sans-serif`,a.fillText((s?`ولي أمر الطالب: `:`Parent of: `)+t.name,r/2,l+130),a.font=`400 34px "IBM Plex Sans Arabic",sans-serif`,tr(a,s?`تقديرًا لمشاركة الأسرة وتعاونها في تنفيذ الأنشطة الأسرية خلال ${b(n)} من العام الدراسي ${o}، مع تمنياتنا لكم ولابنكم بدوام التوفيق والنجاح.`:`in recognition of the family’s participation and cooperation in completing the family activities during the ${b(n)} of academic year ${o}, with our best wishes for continued success.`,r/2,l+215,1250,54),a.font=`600 32px "IBM Plex Sans Arabic",sans-serif`,a.fillStyle=`#1f7f74`,a.fillText(s?`مجمع زايد التعليمي – سهيلة`:`Zayed Education Complex – Suhaila`,r*(s?.74:.26),i-150),a.fillText(s?`قسم التربية الخاصة`:`Special Education Department`,r*(s?.26:.74),i-150),a.fillStyle=`#5a716e`,a.font=`400 26px "IBM Plex Sans Arabic",sans-serif`,a.fillText(h(ne()),r/2,i-100)}z.cert=e=>{k.cert={sid:e.sid,sem:+e.sem},X(()=>`${Z(p(`شهادة شكر وتقدير`,`Certificate of Appreciation`))}<canvas id="certcv" style="width:100%;height:auto;border:1px solid var(--line);border-radius:8px"></canvas><div class="row" style="justify-content:flex-end">${K(`certDl`,p(`تنزيل صورة`,`Download image`),{ic:`dl`,d:{t:`png`}})}${K(`certDl`,p(`تنزيل PDF للطباعة`,`Download PDF to print`),{cls:`p`,ic:`print`,d:{t:`pdf`}})}</div>`,!0);let t=()=>{let e=te(`#certcv`);e&&nr(e,De(k.cert.sid),k.cert.sem)};t(),document.fonts&&document.fonts.ready&&document.fonts.ready.then(t)},z.certDl=e=>{let t=te(`#certcv`);if(t){if(e.t===`pdf`&&window.jspdf){let e=new window.jspdf.jsPDF({orientation:`l`,unit:`pt`,format:`a4`}),n=e.internal.pageSize.getWidth(),r=e.internal.pageSize.getHeight();e.addImage(t.toDataURL(`image/jpeg`,.95),`JPEG`,0,0,n,r),Ue(`certificate.pdf`,e.output(`blob`))}else t.toBlob(e=>Ue(`certificate.png`,e),`image/png`)}},document.addEventListener(`click`,e=>{Je();let t=e.target.closest(`[data-act]`);if(t){if(t.disabled)return;let n=z[t.dataset.act];if(n)try{let r=n(t.dataset,t,e);r&&r.catch&&r.catch(I)}catch(e){I(e)}}else k.drop&&!e.target.closest(`.drop`)&&(k.drop=!1,$())}),document.addEventListener(`input`,e=>{let t=e.target,n=t.dataset;n.f&&(t.tagName===`TEXTAREA`||[`text`,`search`,`password`].includes(t.type))?(k.f[n.f]=t.value,n.re&&t.type===`search`&&(clearTimeout(k.tm),k.tm=setTimeout(()=>{$();let e=te(`[data-f="q_text"]`);e&&(e.focus(),e.setSelectionRange(e.value.length,e.value.length))},500))):n.sq!=null&&k.sv?k.sv.questions[+n.sq][n.l]=t.value:n.pe&&(k.pe=k.pe||{},k.pe[n.pe]=t.value)}),document.addEventListener(`change`,async e=>{let t=e.target,n=t.dataset,r=!!t.closest(`#modal`),i=()=>r?It():$();if(n.f){if(t.type===`checkbox`?k.f[n.f]=t.checked:(t.tagName===`SELECT`||t.type===`date`)&&(k.f[n.f]=t.value),n.pick)return hn(t.value),$();n.re&&t.type!==`search`&&i()}else{if(n.v)return k[n.v]=t.value,k.edit=null,k.view===`reqs`&&k.f.rs&&hn(k.f.rs),$();if(n.file)return k.files[n.file]=t.files[0]||null,i();if(n.sub)return k.rsubs=k.rsubs||[],k.rsubs=t.checked?[...k.rsubs,n.sub]:k.rsubs.filter(e=>e!==n.sub),$();if(n.rt)k.rteach=k.rteach||{},k.rteach[n.rt]=t.value;else{if(n.cp)return k.cp[n.cp]=n.cp===`sem`?+t.value:t.value,_n(),It();if(n.mq){let e=k.mq;e[n.mq]=t.checked?[...e[n.mq]||[],n.k]:(e[n.mq]||[]).filter(e=>e!==n.k);let r=document.getElementById(`mqc_`+n.mq);r&&(r.textContent=e[n.mq].length)}else if(n.cps){let e=k.cp.m;e[n.cps]=t.checked?[...e[n.cps]||[],n.k]:(e[n.cps]||[]).filter(e=>e!==n.k)}else{if(n.pref)return A[n.pref]=t.checked,d.set(`prefs`,A),$();if(n.tg){if(n.tg===`all`)k.atg=t.checked?`all`:[];else{let e=k.atg===`all`?[]:k.atg||[];k.atg=t.checked?[...e,n.tg]:e.filter(e=>e!==n.tg)}return $()}if(n.svtg){let e=k.sv.targets||`all`;if(n.svtg===`all`)k.sv.targets=t.checked?`all`:[];else{let r=e===`all`?[]:e;k.sv.targets=t.checked?[...r,n.svtg]:r.filter(e=>e!==n.svtg)}return $()}if(n.svo)return k.sv.open=t.checked,$();if(n.pe)k.pe=k.pe||{},k.pe[n.pe]=t.value;else if(n.svd)k.sv.openDate=t.value;else{if(n.ans!=null)return k.ans=k.ans||{},k.ans[+n.ans]=+t.value,$();if(n.slot){let e=t.files[0];if(!e||!/^image\//.test(e.type))return;let r=await Ke(e);return $n(n.slot)[+n.i]={file:r,url:`data:image/jpeg;base64,`+await Be(r)},$()}if(n.photo){for(let e of[...t.files].slice(0,3-k.photos.length))/^image\//.test(e.type)&&k.photos.push({file:e,url:`data:`+e.type+`;base64,`+await Be(e)});return It()}}}}}}),document.addEventListener(`focusout`,()=>{Lt&&setTimeout(()=>{Lt&&Rt()},150)}),document.addEventListener(`keydown`,e=>{let t=e.target&&e.target.dataset&&e.target.dataset.f;if(e.key===`Enter`&&!O&&t){let e={pcode:`loginP`,tname2:`loginT`,tcode:`loginT`,sname:`loginS`,spw:`loginS`}[t];e&&z[e]()}e.key===`Escape`&&(Pt.length?Ft():k.drop&&(k.drop=!1,$()))}),(async function(){if($(),e.init){let t=await e.init();s=!0,xe=t.canAdmin,ee=t.pwSet!==!1,ye=t.downloads,be=t.tts,Se=!t.db,$()}e.onChange&&e.onChange(()=>{O?Fe():Ie()}),Le(),O&&(await Fe(!0),O&&$()),O||Ie()})()}var te={png:`image/png`,jpg:`image/jpeg`,jpeg:`image/jpeg`,webp:`image/webp`},d=e=>new Promise((t,n)=>{let r=new FileReader;r.onload=()=>t(String(r.result).split(`,`)[1]),r.onerror=n,r.readAsDataURL(e)}),f=(e,t)=>e&&t&&e.at>t.at,p=e=>String(e??``).replace(/[&<>"']/g,e=>({"&":`&amp;`,"<":`&lt;`,">":`&gt;`,'"':`&quot;`,"'":`&#39;`})[e]);async function m(e,t,n){let{get:r,all:i,getBlob:a,name:o}=e,s=()=>i(`students`).filter(e=>e.active!==!1);if(!window.html2canvas||!window.jspdf)throw Object.assign(Error(`pdf_unavailable`),{code:`pdf_unavailable`});let c=(e,t)=>n===`ar`?e:t,l=n===`ar`?`ar-AE-u-nu-latn`:`en-GB`,u=e=>{if(!e)return`—`;let t=new Date(e.length===10?e+`T00:00:00`:e);return isNaN(+t)?`—`:t.toLocaleDateString(l,{day:`numeric`,month:`short`,year:`numeric`})},ee=[`الأول`,`الثاني`,`الثالث`],m=[`الأول`,`الثاني`,`الثالث`,`الرابع`,`الخامس`,`السادس`,`السابع`,`الثامن`,`التاسع`,`العاشر`,`الحادي عشر`,`الثاني عشر`],ne=e=>c(`الفصل الدراسي `+ee[e-1],[`First`,`Second`,`Third`][e-1]+` Semester`),re=(e,t)=>c(`الصف `+(m[e-1]||e),`Grade `+e)+` / `+(+t?c(`شعبة `+t,`Section `+t):c(`الشعبة غير محددة`,`section not set`)),h={sent:c(`تم الإرسال — بانتظار المراجعة`,`Sent — awaiting review`),approved:c(`معتمد`,`Approved`),more:c(`مطلوب استكمال`,`Needs completing`)},g=e=>{let t=r(`arev`,e.id);return f(t,e)?t.status===`approved`?`approved`:`more`:`sent`},ie=e=>r(`students`,e),ae=i(`acts`).filter(e=>e.year===t),_=i(`psub`),oe=1123,se=document.createElement(`div`);se.style.cssText=`position:fixed;left:-20000px;top:0;width:794px`,se.innerHTML=`<style>
   .ap{width:794px;height:${oe}px;background:#fff;color:#17302e;position:relative;box-sizing:border-box;padding:46px 46px 70px;font:13px/1.6 "IBM Plex Sans Arabic","Segoe UI",Tahoma,sans-serif;direction:${n===`ar`?`rtl`:`ltr`};overflow:hidden}
   .ap *{box-sizing:border-box}.ap h1,.ap h2,.ap h3{font-family:"Readex Pro","IBM Plex Sans Arabic",Tahoma,sans-serif;margin:0}
   .ap-b{height:1007px;overflow:hidden}.ap-f{position:absolute;bottom:26px;left:0;right:0;text-align:center;font-size:10px;color:#5a716e}
