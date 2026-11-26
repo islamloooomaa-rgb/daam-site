@@ -399,7 +399,7 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 
 # تاسعاً: إعداد نموذج الإجابة الرسمي
 
-أنشئ نموذج إجابة رسمياً منفصلاً خاصاً بالمعلم، يُرفق مع الاختبار ويُسلَّم معه، ويتضمن:
+أنشئ نموذج إجابة رسمياً خاصاً بالمعلم، ويكون **الشريحة الأخيرة في ملف الاختبار نفسه** (PowerPoint)، ويتضمن:
 
 1. الإجابة الصحيحة لكل سؤال.
 2. الإجابات الصحيحة لكل مفردة في أسئلة التوصيل.
@@ -410,11 +410,11 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 
 يجب أن يكون نموذج الإجابة متطابقاً تماماً مع الاختبار من حيث أرقام الأسئلة وترتيبها.
 
-لا تضع نموذج الإجابة داخل نسخة الاختبار المخصصة للطالب.
+ضع نموذج الإجابة في **آخر شريحة** من ملف الاختبار، بعد جميع شرائح الأسئلة، ولا تضع أي إجابة في شرائح الأسئلة نفسها. المعلم سيفصل هذه الشريحة قبل طباعة نسخة الطالب.
 
-## شكل نموذج الإجابة الرسمي (ورقة واحدة)
+## شكل نموذج الإجابة الرسمي (شريحة واحدة = ورقة واحدة)
 
-نموذج الإجابة وثيقة رسمية، ويجب أن يكون **في ورقة واحدة فقط** بمقاس A4 رأسي:
+نموذج الإجابة وثيقة رسمية، ويجب أن يكون **في شريحة واحدة فقط** بمقاس شريحة القالب (A4 رأسي)، فيُطبع في ورقة واحدة:
 
 1. **الترويسة الرسمية:** اسم المدرسة «مجمع زايد التعليمي – سهيلة»، وعبارة «نموذج إجابة اختبار نهاية الفصل الدراسي – أصحاب الهمم»، واستخدم شعار المدرسة الموجود في قالب الاختبار إن أمكن.
 2. **بيانات الاختبار:** المادة، الصف، الفصل الدراسي، العام الدراسي 2026-2027، الحلقة، الدرجة الكلية 100.
@@ -433,7 +433,8 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 - اختصر نص الإجابة ولا تكرر نص السؤال كاملاً.
 - إذا لم تتسع الورقة، قلل المسافات والهوامش بشكل معقول، ولا تحذف أي إجابة أو درجة.
 - استخدم الأرقام الإنجليزية فقط.
-- سلّمه بصيغة Word قابلة للتعديل، ومعه نسخة PDF جاهزة للطباعة.
+- أنشئ الشريحة بنفس تصميم شرائح القالب (الخلفية والترويسة والتذييل)، واكتب في أعلاها بوضوح: «نموذج الإجابة – خاص بالمعلم – لا يُسلَّم للطالب».
+- أحجام الخط 24 و22 الخاصة بالأسئلة لا تنطبق على هذه الشريحة، لأنها للمعلم وليست للطالب.
 
 # عاشراً: المراجعة النهائية وضمان الجودة
 
@@ -482,7 +483,7 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 
 # الحادي عشر: الملفات النهائية المطلوبة
 
-أريد تسليم 3 ملفات منفصلة:
+أريد تسليم ملفين منفصلين:
 
 ## الملف الأول: المذكرة التعليمية
 
@@ -503,18 +504,17 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 - بخط كبير وواضح ومريح للقراءة.
 - مع إضافة شرائح عند الحاجة بدلاً من تصغير الخط.
 - السؤال 24 نقطة والبدائل 22 نقطة على الورقة المطبوعة، وفق جدول «حجم الشريحة».
+- **الشريحة الأخيرة فيه: نموذج الإجابة الرسمي** في شريحة واحدة.
 - بحجم ملف صغير دون التأثير على جودة العرض والطباعة.
 
-## الملف الثالث: نموذج الإجابة الرسمي
+## نموذج الإجابة الرسمي (الشريحة الأخيرة في ملف الاختبار)
 
-- ملف منفصل خاص بالمعلم، يُرفق مع الاختبار.
+- خاص بالمعلم، وهو آخر شريحة في ملف الاختبار.
 - نموذج رسمي بترويسة المدرسة وبيانات الاختبار وخانات التوقيع.
-- **في ورقة واحدة فقط** (A4 رأسي).
+- **في شريحة واحدة فقط** تُطبع في ورقة واحدة (A4 رأسي).
 - يتضمن الإجابات وتوزيع الدرجات التفصيلي.
 - متطابق مع نسخة الاختبار النهائية.
-- بصيغة Word قابلة للتعديل، مع نسخة PDF للطباعة.
 - منظم وواضح وسهل الاستخدام.
-- بحجم ملف صغير ومناسب للرفع والمشاركة.
 
 # الثاني عشر: تعليمات ختامية إلزامية
 
@@ -532,7 +532,7 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 - لا تصغر الخط لاستيعاب المحتوى، بل أضف صفحات أو شرائح عند الحاجة.
 - قلل حجم الملفات باستخدام ضغط الصور والوسائط دون التأثير على جودة المحتوى.
 - تأكد من أن جميع الملفات النهائية مناسبة للرفع على منصة دعم.
-- أرفق مع الاختبار نموذج الإجابة الرسمي في ورقة واحدة.
+- اجعل آخر شريحة في ملف الاختبار نموذج الإجابة الرسمي في شريحة واحدة.
 
 **الهدف النهائي:** إنتاج مذكرة تعليمية واختبار نهاية فصل دراسي متكاملين، متوافقين مع الخطة التعليمية وكتاب المادة والموجهات العامة لاختبارات أصحاب الهمم، مع المحافظة التامة على قالب الاختبار الرسمي المعتمد من المدرسة، وتوفير تجربة قراءة مريحة وواضحة للطالب، مع الحفاظ على أحجام ملفات صغيرة تسهل مشاركتها ورفعها على منصة دعم.
 `:`# Daam Platform Requirements Prompt
@@ -854,7 +854,7 @@ If the template cannot be edited, or a technical problem prevents keeping its fo
 
 # 9. Preparing the official answer key
 
-Create a separate, official answer key for the teacher, attached to and delivered with the exam, including:
+Create an official answer key for the teacher as **the last slide of the exam file itself** (PowerPoint), including:
 
 1. The correct answer to each question.
 2. The correct answers for each item in matching questions.
@@ -865,11 +865,11 @@ Create a separate, official answer key for the teacher, attached to and delivere
 
 The answer key must match the exam exactly in question numbers and order.
 
-Do not put the answer key inside the student's copy of the exam.
+Put the answer key on the **last slide** of the exam file, after all the question slides, and put no answers on the question slides themselves. The teacher will remove this slide before printing the student's copy.
 
-## Format of the official answer key (one page)
+## Format of the official answer key (one slide = one page)
 
-The answer key is an official document and must fit **on a single page** of A4 portrait:
+The answer key is an official document and must fit **on a single slide** of the template's size (A4 portrait), so it prints on one page:
 
 1. **Official header:** the school name "مجمع زايد التعليمي – سهيلة" (Zayed Education Complex – Suhaila), the title "نموذج إجابة اختبار نهاية الفصل الدراسي – أصحاب الهمم" (End-of-semester exam answer key – students of determination), and the school logo from the exam template if possible.
 2. **Exam details:** subject, grade, semester, academic year 2026-2027, cycle, total mark 100.
@@ -888,7 +888,8 @@ One-page rules:
 - Keep answers short and do not repeat the full question text.
 - If the page is not enough, reduce spacing and margins reasonably; never drop an answer or a mark.
 - Use English numerals only.
-- Deliver it as an editable Word file, together with a PDF ready to print.
+- Build the slide with the same design as the template's slides (background, header and footer), and write clearly at its top: "نموذج الإجابة – خاص بالمعلم – لا يُسلَّم للطالب" (Answer key – for the teacher only – not for the student).
+- The 24 pt and 22 pt sizes for questions do not apply to this slide, because it is for the teacher, not the student.
 
 # 10. Final review and quality assurance
 
@@ -937,7 +938,7 @@ Before delivering the files, carry out a full review that includes:
 
 # 11. The final files required
 
-I want 3 separate files delivered:
+I want 2 separate files delivered:
 
 ## File 1: The study notes
 
@@ -958,18 +959,17 @@ I want 3 separate files delivered:
 - A large, clear font that is comfortable to read.
 - Adds slides when needed instead of shrinking the font.
 - Question 24 pt and options 22 pt on the printed page, following the "Slide size" table.
+- **Its last slide: the official answer key** on a single slide.
 - A small file size without lowering display and print quality.
 
-## File 3: The official answer key
+## The official answer key (the last slide of the exam file)
 
-- A separate file for the teacher, attached to the exam.
+- For the teacher; it is the last slide of the exam file.
 - An official document with the school header, the exam details and signature boxes.
-- **On a single page only** (A4 portrait).
+- **On a single slide only**, printed on one page (A4 portrait).
 - Includes the answers and the detailed mark distribution.
 - Matches the final version of the exam.
-- An editable Word file, with a PDF copy for printing.
 - Organised, clear and easy to use.
-- A small file size suitable for uploading and sharing.
 
 # 12. Mandatory final instructions
 
@@ -987,7 +987,7 @@ I want 3 separate files delivered:
 - Do not shrink the font to fit the content; add pages or slides when needed.
 - Reduce file sizes by compressing pictures and media without lowering content quality.
 - Make sure all final files are suitable for uploading to the Daam platform.
-- Attach the one-page official answer key to the exam.
+- Make the last slide of the exam file the one-slide official answer key.
 
 **The final goal:** to produce complete study notes and an end-of-semester exam that match the teaching plan, the subject textbook and the general guidelines for exams of students of determination, while fully keeping the school's official approved exam template, giving the student a comfortable and clear reading experience, and keeping file sizes small so they are easy to share and upload to the Daam platform.
 `)},Ln=()=>In(Pn()),Rn=()=>{let e=Fn();return e?`<p class="xs mut">${p(`آخر تحديث للأمر: `,`Prompt last updated: `)}${g(e.at)} — ${m(e.by)}</p>`:``},zn=()=>`<div class="row">${K(`promptCopy`,p(`نسخ الأمر`,`Copy prompt`),{cls:`p`,ic:`copy`})}${K(`promptDl`,p(`تنزيل الأمر كملف`,`Download as a file`),{ic:`dl`})}</div>`,Bn=()=>{let e=[[`blue`,`file`,p(`الخطة التربوية الفردية`,`Individual Education Plan (IEP)`),p(`خطة الطالب للفصل الدراسي: الأهداف والمهارات المطلوب تدريسها وقياسها.`,`The student’s plan for the semester: the objectives and skills to teach and assess.`),``],[`green`,`book`,p(`كتاب المادة`,`Subject textbook`),p(`كتاب المادة للفصل الحالي، وهو المرجع لمحتوى المذكرة وأسئلة الاختبار.`,`The current semester’s textbook, the reference for the notes and the exam questions.`),``],[`amber`,`up`,p(`قالب الاختبار المعتمد`,`Approved exam template`),p(`ملف PowerPoint من «القوالب المعتمدة» في المنصة، يُستخدم كما هو دون تغيير تصميمه.`,`The PowerPoint file from “Approved templates” on the platform, used as it is without changing its design.`),K(`go`,p(`فتح القوالب المعتمدة`,`Open approved templates`),{cls:`s`,ic:`dl`,d:{view:`templates`}})]];return`<div class="card col" style="gap:10px"><h2>${p(`أرفق هذه الملفات الثلاثة مع الأمر في محادثة Claude`,`Attach these three files with the prompt in the Claude chat`)}</h2>
@@ -1321,7 +1321,7 @@ I want 3 separate files delivered:
 
 # تاسعاً: إعداد نموذج الإجابة الرسمي
 
-أنشئ نموذج إجابة رسمياً منفصلاً خاصاً بالمعلم، يُرفق مع الاختبار ويُسلَّم معه، ويتضمن:
+أنشئ نموذج إجابة رسمياً خاصاً بالمعلم، ويكون **الشريحة الأخيرة في ملف الاختبار نفسه** (PowerPoint)، ويتضمن:
 
 1. الإجابة الصحيحة لكل سؤال.
 2. الإجابات الصحيحة لكل مفردة في أسئلة التوصيل.
@@ -1332,11 +1332,11 @@ I want 3 separate files delivered:
 
 يجب أن يكون نموذج الإجابة متطابقاً تماماً مع الاختبار من حيث أرقام الأسئلة وترتيبها.
 
-لا تضع نموذج الإجابة داخل نسخة الاختبار المخصصة للطالب.
+ضع نموذج الإجابة في **آخر شريحة** من ملف الاختبار، بعد جميع شرائح الأسئلة، ولا تضع أي إجابة في شرائح الأسئلة نفسها. المعلم سيفصل هذه الشريحة قبل طباعة نسخة الطالب.
 
-## شكل نموذج الإجابة الرسمي (ورقة واحدة)
+## شكل نموذج الإجابة الرسمي (شريحة واحدة = ورقة واحدة)
 
-نموذج الإجابة وثيقة رسمية، ويجب أن يكون **في ورقة واحدة فقط** بمقاس A4 رأسي:
+نموذج الإجابة وثيقة رسمية، ويجب أن يكون **في شريحة واحدة فقط** بمقاس شريحة القالب (A4 رأسي)، فيُطبع في ورقة واحدة:
 
 1. **الترويسة الرسمية:** اسم المدرسة «مجمع زايد التعليمي – سهيلة»، وعبارة «نموذج إجابة اختبار نهاية الفصل الدراسي – أصحاب الهمم»، واستخدم شعار المدرسة الموجود في قالب الاختبار إن أمكن.
 2. **بيانات الاختبار:** المادة، الصف، الفصل الدراسي، العام الدراسي 2026-2027، الحلقة، الدرجة الكلية 100.
@@ -1355,7 +1355,8 @@ I want 3 separate files delivered:
 - اختصر نص الإجابة ولا تكرر نص السؤال كاملاً.
 - إذا لم تتسع الورقة، قلل المسافات والهوامش بشكل معقول، ولا تحذف أي إجابة أو درجة.
 - استخدم الأرقام الإنجليزية فقط.
-- سلّمه بصيغة Word قابلة للتعديل، ومعه نسخة PDF جاهزة للطباعة.
+- أنشئ الشريحة بنفس تصميم شرائح القالب (الخلفية والترويسة والتذييل)، واكتب في أعلاها بوضوح: «نموذج الإجابة – خاص بالمعلم – لا يُسلَّم للطالب».
+- أحجام الخط 24 و22 الخاصة بالأسئلة لا تنطبق على هذه الشريحة، لأنها للمعلم وليست للطالب.
 
 # عاشراً: المراجعة النهائية وضمان الجودة
 
@@ -1404,7 +1405,7 @@ I want 3 separate files delivered:
 
 # الحادي عشر: الملفات النهائية المطلوبة
 
-أريد تسليم 3 ملفات منفصلة:
+أريد تسليم ملفين منفصلين:
 
 ## الملف الأول: المذكرة التعليمية
 
@@ -1425,18 +1426,17 @@ I want 3 separate files delivered:
 - بخط كبير وواضح ومريح للقراءة.
 - مع إضافة شرائح عند الحاجة بدلاً من تصغير الخط.
 - السؤال 24 نقطة والبدائل 22 نقطة على الورقة المطبوعة، وفق جدول «حجم الشريحة».
+- **الشريحة الأخيرة فيه: نموذج الإجابة الرسمي** في شريحة واحدة.
 - بحجم ملف صغير دون التأثير على جودة العرض والطباعة.
 
-## الملف الثالث: نموذج الإجابة الرسمي
+## نموذج الإجابة الرسمي (الشريحة الأخيرة في ملف الاختبار)
 
-- ملف منفصل خاص بالمعلم، يُرفق مع الاختبار.
+- خاص بالمعلم، وهو آخر شريحة في ملف الاختبار.
 - نموذج رسمي بترويسة المدرسة وبيانات الاختبار وخانات التوقيع.
-- **في ورقة واحدة فقط** (A4 رأسي).
+- **في شريحة واحدة فقط** تُطبع في ورقة واحدة (A4 رأسي).
 - يتضمن الإجابات وتوزيع الدرجات التفصيلي.
 - متطابق مع نسخة الاختبار النهائية.
-- بصيغة Word قابلة للتعديل، مع نسخة PDF للطباعة.
 - منظم وواضح وسهل الاستخدام.
-- بحجم ملف صغير ومناسب للرفع والمشاركة.
 
 # الثاني عشر: تعليمات ختامية إلزامية
 
@@ -1454,7 +1454,7 @@ I want 3 separate files delivered:
 - لا تصغر الخط لاستيعاب المحتوى، بل أضف صفحات أو شرائح عند الحاجة.
 - قلل حجم الملفات باستخدام ضغط الصور والوسائط دون التأثير على جودة المحتوى.
 - تأكد من أن جميع الملفات النهائية مناسبة للرفع على منصة دعم.
-- أرفق مع الاختبار نموذج الإجابة الرسمي في ورقة واحدة.
+- اجعل آخر شريحة في ملف الاختبار نموذج الإجابة الرسمي في شريحة واحدة.
 
 **الهدف النهائي:** إنتاج مذكرة تعليمية واختبار نهاية فصل دراسي متكاملين، متوافقين مع الخطة التعليمية وكتاب المادة والموجهات العامة لاختبارات أصحاب الهمم، مع المحافظة التامة على قالب الاختبار الرسمي المعتمد من المدرسة، وتوفير تجربة قراءة مريحة وواضحة للطالب، مع الحفاظ على أحجام ملفات صغيرة تسهل مشاركتها ورفعها على منصة دعم.`?``:t,en:n===`# Daam Platform Requirements Prompt
 ## Preparing the study notes and the end-of-semester exam for students of determination (students with special needs)
@@ -1775,7 +1775,7 @@ If the template cannot be edited, or a technical problem prevents keeping its fo
 
 # 9. Preparing the official answer key
 
-Create a separate, official answer key for the teacher, attached to and delivered with the exam, including:
+Create an official answer key for the teacher as **the last slide of the exam file itself** (PowerPoint), including:
 
 1. The correct answer to each question.
 2. The correct answers for each item in matching questions.
@@ -1786,11 +1786,11 @@ Create a separate, official answer key for the teacher, attached to and delivere
 
 The answer key must match the exam exactly in question numbers and order.
 
-Do not put the answer key inside the student's copy of the exam.
+Put the answer key on the **last slide** of the exam file, after all the question slides, and put no answers on the question slides themselves. The teacher will remove this slide before printing the student's copy.
 
-## Format of the official answer key (one page)
+## Format of the official answer key (one slide = one page)
 
-The answer key is an official document and must fit **on a single page** of A4 portrait:
+The answer key is an official document and must fit **on a single slide** of the template's size (A4 portrait), so it prints on one page:
 
 1. **Official header:** the school name "مجمع زايد التعليمي – سهيلة" (Zayed Education Complex – Suhaila), the title "نموذج إجابة اختبار نهاية الفصل الدراسي – أصحاب الهمم" (End-of-semester exam answer key – students of determination), and the school logo from the exam template if possible.
 2. **Exam details:** subject, grade, semester, academic year 2026-2027, cycle, total mark 100.
@@ -1809,7 +1809,8 @@ One-page rules:
 - Keep answers short and do not repeat the full question text.
 - If the page is not enough, reduce spacing and margins reasonably; never drop an answer or a mark.
 - Use English numerals only.
-- Deliver it as an editable Word file, together with a PDF ready to print.
+- Build the slide with the same design as the template's slides (background, header and footer), and write clearly at its top: "نموذج الإجابة – خاص بالمعلم – لا يُسلَّم للطالب" (Answer key – for the teacher only – not for the student).
+- The 24 pt and 22 pt sizes for questions do not apply to this slide, because it is for the teacher, not the student.
 
 # 10. Final review and quality assurance
 
@@ -1858,7 +1859,7 @@ Before delivering the files, carry out a full review that includes:
 
 # 11. The final files required
 
-I want 3 separate files delivered:
+I want 2 separate files delivered:
 
 ## File 1: The study notes
 
@@ -1879,18 +1880,17 @@ I want 3 separate files delivered:
 - A large, clear font that is comfortable to read.
 - Adds slides when needed instead of shrinking the font.
 - Question 24 pt and options 22 pt on the printed page, following the "Slide size" table.
+- **Its last slide: the official answer key** on a single slide.
 - A small file size without lowering display and print quality.
 
-## File 3: The official answer key
+## The official answer key (the last slide of the exam file)
 
-- A separate file for the teacher, attached to the exam.
+- For the teacher; it is the last slide of the exam file.
 - An official document with the school header, the exam details and signature boxes.
-- **On a single page only** (A4 portrait).
+- **On a single slide only**, printed on one page (A4 portrait).
 - Includes the answers and the detailed mark distribution.
 - Matches the final version of the exam.
-- An editable Word file, with a PDF copy for printing.
 - Organised, clear and easy to use.
-- A small file size suitable for uploading and sharing.
 
 # 12. Mandatory final instructions
 
@@ -1908,7 +1908,7 @@ I want 3 separate files delivered:
 - Do not shrink the font to fit the content; add pages or slides when needed.
 - Reduce file sizes by compressing pictures and media without lowering content quality.
 - Make sure all final files are suitable for uploading to the Daam platform.
-- Attach the one-page official answer key to the exam.
+- Make the last slide of the exam file the one-slide official answer key.
 
 **The final goal:** to produce complete study notes and an end-of-semester exam that match the teaching plan, the subject textbook and the general guidelines for exams of students of determination, while fully keeping the school's official approved exam template, giving the student a comfortable and clear reading experience, and keeping file sizes small so they are easy to share and upload to the Daam platform.`?``:n}),k.pe={},J(`تم حفظ الأمر، ويظهر الآن للمعلمين.`,`Prompt saved; teachers now see it.`),$()},p(`نشر`,`Publish`))},z.promptUndo=()=>{k.pe={},$()},z.promptReset=()=>Q(p(`استعادة الأمر الأصلي للمنصة وحذف التعديلات المحفوظة؟ سيظهر الأمر الأصلي للمعلمين.`,`Restore the platform’s original prompt and remove the saved changes? Teachers will see the original prompt.`),async()=>{await L(`promptSet`,{ar:``,en:``}),k.pe={},J(`تمت استعادة الأمر الأصلي.`,`The original prompt was restored.`),$()},p(`استعادة`,`Restore`)),z.promptCopy=async()=>{let e=Ln(),t=()=>J(`تم نسخ الأمر. الصقه في محادثة جديدة مع Claude وأرفق الملفات الثلاثة.`,`Prompt copied. Paste it into a new chat with Claude and attach the three files.`);try{return await navigator.clipboard.writeText(e),t()}catch{}let n=document.createElement(`textarea`);n.value=e,n.setAttribute(`readonly`,``),n.style.cssText=`position:fixed;top:0;opacity:0`,document.body.appendChild(n),n.select();let r=!1;try{r=document.execCommand(`copy`)}catch{r=!1}n.remove(),r?t():Y(`تعذّر النسخ تلقائيًا. حدّد النص وانسخه يدويًا.`,`Could not copy automatically. Select the text and copy it manually.`)},z.promptDl=()=>Ue(Pn()===`ar`?`أمر-متطلبات-منصة-دعم.md`:`daam-requirements-prompt.md`,new Blob([`﻿`+Ln()],{type:`text/markdown;charset=utf-8`}));let Vn=[`home`,`memos`,`upload`,`log`,`sched`,`support`,`templates`,`prompt`,`report`];Ht.t.sort((e,t)=>Vn.indexOf(e[0])-Vn.indexOf(t[0])),B.t.report=()=>{let e=j(),t=t=>t>=e.slice(0,4)+`-08-01`&&t<e.slice(5)+`-08-01`,n=[...D.requests.values()].filter(e=>e.teacher===O.name&&t(e.at)),r=Qt(e),i=Zt(e),a=[];[...D.memos.values()].filter(t=>t.year===e).forEach(e=>e.versions.forEach(t=>{t.teacher===O.name&&a.push({m:e,v:t})}));let o={rq:p(`طلب دعم فوري`,`Instant support request`),ex:p(`اختبار نهاية فصل مرفوع`,`Final exam uploaded`),sc:p(`جدولة اختبار تكويني`,`Formative exam schedule`),mm:p(`مذكرة مراجعة مرفوعة`,`Review notes uploaded`)},s=[...n.map(e=>[e.at,[o.rq,`${w(C,e.type)} — ${P(e.studentId)}`,h(e.at),w(pe,gt(e))]]),...r.map(e=>[e.at,[o.ex,`${v(e.subject)} — ${b(e.sem)} — ${F(e)}`,h(e.at),w(S,R(e))]]),...i.map(e=>[e.at,[o.sc,`${x(e.type)} — ${v(e.subject)} — ${b(e.sem)} — ${y(e.grade,e.section)} — ${h(e.date)}`,h(e.at),w(fe,ht(e))]]),...a.map(({m:e,v:t})=>[t.at,[o.mm,`${v(e.subject)} — ${P(e.studentId)}`,h(t.at),(D.mrev.get(e.id)||{}).approved?p(`معتمدة`,`Approved`):p(`تم الرفع`,`Uploaded`)]])].sort((e,t)=>e[0]<t[0]?1:-1).map(e=>e[1]);return k.rep={title:p(`تقرير المعلم: `,`Teacher report: `)+O.name+` — `+e,sum:[[p(`طلبات الدعم الفوري`,`Instant support requests`),n.length],[p(`اختبارات رفعتها`,`Exams uploaded`),r.length],[p(`اختبارات جدولتها`,`Exams scheduled`),i.length],[p(`مذكرات رفعتها`,`Notes uploaded`),a.length]],head:[p(`النوع`,`Type`),p(`التفاصيل`,`Details`),p(`التاريخ`,`Date`),p(`الحالة`,`Status`)],rows:s},`${q(`تقريري`,`My Report`,p(`ملخص ما قدمته على المنصة خلال العام الدراسي، جاهز للتنزيل والطباعة.`,`A summary of what you did on the platform this academic year, ready to download and print.`))}${Ot()}${Dn()}${Wn(k.rep)}`},Ht.s.splice(7,0,[`myrep`,`award`,`تقرير إنجازي`,`My Achievement Report`]),B.s.myrep=()=>{let e=[...D.alog.values()],t=[...new Set([O.name,...e.map(e=>e.by)])].sort(),n=V(`q_who`,O.name),r=V(`q_from`),i=V(`q_to`),a=V(`q_cat`),o=e.filter(e=>(n===`all`||e.by===n)&&(!r||e.at.slice(0,10)>=r)&&(!i||e.at.slice(0,10)<=i)&&(!a||wn[e.type]===a)).sort((e,t)=>e.at<t.at?1:-1),s=e=>o.filter(t=>wn[t.type]===e).length;return k.rep={title:p(`تقرير إنجاز معلم التربية الخاصة: `,`Special education teacher achievement report: `)+(n===`all`?p(`جميع المعلمين`,`All teachers`):n)+(r||i?` (${r?h(r):`…`} — ${i?h(i):`…`})`:``),sum:[[p(`إجمالي الإجراءات`,`Total actions`),o.length],...Object.keys(Cn).map(e=>[p(Cn[e][0],Cn[e][1]),s(e)]).filter(e=>e[1]||!a)],head:[p(`التاريخ والوقت`,`Date and time`),p(`المعلم`,`Teacher`),p(`المجال`,`Area`),p(`الإجراء`,`Action`)],rows:o.map(e=>[g(e.at),e.by,p(Cn[wn[e.type]][0],Cn[wn[e.type]][1]),Tn(e)])},`${q(`تقرير إنجازي`,`My Achievement Report`,p(`كل إجراء يُسجَّل باسم من قام به، فتقرير كل معلم مستقل عن الآخر. يبدأ التسجيل من تاريخ إضافة هذه الخاصية.`,`Every action is recorded under the name of the person who did it, so each teacher’s report is separate. Recording starts from the date this feature was added.`))}
   <div class="card"><div class="fg" style="grid-template-columns:repeat(auto-fit,minmax(160px,1fr))">${U(p(`المعلم`,`Teacher`),`<select data-f="q_who" data-re="1">${t.map(e=>H(e,e===O.name?e+p(` (أنا)`,` (me)`):e,n)).join(``)}${H(`all`,p(`جميع معلمي التربية الخاصة`,`All special education teachers`),n)}</select>`)}${U(p(`من تاريخ`,`From`),`<input type="date" data-f="q_from" data-re="1" value="${m(r)}">`)}${U(p(`إلى تاريخ`,`To`),`<input type="date" data-f="q_to" data-re="1" value="${m(i)}">`)}${U(p(`المجال`,`Area`),wt(`q_cat`,Object.keys(Cn).map(e=>[e,p(Cn[e][0],Cn[e][1])]),{ph:p(`كل المجالات`,`All areas`),re:1}))}</div></div>
