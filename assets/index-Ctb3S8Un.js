@@ -91,7 +91,7 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 2. **كتاب المادة الدراسية:** وهو المرجع العلمي الأساسي لإعداد المحتوى والأسئلة.
 3. **قالب الاختبار المعتمد:** وهو قالب رسمي بصيغة PowerPoint، ويجب استخدامه كما هو دون تغيير تصميمه أو تنسيقه.
 
-مهمتك هي دراسة الملفات الثلاثة بعناية، ثم إعداد مذكرة تعليمية واختبار نهاية الفصل الدراسي وتدريبات تحاكي الاختبار، مع الالتزام الكامل بالتعليمات التالية.
+مهمتك هي دراسة الملفات الثلاثة بعناية، ثم إعداد مذكرة تعليمية واختبار نهاية الفصل الدراسي وتدريبات تحاكي الاختبار، والاختبار التكويني الأول والاختبار التكويني الثاني، مع الالتزام الكامل بالتعليمات التالية.
 
 ---
 
@@ -397,6 +397,39 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 
 إذا كان القالب غير قابل للتحرير أو ظهرت مشكلة تقنية تمنع الحفاظ على تنسيقه، أخبرني بالمشكلة قبل إجراء أي تغيير على التصميم.
 
+# ثامناً مكرر: الاختبار التكويني الأول والاختبار التكويني الثاني
+
+أعدّ اختبارين تكوينيين من خطة الطالب نفسها، إضافة إلى اختبار نهاية الفصل:
+
+## المحتوى
+
+- **الاختبار التكويني الأول:** يغطي أهداف ومهارات **النصف الأول** من خطة الطالب للفصل الدراسي فقط.
+- **الاختبار التكويني الثاني:** يغطي أهداف ومهارات **النصف الثاني** من خطة الطالب للفصل الدراسي فقط.
+- قسّم أهداف الخطة بالترتيب الوارد فيها إلى نصفين متقاربين في العدد، دون تقسيم الهدف الواحد بين الاختبارين.
+- اذكر في بداية عملك قائمة الأهداف التي يغطيها كل اختبار تكويني.
+- لا تكرر في الاختبارين التكوينيين أسئلة اختبار نهاية الفصل نفسها؛ استخدم أسئلة مختلفة تقيس الأهداف نفسها.
+
+## عدد الأسئلة والدرجات
+
+| الحلقة | عدد الأسئلة في كل اختبار تكويني | الدرجة |
+|---|---:|---:|
+| الحلقة الأولى (الصفوف 1–4) | 8 | 20 |
+| الحلقة الثانية (الصفوف 5–8) | 10 | 20 |
+| الحلقة الثالثة (الصفوف 9–12) | 10 | 20 |
+
+- أنواع الأسئلة هي نفسها المقررة للحلقة في اختبار نهاية الفصل.
+- الاختيار من متعدد 75% من الدرجة: 15 درجة من 20، و5 درجات لبقية الأنواع المقررة للحلقة.
+- تنطبق جميع ضوابط صياغة الأسئلة، والأرقام الإنجليزية، وتوزيع الدرجات بوضوح لكل سؤال ومفردة، مع جعل المجموع 20 بالضبط.
+
+## الملف والقالب
+
+- كل اختبار تكويني في ملف PowerPoint مستقل، على نسخة من **قالب الاختبار المعتمد نفسه**.
+- غيّر عنوان الغلاف إلى «الاختبار التكويني الأول» أو «الاختبار التكويني الثاني»، وعدّل الفصل الدراسي والعام والمادة والصف.
+- جدول الدرجات في الغلاف: الجزء الموضوعي 15، والجزء المقالي 5، والمجموع 20.
+- نفس أحجام الخط وقواعد «حجم الشريحة»: السؤال 24 نقطة والبدائل 22 نقطة على الورقة المطبوعة.
+- احذف شرائح الأسئلة الزائدة غير المستخدمة من القالب، أو أضف شرائح بنفس التصميم عند الحاجة.
+- **الشريحة الأخيرة في كل اختبار تكويني: نموذج الإجابة الرسمي** في شريحة واحدة، بنفس مواصفات نموذج إجابة اختبار نهاية الفصل (البند التاسع)، مع كتابة الدرجة الكلية 20.
+
 # تاسعاً: إعداد نموذج الإجابة الرسمي
 
 أنشئ نموذج إجابة رسمياً خاصاً بالمعلم، ويكون **الشريحة الأخيرة في ملف الاختبار نفسه** (PowerPoint)، ويتضمن:
@@ -483,7 +516,7 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 
 # الحادي عشر: الملفات النهائية المطلوبة
 
-أريد تسليم ملفين منفصلين:
+أريد تسليم 4 ملفات منفصلة:
 
 ## الملف الأول: المذكرة التعليمية
 
@@ -516,6 +549,18 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 - متطابق مع نسخة الاختبار النهائية.
 - منظم وواضح وسهل الاستخدام.
 
+## الملف الثالث: الاختبار التكويني الأول
+
+- بصيغة PowerPoint على قالب الاختبار المعتمد، وعنوان غلافه «الاختبار التكويني الأول».
+- يغطي النصف الأول من خطة الطالب، من 20 درجة.
+- الشريحة الأخيرة فيه: نموذج الإجابة الرسمي.
+
+## الملف الرابع: الاختبار التكويني الثاني
+
+- بصيغة PowerPoint على قالب الاختبار المعتمد، وعنوان غلافه «الاختبار التكويني الثاني».
+- يغطي النصف الثاني من خطة الطالب، من 20 درجة.
+- الشريحة الأخيرة فيه: نموذج الإجابة الرسمي.
+
 # الثاني عشر: تعليمات ختامية إلزامية
 
 - لا تبدأ العمل قبل دراسة الملفات الثلاثة.
@@ -533,8 +578,9 @@ var e={awaiting:1,revision:2,resub:3,received:4,review:5,ready:6};function t(e,t
 - قلل حجم الملفات باستخدام ضغط الصور والوسائط دون التأثير على جودة المحتوى.
 - تأكد من أن جميع الملفات النهائية مناسبة للرفع على منصة دعم.
 - اجعل آخر شريحة في ملف الاختبار نموذج الإجابة الرسمي في شريحة واحدة.
+- أعدّ الاختبار التكويني الأول (النصف الأول من الخطة) والاختبار التكويني الثاني (النصف الثاني من الخطة)، كلٌّ من 20 درجة، وفي آخر كل منهما نموذج إجابته.
 
-**الهدف النهائي:** إنتاج مذكرة تعليمية واختبار نهاية فصل دراسي متكاملين، متوافقين مع الخطة التعليمية وكتاب المادة والموجهات العامة لاختبارات أصحاب الهمم، مع المحافظة التامة على قالب الاختبار الرسمي المعتمد من المدرسة، وتوفير تجربة قراءة مريحة وواضحة للطالب، مع الحفاظ على أحجام ملفات صغيرة تسهل مشاركتها ورفعها على منصة دعم.
+**الهدف النهائي:** إنتاج مذكرة تعليمية واختبار نهاية فصل دراسي واختبارين تكوينيين متكاملين، متوافقين مع الخطة التعليمية وكتاب المادة والموجهات العامة لاختبارات أصحاب الهمم، مع المحافظة التامة على قالب الاختبار الرسمي المعتمد من المدرسة، وتوفير تجربة قراءة مريحة وواضحة للطالب، مع الحفاظ على أحجام ملفات صغيرة تسهل مشاركتها ورفعها على منصة دعم.
 `:`# Daam Platform Requirements Prompt
 ## Preparing the study notes and the end-of-semester exam for students of determination (students with special needs)
 
@@ -546,7 +592,7 @@ I will attach 3 core files:
 2. **The subject textbook:** the main academic reference for preparing the content and the questions.
 3. **The approved exam template:** an official PowerPoint template that must be used as it is, without changing its design or formatting.
 
-Your task is to study the three files carefully, then prepare study notes, an end-of-semester exam, and practice exercises that simulate the exam, in full compliance with the following instructions.
+Your task is to study the three files carefully, then prepare study notes, an end-of-semester exam, practice exercises that simulate the exam, and formative exam 1 and formative exam 2, in full compliance with the following instructions.
 
 ---
 
@@ -852,6 +898,39 @@ If the space in the template is not enough to show the questions clearly, add ne
 
 If the template cannot be edited, or a technical problem prevents keeping its formatting, tell me about the problem before making any change to the design.
 
+# 8 (continued). Formative exam 1 and formative exam 2
+
+Prepare two formative exams from the same student plan, in addition to the end-of-semester exam:
+
+## Content
+
+- **Formative exam 1:** covers only the objectives and skills of the **first half** of the student's plan for the semester.
+- **Formative exam 2:** covers only the objectives and skills of the **second half** of the student's plan for the semester.
+- Split the plan's objectives, in the order they appear, into two halves of about the same size, without splitting one objective between the two exams.
+- At the start of your work, list the objectives each formative exam covers.
+- Do not reuse the end-of-semester exam questions in the formative exams; use different questions that measure the same objectives.
+
+## Number of questions and marks
+
+| Cycle | Questions in each formative exam | Marks |
+|---|---:|---:|
+| Cycle 1 (grades 1–4) | 8 | 20 |
+| Cycle 2 (grades 5–8) | 10 | 20 |
+| Cycle 3 (grades 9–12) | 10 | 20 |
+
+- The question types are the same as those set for the cycle in the end-of-semester exam.
+- Multiple choice is 75% of the mark: 15 of the 20 marks, and 5 marks for the other types set for the cycle.
+- All the question-writing rules, English numerals, and a clear mark for every question and item apply, with a total of exactly 20.
+
+## File and template
+
+- Each formative exam is a separate PowerPoint file, on a copy of **the same approved exam template**.
+- Change the cover title to "الاختبار التكويني الأول" (Formative exam 1) or "الاختبار التكويني الثاني" (Formative exam 2), and update the semester, year, subject and grade.
+- Marks table on the cover: objective part 15, written part 5, total 20.
+- The same font sizes and "Slide size" rules: question 24 pt and options 22 pt on the printed page.
+- Delete the template's unused question slides, or add slides with the same design when needed.
+- **The last slide of each formative exam: the official answer key** on a single slide, with the same specifications as the end-of-semester answer key (section 9), showing a total of 20.
+
 # 9. Preparing the official answer key
 
 Create an official answer key for the teacher as **the last slide of the exam file itself** (PowerPoint), including:
@@ -938,7 +1017,7 @@ Before delivering the files, carry out a full review that includes:
 
 # 11. The final files required
 
-I want 2 separate files delivered:
+I want 4 separate files delivered:
 
 ## File 1: The study notes
 
@@ -971,6 +1050,18 @@ I want 2 separate files delivered:
 - Matches the final version of the exam.
 - Organised, clear and easy to use.
 
+## File 3: Formative exam 1
+
+- A PowerPoint file on the approved exam template, with the cover title "الاختبار التكويني الأول" (Formative exam 1).
+- Covers the first half of the student's plan, out of 20 marks.
+- Its last slide: the official answer key.
+
+## File 4: Formative exam 2
+
+- A PowerPoint file on the approved exam template, with the cover title "الاختبار التكويني الثاني" (Formative exam 2).
+- Covers the second half of the student's plan, out of 20 marks.
+- Its last slide: the official answer key.
+
 # 12. Mandatory final instructions
 
 - Do not start work before studying the three files.
@@ -988,12 +1079,13 @@ I want 2 separate files delivered:
 - Reduce file sizes by compressing pictures and media without lowering content quality.
 - Make sure all final files are suitable for uploading to the Daam platform.
 - Make the last slide of the exam file the one-slide official answer key.
+- Prepare formative exam 1 (first half of the plan) and formative exam 2 (second half of the plan), each out of 20 marks, each ending with its answer key.
 
-**The final goal:** to produce complete study notes and an end-of-semester exam that match the teaching plan, the subject textbook and the general guidelines for exams of students of determination, while fully keeping the school's official approved exam template, giving the student a comfortable and clear reading experience, and keeping file sizes small so they are easy to share and upload to the Daam platform.
+**The final goal:** to produce complete study notes, an end-of-semester exam and two formative exams that match the teaching plan, the subject textbook and the general guidelines for exams of students of determination, while fully keeping the school's official approved exam template, giving the student a comfortable and clear reading experience, and keeping file sizes small so they are easy to share and upload to the Daam platform.
 `)},Ln=()=>In(Pn()),Rn=()=>{let e=Fn();return e?`<p class="xs mut">${p(`آخر تحديث للأمر: `,`Prompt last updated: `)}${g(e.at)} — ${m(e.by)}</p>`:``},zn=()=>`<div class="row">${K(`promptCopy`,p(`نسخ الأمر`,`Copy prompt`),{cls:`p`,ic:`copy`})}${K(`promptDl`,p(`تنزيل الأمر كملف`,`Download as a file`),{ic:`dl`})}</div>`,Bn=()=>{let e=[[`blue`,`file`,p(`الخطة التربوية الفردية`,`Individual Education Plan (IEP)`),p(`خطة الطالب للفصل الدراسي: الأهداف والمهارات المطلوب تدريسها وقياسها.`,`The student’s plan for the semester: the objectives and skills to teach and assess.`),``],[`green`,`book`,p(`كتاب المادة`,`Subject textbook`),p(`كتاب المادة للفصل الحالي، وهو المرجع لمحتوى المذكرة وأسئلة الاختبار.`,`The current semester’s textbook, the reference for the notes and the exam questions.`),``],[`amber`,`up`,p(`قالب الاختبار المعتمد`,`Approved exam template`),p(`ملف PowerPoint من «القوالب المعتمدة» في المنصة، يُستخدم كما هو دون تغيير تصميمه.`,`The PowerPoint file from “Approved templates” on the platform, used as it is without changing its design.`),K(`go`,p(`فتح القوالب المعتمدة`,`Open approved templates`),{cls:`s`,ic:`dl`,d:{view:`templates`}})]];return`<div class="card col" style="gap:10px"><h2>${p(`أرفق هذه الملفات الثلاثة مع الأمر في محادثة Claude`,`Attach these three files with the prompt in the Claude chat`)}</h2>
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:10px">${e.map(([e,t,n,r,i],a)=>`<div class="col" style="gap:6px;background:var(--${e}-b);color:var(--ink);border-radius:12px;padding:14px;border-inline-start:5px solid var(--${e})"><div class="row" style="gap:8px;color:var(--${e})"><span class="b" style="font-size:1.4rem">${a+1}</span>${E(t)}<span class="b" style="font-size:1.05rem">${n}</span></div><span class="sm">${r}</span>${i}</div>`).join(``)}</div>
   <p class="sm" style="background:var(--soft);border-radius:10px;padding:10px 12px;margin:0">${E(`print`)} <span class="b">${p(`عند طباعة الاختبار:`,`When printing the exam:`)}</span> ${p(`اختر «شرائح بملء الصفحة» وفعّل «ملاءمة للورق»، ولا تطبع أكثر من شريحة في الورقة، حتى يبقى خط السؤال 24 والبدائل 22.`,`choose “Full Page Slides” and turn on “Scale to Fit Paper”, and never print more than one slide per sheet, so questions stay 24 pt and options 22 pt.`)}</p>
-  <p class="xs mut">${p(`لا تكتب اسم الطالب أو بياناته الشخصية داخل محادثة Claude.`,`Do not type the student’s name or personal details in the Claude chat.`)}</p></div>`};B.t.prompt=()=>{let e=Pn();return`${q(`أمر متطلبات منصة دعم`,`Daam Requirements Prompt`,p(`انسخ الأمر والصقه في محادثة جديدة مع Claude، وأرفق معه الملفات الثلاثة التالية. سيُعدّ لك Claude المذكرة التعليمية واختبار نهاية الفصل ونموذج الإجابة.`,`Copy the prompt into a new chat with Claude and attach the three files below. Claude will prepare the study notes, the end-of-semester exam and the answer key.`))}
+  <p class="xs mut">${p(`لا تكتب اسم الطالب أو بياناته الشخصية داخل محادثة Claude.`,`Do not type the student’s name or personal details in the Claude chat.`)}</p></div>`};B.t.prompt=()=>{let e=Pn();return`${q(`أمر متطلبات منصة دعم`,`Daam Requirements Prompt`,p(`انسخ الأمر والصقه في محادثة جديدة مع Claude، وأرفق معه الملفات الثلاثة التالية. سيُعدّ لك Claude المذكرة التعليمية واختبار نهاية الفصل والاختبارين التكوينيين الأول والثاني، وفي آخر كل اختبار نموذج إجابته.`,`Copy the prompt into a new chat with Claude and attach the three files below. Claude will prepare the study notes, the end-of-semester exam and formative exams 1 and 2, each exam ending with its answer key.`))}
   ${Bn()}
   <div class="row sp"><div class="row"><span class="sm mut">${p(`لغة الأمر:`,`Prompt language:`)}</span>${[[`ar`,`العربية`],[`en`,`English`]].map(([t,n])=>`<button class="chk ${e===t?`on`:``}" data-act="setv" data-k="plang" data-val="${t}">${n}</button>`).join(``)}</div>${zn()}</div>
   ${Rn()}<div class="card"><pre class="prompt" dir="${e===`ar`?`rtl`:`ltr`}" lang="${e}">${m(Ln())}</pre></div>
@@ -1013,7 +1105,7 @@ I want 2 separate files delivered:
 2. **كتاب المادة الدراسية:** وهو المرجع العلمي الأساسي لإعداد المحتوى والأسئلة.
 3. **قالب الاختبار المعتمد:** وهو قالب رسمي بصيغة PowerPoint، ويجب استخدامه كما هو دون تغيير تصميمه أو تنسيقه.
 
-مهمتك هي دراسة الملفات الثلاثة بعناية، ثم إعداد مذكرة تعليمية واختبار نهاية الفصل الدراسي وتدريبات تحاكي الاختبار، مع الالتزام الكامل بالتعليمات التالية.
+مهمتك هي دراسة الملفات الثلاثة بعناية، ثم إعداد مذكرة تعليمية واختبار نهاية الفصل الدراسي وتدريبات تحاكي الاختبار، والاختبار التكويني الأول والاختبار التكويني الثاني، مع الالتزام الكامل بالتعليمات التالية.
 
 ---
 
@@ -1319,6 +1411,39 @@ I want 2 separate files delivered:
 
 إذا كان القالب غير قابل للتحرير أو ظهرت مشكلة تقنية تمنع الحفاظ على تنسيقه، أخبرني بالمشكلة قبل إجراء أي تغيير على التصميم.
 
+# ثامناً مكرر: الاختبار التكويني الأول والاختبار التكويني الثاني
+
+أعدّ اختبارين تكوينيين من خطة الطالب نفسها، إضافة إلى اختبار نهاية الفصل:
+
+## المحتوى
+
+- **الاختبار التكويني الأول:** يغطي أهداف ومهارات **النصف الأول** من خطة الطالب للفصل الدراسي فقط.
+- **الاختبار التكويني الثاني:** يغطي أهداف ومهارات **النصف الثاني** من خطة الطالب للفصل الدراسي فقط.
+- قسّم أهداف الخطة بالترتيب الوارد فيها إلى نصفين متقاربين في العدد، دون تقسيم الهدف الواحد بين الاختبارين.
+- اذكر في بداية عملك قائمة الأهداف التي يغطيها كل اختبار تكويني.
+- لا تكرر في الاختبارين التكوينيين أسئلة اختبار نهاية الفصل نفسها؛ استخدم أسئلة مختلفة تقيس الأهداف نفسها.
+
+## عدد الأسئلة والدرجات
+
+| الحلقة | عدد الأسئلة في كل اختبار تكويني | الدرجة |
+|---|---:|---:|
+| الحلقة الأولى (الصفوف 1–4) | 8 | 20 |
+| الحلقة الثانية (الصفوف 5–8) | 10 | 20 |
+| الحلقة الثالثة (الصفوف 9–12) | 10 | 20 |
+
+- أنواع الأسئلة هي نفسها المقررة للحلقة في اختبار نهاية الفصل.
+- الاختيار من متعدد 75% من الدرجة: 15 درجة من 20، و5 درجات لبقية الأنواع المقررة للحلقة.
+- تنطبق جميع ضوابط صياغة الأسئلة، والأرقام الإنجليزية، وتوزيع الدرجات بوضوح لكل سؤال ومفردة، مع جعل المجموع 20 بالضبط.
+
+## الملف والقالب
+
+- كل اختبار تكويني في ملف PowerPoint مستقل، على نسخة من **قالب الاختبار المعتمد نفسه**.
+- غيّر عنوان الغلاف إلى «الاختبار التكويني الأول» أو «الاختبار التكويني الثاني»، وعدّل الفصل الدراسي والعام والمادة والصف.
+- جدول الدرجات في الغلاف: الجزء الموضوعي 15، والجزء المقالي 5، والمجموع 20.
+- نفس أحجام الخط وقواعد «حجم الشريحة»: السؤال 24 نقطة والبدائل 22 نقطة على الورقة المطبوعة.
+- احذف شرائح الأسئلة الزائدة غير المستخدمة من القالب، أو أضف شرائح بنفس التصميم عند الحاجة.
+- **الشريحة الأخيرة في كل اختبار تكويني: نموذج الإجابة الرسمي** في شريحة واحدة، بنفس مواصفات نموذج إجابة اختبار نهاية الفصل (البند التاسع)، مع كتابة الدرجة الكلية 20.
+
 # تاسعاً: إعداد نموذج الإجابة الرسمي
 
 أنشئ نموذج إجابة رسمياً خاصاً بالمعلم، ويكون **الشريحة الأخيرة في ملف الاختبار نفسه** (PowerPoint)، ويتضمن:
@@ -1405,7 +1530,7 @@ I want 2 separate files delivered:
 
 # الحادي عشر: الملفات النهائية المطلوبة
 
-أريد تسليم ملفين منفصلين:
+أريد تسليم 4 ملفات منفصلة:
 
 ## الملف الأول: المذكرة التعليمية
 
@@ -1438,6 +1563,18 @@ I want 2 separate files delivered:
 - متطابق مع نسخة الاختبار النهائية.
 - منظم وواضح وسهل الاستخدام.
 
+## الملف الثالث: الاختبار التكويني الأول
+
+- بصيغة PowerPoint على قالب الاختبار المعتمد، وعنوان غلافه «الاختبار التكويني الأول».
+- يغطي النصف الأول من خطة الطالب، من 20 درجة.
+- الشريحة الأخيرة فيه: نموذج الإجابة الرسمي.
+
+## الملف الرابع: الاختبار التكويني الثاني
+
+- بصيغة PowerPoint على قالب الاختبار المعتمد، وعنوان غلافه «الاختبار التكويني الثاني».
+- يغطي النصف الثاني من خطة الطالب، من 20 درجة.
+- الشريحة الأخيرة فيه: نموذج الإجابة الرسمي.
+
 # الثاني عشر: تعليمات ختامية إلزامية
 
 - لا تبدأ العمل قبل دراسة الملفات الثلاثة.
@@ -1455,8 +1592,9 @@ I want 2 separate files delivered:
 - قلل حجم الملفات باستخدام ضغط الصور والوسائط دون التأثير على جودة المحتوى.
 - تأكد من أن جميع الملفات النهائية مناسبة للرفع على منصة دعم.
 - اجعل آخر شريحة في ملف الاختبار نموذج الإجابة الرسمي في شريحة واحدة.
+- أعدّ الاختبار التكويني الأول (النصف الأول من الخطة) والاختبار التكويني الثاني (النصف الثاني من الخطة)، كلٌّ من 20 درجة، وفي آخر كل منهما نموذج إجابته.
 
-**الهدف النهائي:** إنتاج مذكرة تعليمية واختبار نهاية فصل دراسي متكاملين، متوافقين مع الخطة التعليمية وكتاب المادة والموجهات العامة لاختبارات أصحاب الهمم، مع المحافظة التامة على قالب الاختبار الرسمي المعتمد من المدرسة، وتوفير تجربة قراءة مريحة وواضحة للطالب، مع الحفاظ على أحجام ملفات صغيرة تسهل مشاركتها ورفعها على منصة دعم.`?``:t,en:n===`# Daam Platform Requirements Prompt
+**الهدف النهائي:** إنتاج مذكرة تعليمية واختبار نهاية فصل دراسي واختبارين تكوينيين متكاملين، متوافقين مع الخطة التعليمية وكتاب المادة والموجهات العامة لاختبارات أصحاب الهمم، مع المحافظة التامة على قالب الاختبار الرسمي المعتمد من المدرسة، وتوفير تجربة قراءة مريحة وواضحة للطالب، مع الحفاظ على أحجام ملفات صغيرة تسهل مشاركتها ورفعها على منصة دعم.`?``:t,en:n===`# Daam Platform Requirements Prompt
 ## Preparing the study notes and the end-of-semester exam for students of determination (students with special needs)
 
 You are a specialist in special education, curriculum development, and the design of school study notes and exams for students of determination, following the curricula and guidelines approved by the Ministry of Education of the United Arab Emirates.
@@ -1467,7 +1605,7 @@ I will attach 3 core files:
 2. **The subject textbook:** the main academic reference for preparing the content and the questions.
 3. **The approved exam template:** an official PowerPoint template that must be used as it is, without changing its design or formatting.
 
-Your task is to study the three files carefully, then prepare study notes, an end-of-semester exam, and practice exercises that simulate the exam, in full compliance with the following instructions.
+Your task is to study the three files carefully, then prepare study notes, an end-of-semester exam, practice exercises that simulate the exam, and formative exam 1 and formative exam 2, in full compliance with the following instructions.
 
 ---
 
@@ -1773,6 +1911,39 @@ If the space in the template is not enough to show the questions clearly, add ne
 
 If the template cannot be edited, or a technical problem prevents keeping its formatting, tell me about the problem before making any change to the design.
 
+# 8 (continued). Formative exam 1 and formative exam 2
+
+Prepare two formative exams from the same student plan, in addition to the end-of-semester exam:
+
+## Content
+
+- **Formative exam 1:** covers only the objectives and skills of the **first half** of the student's plan for the semester.
+- **Formative exam 2:** covers only the objectives and skills of the **second half** of the student's plan for the semester.
+- Split the plan's objectives, in the order they appear, into two halves of about the same size, without splitting one objective between the two exams.
+- At the start of your work, list the objectives each formative exam covers.
+- Do not reuse the end-of-semester exam questions in the formative exams; use different questions that measure the same objectives.
+
+## Number of questions and marks
+
+| Cycle | Questions in each formative exam | Marks |
+|---|---:|---:|
+| Cycle 1 (grades 1–4) | 8 | 20 |
+| Cycle 2 (grades 5–8) | 10 | 20 |
+| Cycle 3 (grades 9–12) | 10 | 20 |
+
+- The question types are the same as those set for the cycle in the end-of-semester exam.
+- Multiple choice is 75% of the mark: 15 of the 20 marks, and 5 marks for the other types set for the cycle.
+- All the question-writing rules, English numerals, and a clear mark for every question and item apply, with a total of exactly 20.
+
+## File and template
+
+- Each formative exam is a separate PowerPoint file, on a copy of **the same approved exam template**.
+- Change the cover title to "الاختبار التكويني الأول" (Formative exam 1) or "الاختبار التكويني الثاني" (Formative exam 2), and update the semester, year, subject and grade.
+- Marks table on the cover: objective part 15, written part 5, total 20.
+- The same font sizes and "Slide size" rules: question 24 pt and options 22 pt on the printed page.
+- Delete the template's unused question slides, or add slides with the same design when needed.
+- **The last slide of each formative exam: the official answer key** on a single slide, with the same specifications as the end-of-semester answer key (section 9), showing a total of 20.
+
 # 9. Preparing the official answer key
 
 Create an official answer key for the teacher as **the last slide of the exam file itself** (PowerPoint), including:
@@ -1859,7 +2030,7 @@ Before delivering the files, carry out a full review that includes:
 
 # 11. The final files required
 
-I want 2 separate files delivered:
+I want 4 separate files delivered:
 
 ## File 1: The study notes
 
@@ -1892,6 +2063,18 @@ I want 2 separate files delivered:
 - Matches the final version of the exam.
 - Organised, clear and easy to use.
 
+## File 3: Formative exam 1
+
+- A PowerPoint file on the approved exam template, with the cover title "الاختبار التكويني الأول" (Formative exam 1).
+- Covers the first half of the student's plan, out of 20 marks.
+- Its last slide: the official answer key.
+
+## File 4: Formative exam 2
+
+- A PowerPoint file on the approved exam template, with the cover title "الاختبار التكويني الثاني" (Formative exam 2).
+- Covers the second half of the student's plan, out of 20 marks.
+- Its last slide: the official answer key.
+
 # 12. Mandatory final instructions
 
 - Do not start work before studying the three files.
@@ -1909,8 +2092,9 @@ I want 2 separate files delivered:
 - Reduce file sizes by compressing pictures and media without lowering content quality.
 - Make sure all final files are suitable for uploading to the Daam platform.
 - Make the last slide of the exam file the one-slide official answer key.
+- Prepare formative exam 1 (first half of the plan) and formative exam 2 (second half of the plan), each out of 20 marks, each ending with its answer key.
 
-**The final goal:** to produce complete study notes and an end-of-semester exam that match the teaching plan, the subject textbook and the general guidelines for exams of students of determination, while fully keeping the school's official approved exam template, giving the student a comfortable and clear reading experience, and keeping file sizes small so they are easy to share and upload to the Daam platform.`?``:n}),k.pe={},J(`تم حفظ الأمر، ويظهر الآن للمعلمين.`,`Prompt saved; teachers now see it.`),$()},p(`نشر`,`Publish`))},z.promptUndo=()=>{k.pe={},$()},z.promptReset=()=>Q(p(`استعادة الأمر الأصلي للمنصة وحذف التعديلات المحفوظة؟ سيظهر الأمر الأصلي للمعلمين.`,`Restore the platform’s original prompt and remove the saved changes? Teachers will see the original prompt.`),async()=>{await L(`promptSet`,{ar:``,en:``}),k.pe={},J(`تمت استعادة الأمر الأصلي.`,`The original prompt was restored.`),$()},p(`استعادة`,`Restore`)),z.promptCopy=async()=>{let e=Ln(),t=()=>J(`تم نسخ الأمر. الصقه في محادثة جديدة مع Claude وأرفق الملفات الثلاثة.`,`Prompt copied. Paste it into a new chat with Claude and attach the three files.`);try{return await navigator.clipboard.writeText(e),t()}catch{}let n=document.createElement(`textarea`);n.value=e,n.setAttribute(`readonly`,``),n.style.cssText=`position:fixed;top:0;opacity:0`,document.body.appendChild(n),n.select();let r=!1;try{r=document.execCommand(`copy`)}catch{r=!1}n.remove(),r?t():Y(`تعذّر النسخ تلقائيًا. حدّد النص وانسخه يدويًا.`,`Could not copy automatically. Select the text and copy it manually.`)},z.promptDl=()=>Ue(Pn()===`ar`?`أمر-متطلبات-منصة-دعم.md`:`daam-requirements-prompt.md`,new Blob([`﻿`+Ln()],{type:`text/markdown;charset=utf-8`}));let Vn=[`home`,`memos`,`upload`,`log`,`sched`,`support`,`templates`,`prompt`,`report`];Ht.t.sort((e,t)=>Vn.indexOf(e[0])-Vn.indexOf(t[0])),B.t.report=()=>{let e=j(),t=t=>t>=e.slice(0,4)+`-08-01`&&t<e.slice(5)+`-08-01`,n=[...D.requests.values()].filter(e=>e.teacher===O.name&&t(e.at)),r=Qt(e),i=Zt(e),a=[];[...D.memos.values()].filter(t=>t.year===e).forEach(e=>e.versions.forEach(t=>{t.teacher===O.name&&a.push({m:e,v:t})}));let o={rq:p(`طلب دعم فوري`,`Instant support request`),ex:p(`اختبار نهاية فصل مرفوع`,`Final exam uploaded`),sc:p(`جدولة اختبار تكويني`,`Formative exam schedule`),mm:p(`مذكرة مراجعة مرفوعة`,`Review notes uploaded`)},s=[...n.map(e=>[e.at,[o.rq,`${w(C,e.type)} — ${P(e.studentId)}`,h(e.at),w(pe,gt(e))]]),...r.map(e=>[e.at,[o.ex,`${v(e.subject)} — ${b(e.sem)} — ${F(e)}`,h(e.at),w(S,R(e))]]),...i.map(e=>[e.at,[o.sc,`${x(e.type)} — ${v(e.subject)} — ${b(e.sem)} — ${y(e.grade,e.section)} — ${h(e.date)}`,h(e.at),w(fe,ht(e))]]),...a.map(({m:e,v:t})=>[t.at,[o.mm,`${v(e.subject)} — ${P(e.studentId)}`,h(t.at),(D.mrev.get(e.id)||{}).approved?p(`معتمدة`,`Approved`):p(`تم الرفع`,`Uploaded`)]])].sort((e,t)=>e[0]<t[0]?1:-1).map(e=>e[1]);return k.rep={title:p(`تقرير المعلم: `,`Teacher report: `)+O.name+` — `+e,sum:[[p(`طلبات الدعم الفوري`,`Instant support requests`),n.length],[p(`اختبارات رفعتها`,`Exams uploaded`),r.length],[p(`اختبارات جدولتها`,`Exams scheduled`),i.length],[p(`مذكرات رفعتها`,`Notes uploaded`),a.length]],head:[p(`النوع`,`Type`),p(`التفاصيل`,`Details`),p(`التاريخ`,`Date`),p(`الحالة`,`Status`)],rows:s},`${q(`تقريري`,`My Report`,p(`ملخص ما قدمته على المنصة خلال العام الدراسي، جاهز للتنزيل والطباعة.`,`A summary of what you did on the platform this academic year, ready to download and print.`))}${Ot()}${Dn()}${Wn(k.rep)}`},Ht.s.splice(7,0,[`myrep`,`award`,`تقرير إنجازي`,`My Achievement Report`]),B.s.myrep=()=>{let e=[...D.alog.values()],t=[...new Set([O.name,...e.map(e=>e.by)])].sort(),n=V(`q_who`,O.name),r=V(`q_from`),i=V(`q_to`),a=V(`q_cat`),o=e.filter(e=>(n===`all`||e.by===n)&&(!r||e.at.slice(0,10)>=r)&&(!i||e.at.slice(0,10)<=i)&&(!a||wn[e.type]===a)).sort((e,t)=>e.at<t.at?1:-1),s=e=>o.filter(t=>wn[t.type]===e).length;return k.rep={title:p(`تقرير إنجاز معلم التربية الخاصة: `,`Special education teacher achievement report: `)+(n===`all`?p(`جميع المعلمين`,`All teachers`):n)+(r||i?` (${r?h(r):`…`} — ${i?h(i):`…`})`:``),sum:[[p(`إجمالي الإجراءات`,`Total actions`),o.length],...Object.keys(Cn).map(e=>[p(Cn[e][0],Cn[e][1]),s(e)]).filter(e=>e[1]||!a)],head:[p(`التاريخ والوقت`,`Date and time`),p(`المعلم`,`Teacher`),p(`المجال`,`Area`),p(`الإجراء`,`Action`)],rows:o.map(e=>[g(e.at),e.by,p(Cn[wn[e.type]][0],Cn[wn[e.type]][1]),Tn(e)])},`${q(`تقرير إنجازي`,`My Achievement Report`,p(`كل إجراء يُسجَّل باسم من قام به، فتقرير كل معلم مستقل عن الآخر. يبدأ التسجيل من تاريخ إضافة هذه الخاصية.`,`Every action is recorded under the name of the person who did it, so each teacher’s report is separate. Recording starts from the date this feature was added.`))}
+**The final goal:** to produce complete study notes, an end-of-semester exam and two formative exams that match the teaching plan, the subject textbook and the general guidelines for exams of students of determination, while fully keeping the school's official approved exam template, giving the student a comfortable and clear reading experience, and keeping file sizes small so they are easy to share and upload to the Daam platform.`?``:n}),k.pe={},J(`تم حفظ الأمر، ويظهر الآن للمعلمين.`,`Prompt saved; teachers now see it.`),$()},p(`نشر`,`Publish`))},z.promptUndo=()=>{k.pe={},$()},z.promptReset=()=>Q(p(`استعادة الأمر الأصلي للمنصة وحذف التعديلات المحفوظة؟ سيظهر الأمر الأصلي للمعلمين.`,`Restore the platform’s original prompt and remove the saved changes? Teachers will see the original prompt.`),async()=>{await L(`promptSet`,{ar:``,en:``}),k.pe={},J(`تمت استعادة الأمر الأصلي.`,`The original prompt was restored.`),$()},p(`استعادة`,`Restore`)),z.promptCopy=async()=>{let e=Ln(),t=()=>J(`تم نسخ الأمر. الصقه في محادثة جديدة مع Claude وأرفق الملفات الثلاثة.`,`Prompt copied. Paste it into a new chat with Claude and attach the three files.`);try{return await navigator.clipboard.writeText(e),t()}catch{}let n=document.createElement(`textarea`);n.value=e,n.setAttribute(`readonly`,``),n.style.cssText=`position:fixed;top:0;opacity:0`,document.body.appendChild(n),n.select();let r=!1;try{r=document.execCommand(`copy`)}catch{r=!1}n.remove(),r?t():Y(`تعذّر النسخ تلقائيًا. حدّد النص وانسخه يدويًا.`,`Could not copy automatically. Select the text and copy it manually.`)},z.promptDl=()=>Ue(Pn()===`ar`?`أمر-متطلبات-منصة-دعم.md`:`daam-requirements-prompt.md`,new Blob([`﻿`+Ln()],{type:`text/markdown;charset=utf-8`}));let Vn=[`home`,`memos`,`upload`,`log`,`sched`,`support`,`templates`,`prompt`,`report`];Ht.t.sort((e,t)=>Vn.indexOf(e[0])-Vn.indexOf(t[0])),B.t.report=()=>{let e=j(),t=t=>t>=e.slice(0,4)+`-08-01`&&t<e.slice(5)+`-08-01`,n=[...D.requests.values()].filter(e=>e.teacher===O.name&&t(e.at)),r=Qt(e),i=Zt(e),a=[];[...D.memos.values()].filter(t=>t.year===e).forEach(e=>e.versions.forEach(t=>{t.teacher===O.name&&a.push({m:e,v:t})}));let o={rq:p(`طلب دعم فوري`,`Instant support request`),ex:p(`اختبار نهاية فصل مرفوع`,`Final exam uploaded`),sc:p(`جدولة اختبار تكويني`,`Formative exam schedule`),mm:p(`مذكرة مراجعة مرفوعة`,`Review notes uploaded`)},s=[...n.map(e=>[e.at,[o.rq,`${w(C,e.type)} — ${P(e.studentId)}`,h(e.at),w(pe,gt(e))]]),...r.map(e=>[e.at,[o.ex,`${v(e.subject)} — ${b(e.sem)} — ${F(e)}`,h(e.at),w(S,R(e))]]),...i.map(e=>[e.at,[o.sc,`${x(e.type)} — ${v(e.subject)} — ${b(e.sem)} — ${y(e.grade,e.section)} — ${h(e.date)}`,h(e.at),w(fe,ht(e))]]),...a.map(({m:e,v:t})=>[t.at,[o.mm,`${v(e.subject)} — ${P(e.studentId)}`,h(t.at),(D.mrev.get(e.id)||{}).approved?p(`معتمدة`,`Approved`):p(`تم الرفع`,`Uploaded`)]])].sort((e,t)=>e[0]<t[0]?1:-1).map(e=>e[1]);return k.rep={title:p(`تقرير المعلم: `,`Teacher report: `)+O.name+` — `+e,sum:[[p(`طلبات الدعم الفوري`,`Instant support requests`),n.length],[p(`اختبارات رفعتها`,`Exams uploaded`),r.length],[p(`اختبارات جدولتها`,`Exams scheduled`),i.length],[p(`مذكرات رفعتها`,`Notes uploaded`),a.length]],head:[p(`النوع`,`Type`),p(`التفاصيل`,`Details`),p(`التاريخ`,`Date`),p(`الحالة`,`Status`)],rows:s},`${q(`تقريري`,`My Report`,p(`ملخص ما قدمته على المنصة خلال العام الدراسي، جاهز للتنزيل والطباعة.`,`A summary of what you did on the platform this academic year, ready to download and print.`))}${Ot()}${Dn()}${Wn(k.rep)}`},Ht.s.splice(7,0,[`myrep`,`award`,`تقرير إنجازي`,`My Achievement Report`]),B.s.myrep=()=>{let e=[...D.alog.values()],t=[...new Set([O.name,...e.map(e=>e.by)])].sort(),n=V(`q_who`,O.name),r=V(`q_from`),i=V(`q_to`),a=V(`q_cat`),o=e.filter(e=>(n===`all`||e.by===n)&&(!r||e.at.slice(0,10)>=r)&&(!i||e.at.slice(0,10)<=i)&&(!a||wn[e.type]===a)).sort((e,t)=>e.at<t.at?1:-1),s=e=>o.filter(t=>wn[t.type]===e).length;return k.rep={title:p(`تقرير إنجاز معلم التربية الخاصة: `,`Special education teacher achievement report: `)+(n===`all`?p(`جميع المعلمين`,`All teachers`):n)+(r||i?` (${r?h(r):`…`} — ${i?h(i):`…`})`:``),sum:[[p(`إجمالي الإجراءات`,`Total actions`),o.length],...Object.keys(Cn).map(e=>[p(Cn[e][0],Cn[e][1]),s(e)]).filter(e=>e[1]||!a)],head:[p(`التاريخ والوقت`,`Date and time`),p(`المعلم`,`Teacher`),p(`المجال`,`Area`),p(`الإجراء`,`Action`)],rows:o.map(e=>[g(e.at),e.by,p(Cn[wn[e.type]][0],Cn[wn[e.type]][1]),Tn(e)])},`${q(`تقرير إنجازي`,`My Achievement Report`,p(`كل إجراء يُسجَّل باسم من قام به، فتقرير كل معلم مستقل عن الآخر. يبدأ التسجيل من تاريخ إضافة هذه الخاصية.`,`Every action is recorded under the name of the person who did it, so each teacher’s report is separate. Recording starts from the date this feature was added.`))}
   <div class="card"><div class="fg" style="grid-template-columns:repeat(auto-fit,minmax(160px,1fr))">${U(p(`المعلم`,`Teacher`),`<select data-f="q_who" data-re="1">${t.map(e=>H(e,e===O.name?e+p(` (أنا)`,` (me)`):e,n)).join(``)}${H(`all`,p(`جميع معلمي التربية الخاصة`,`All special education teachers`),n)}</select>`)}${U(p(`من تاريخ`,`From`),`<input type="date" data-f="q_from" data-re="1" value="${m(r)}">`)}${U(p(`إلى تاريخ`,`To`),`<input type="date" data-f="q_to" data-re="1" value="${m(i)}">`)}${U(p(`المجال`,`Area`),wt(`q_cat`,Object.keys(Cn).map(e=>[e,p(Cn[e][0],Cn[e][1])]),{ph:p(`كل المجالات`,`All areas`),re:1}))}</div></div>
   ${Dn()}${Wn(k.rep)}`};let Hn=[[`r1`,`الاختبارات المستلمة`,`Received exams`],[`r2`,`الاختبارات غير المستلمة`,`Not received`],[`r3`,`الاختبارات قيد التعديل`,`Under revision`],[`r4`,`الجاهزة للتسليم للشؤون الأكاديمية`,`Ready for Academic Affairs`],[`r5`,`ملخص متطلبات كل طالب`,`Requirements per student`]];function Un(e){let t=V(`q_year`,j()),n=e=>V(`q_`+e),r=n(`sem`)?[+n(`sem`)]:[1,2,3],i=N().filter(e=>(!n(`student`)||e.id===n(`student`))&&(!n(`grade`)||+e.grade==+n(`grade`))&&(!n(`section`)||+e.section==+n(`section`))),a=e=>pt(e).map(e=>e.name).join(`، `)||`—`,o={t:p(`المعلم`,`Teacher`),st:p(`الطلاب المرتبطون`,`Linked students`),sj:p(`المادة`,`Subject`),cl:p(`الصف والشعبة`,`Class`),sm:p(`الفصل الدراسي`,`Semester`),s:p(`الحالة`,`Status`)};if(e===`r1`){let e=bn(),t=0;return e.forEach(e=>t+=pt(e).length),{title:p(`تقرير الاختبارات المستلمة`,`Received exams report`),sum:[[p(`ملفات اختبارات مستلمة`,`Exam files received`),e.length],[p(`متطلبات طلاب استوفيت`,`Student requirements met`),t],[p(`معلمون سلّموا`,`Teachers who submitted`),new Set(e.map(e=>e.teacher)).size]],head:[o.t,p(`الطلاب الذين استوفيت متطلباتهم`,`Students whose requirement is met`),o.sj,o.cl,o.sm,p(`تاريخ الرفع`,`Uploaded`),o.s],rows:e.map(e=>[e.teacher,a(e),v(e.subject),F(e),b(e.sem),h(st(e).at),w(S,R(e))])}}if(e===`r2`){let e=[],a=new Set;return r.forEach(r=>i.forEach(i=>ft(i,t,r).items.forEach(o=>{let s=mt(i,o.subject,t,r);!o.exam&&(!n(`subject`)||o.subject===n(`subject`))&&(!n(`teacher`)||s===n(`teacher`))&&(a.add(i.id),e.push([i.name,y(i.grade,i.section),v(o.subject),s||p(`غير محدد`,`Not set`),b(r)]))}))),{title:p(`تقرير الاختبارات غير المستلمة`,`Not received exams report`),sum:[[p(`اختبارات مطلوبة لم تُستلم`,`Required exams not received`),e.length],[p(`طلاب لديهم اختبارات غير مستلمة`,`Students with exams outstanding`),a.size]],head:[p(`الطالب`,`Student`),o.cl,p(`المادة التي لم يُرفع اختبارها`,`Subject with no exam uploaded`),p(`المعلم المسؤول عن التسليم`,`Teacher responsible`),o.sm],rows:e}}if(e===`r3`){let e=bn(`revision`);return{title:p(`تقرير الاختبارات قيد التعديل`,`Exams under revision report`),sum:[[p(`اختبارات تحتاج إلى تعديل`,`Exams needing revision`),e.length],[p(`أُعيد رفعها`,`Re-uploaded`),e.filter(e=>R(e)===`resub`).length]],head:[o.t,o.st,o.sj,o.cl,p(`ملاحظات التعديل المطلوبة`,`Requested changes`),p(`تاريخ طلب التعديل`,`Revision requested`),p(`هل أعاد المعلم الرفع؟`,`Re-uploaded by teacher?`)],rows:e.map(e=>{let t=D.xrev.get(e.id)||{};return[e.teacher,a(e),v(e.subject),F(e),t.comment||`—`,h(t.revAt||t.at),R(e)===`resub`?p(`نعم`,`Yes`):p(`لا`,`No`)]})}}if(e===`r4`){let e=bn(`ready`);return{title:p(`تقرير الاختبارات الجاهزة للتسليم للشؤون الأكاديمية`,`Exams ready for Academic Affairs report`),sum:[[p(`اختبارات جاهزة`,`Exams ready`),e.length]],head:[o.t,o.st,o.sj,o.cl,o.sm,p(`تاريخ انتهاء المراجعة`,`Review completed`)],rows:e.map(e=>[e.teacher,a(e),v(e.subject),F(e),b(e.sem),h((D.xrev.get(e.id)||{}).readyAt)])}}let s=[],c=0,l=0,u=0;return r.forEach(e=>i.forEach(r=>{let i=ft(r,t,e);(i.required||n(`sem`)!==``)&&(c+=i.required,l+=i.ready,u+=i.uploaded,s.push([r.name,y(r.grade,r.section),b(e),i.subs.map(v).join(`، `)||`—`,i.required,i.uploaded,i.awaiting+i.received,i.review,i.revision,i.ready,i.remaining,i.pct+`%`]))})),{title:p(`ملخص متطلبات الاختبارات لكل طالب`,`Exam requirements summary per student`),sum:[[p(`إجمالي المطلوب`,`Total required`),c],[p(`المرفوع`,`Uploaded`),u],[p(`الجاهز للتسليم`,`Ready`),l],[p(`نسبة الإنجاز (الجاهز ÷ المطلوب)`,`Completion (ready ÷ required)`),(c?Math.round(l/c*100):0)+`%`]],head:[p(`الطالب`,`Student`),o.cl,o.sm,p(`المواد المطلوبة`,`Required subjects`),p(`المطلوب`,`Required`),p(`المرفوع`,`Uploaded`),p(`المستلم`,`Received`),p(`قيد المراجعة`,`Under review`),p(`يحتاج تعديل`,`Needs revision`),p(`جاهز للتسليم`,`Ready`),p(`غير المستلم`,`Not received`),p(`نسبة الإنجاز`,`Completion`)],rows:s}}B.s.reports=()=>{let e=k.tab||`r1`,t=Un(e);return k.rep=t,`${q(`تقارير متابعة الاختبارات | Exam Tracking Reports`,`Exam Tracking Reports | تقارير متابعة الاختبارات`,p(`المطلوب يُحسب من قائمة متطلبات الطلاب، والمستلم من الملفات المرفوعة فعليًا. الملف الواحد يُعد مرة واحدة ولو غطى عدة طلاب.`,`Required counts come from the student requirements list; received counts come from files actually uploaded. One file is counted once even when it covers several students.`))}
   <div class="tabs">${Hn.map(([t,n,r])=>`<button class="tab ${e===t?`on`:``}" data-act="setv" data-k="tab" data-val="${t}">${m(p(n,r))}</button>`).join(``)}</div>
